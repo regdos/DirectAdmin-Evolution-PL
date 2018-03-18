@@ -1,0 +1,8 @@
+1=8
+2=-- cokolwiek --
+3=Został wykryty atak Brute-Force Attack w logu serwisu
+4=jest obecnie wyłączony
+5=Twoje kopie zapasowe są gotowe
+6=Wystąpił błąd podczas tworzenia kopii zapasowej
+7=listy e-mail zostały właśnie wysłąne przez
+8=Uwaga: średnie obciążenie (load average) wynosi
