@@ -156,7 +156,7 @@ msgstr "# bazy danych MySQL"
 
 #: src/js/pages/admin/stats.vue:92
 msgid "# of Resellers"
-msgstr "# Resellerów"
+msgstr "# Resellerzy"
 
 #: src/js/pages/user/stats/index.vue:46 src/js/pages/user/stats/index.vue:71
 msgid "# of Subdomains"
@@ -542,11 +542,11 @@ msgstr ""
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:24
 #: src/js/pages/user/domains/ips.vue:16
 msgid "Add IP"
-msgstr ""
+msgstr "Dodaj adres IP"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:3
 msgid "Add IP Address"
-msgstr ""
+msgstr "Dodaj adres IP"
 
 #: src/js/pages/user/mimetypes/index.vue:13
 msgid "Add MimeType"
@@ -575,7 +575,7 @@ msgstr ""
 
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:39
 msgid "Add New IP"
-msgstr ""
+msgstr "Dodaj nowy adres IP"
 
 #: src/js/pages/user/mimetypes/index.vue:44
 msgid "Add New MimeType"
@@ -601,15 +601,15 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/all-users.vue:47
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:63
 msgid "Add new User"
-msgstr ""
+msgstr "Dodaj nowego Użytkownika"
 
 #: src/js/modules/navigation/reseller.js:14
 msgid "Add New User"
-msgstr ""
+msgstr "Dodaj nowego Użytkownika"
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:7
 msgid "Add New Widget"
-msgstr ""
+msgstr "Dodaj nowy widżet"
 
 #: src/js/pages/user/security-questions.vue:15
 msgid ""
@@ -696,7 +696,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:27
 #: src/js/pages/user/dashboard/index.vue:62
 msgid "Add Widget"
-msgstr ""
+msgstr "Dodaj widżet"
 
 #: src/js/pages/admin/ip-manager/details.vue:77
 #: src/js/pages/admin/ip-manager/details.vue:87
@@ -754,7 +754,7 @@ msgstr "Ustawienia administracyjne"
 
 #: src/js/modules/widgets.js:54
 msgid "Admin Stats"
-msgstr ""
+msgstr "Statystyki"
 
 #: src/js/modules/navigation/admin.js:93
 msgid "Admin Tools"
@@ -805,7 +805,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:60
 msgid "All Accounts on the Server"
-msgstr ""
+msgstr "Wszystkie konta na serwerze"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:53
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:49
@@ -841,7 +841,7 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:55
 #: src/js/pages/reseller/backups/schedule.vue:34 src/js/modules/widgets.js:59
 msgid "All Users"
-msgstr ""
+msgstr "Wszyscy Użytkownicy"
 
 #: src/js/pages/admin/backups/modify.vue:41
 #: src/js/pages/admin/backups/schedule.vue:41
@@ -1070,7 +1070,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:73
 msgid "Are you sure you want to reboot server?"
-msgstr ""
+msgstr "Czy na pewno chcesz ponownie uruchomić serwer?"
 
 #: src/js/pages/admin/brute-force-monitor/skip_list.vue:46
 msgid "Are you sure you want to remove selected elements from skip list?"
@@ -1253,11 +1253,11 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:238
 msgid "Available"
-msgstr ""
+msgstr "Dostępne"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:36
 msgid "Available Memory"
-msgstr ""
+msgstr "Dostępna pamięć"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:21
@@ -1475,7 +1475,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:39
 msgid "Bounce"
-msgstr ""
+msgstr "Odbij"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:1
 #: src/js/modules/navigation/admin.js:105
@@ -1504,7 +1504,7 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:45
 msgid "Cached Swap Memory"
-msgstr ""
+msgstr "Cache pamięci SWAP"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:23
@@ -1735,7 +1735,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:33
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:26
 msgid "Client ID"
-msgstr ""
+msgstr "ID klienta"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:36
@@ -1756,7 +1756,7 @@ msgstr ""
 #: src/js/components/local/filemanager/search.vue:28
 #: src/js/pages/reseller/tickets.vue:64
 msgid "Close"
-msgstr ""
+msgstr "Zamknij"
 
 #: src/js/components/global/input/input-select.vue:19
 #: src/js/components/global/ui/ui-button-dropdown.vue:6
@@ -1851,12 +1851,12 @@ msgstr ""
 #: src/js/pages/admin/license.vue:122
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:113
 msgid "Compile Date"
-msgstr ""
+msgstr "Data kompilacji"
 
 #: src/js/pages/admin/license.vue:114
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:105
 msgid "Compiled on"
-msgstr ""
+msgstr "Kompilacja dla"
 
 #: src/js/modules/navigation/admin.js:163
 msgid "Complete Usage Statistics"
@@ -1969,11 +1969,11 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:18
 msgid "CPUs Count"
-msgstr ""
+msgstr "Liczba procesorów"
 
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:3
 msgid "CPUs Information"
-msgstr ""
+msgstr "Informacje o procesorach"
 
 #: src/js/components/local/filemanager/dialogs/create-file-dialog.vue:17
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:20
@@ -2242,7 +2242,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:138
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:129
 msgid "Current Available Version"
-msgstr ""
+msgstr "Aktualnie dostępna wersja"
 
 #: src/js/pages/user/password.vue:15
 msgid "Current DirectAdmin Password:"
@@ -2265,12 +2265,12 @@ msgstr ""
 #: src/js/pages/admin/license.vue:77
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:71
 msgid "Current Server Time"
-msgstr ""
+msgstr "Aktualny czas serwera"
 
 #: src/js/pages/user/email/vacations/create.vue:101
 #: src/js/pages/user/email/vacations/modify.vue:97
 msgid "Current Server Time:"
-msgstr ""
+msgstr "Aktualny czas serwera:"
 
 #: src/js/pages/user/cronjobs/create.vue:19
 msgid "Current Time"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:23
 msgid "Current Usage"
-msgstr ""
+msgstr "Bieżące zużycie"
 
 #: src/js/pages/admin/custom-httpd/view.vue:55
 #: src/js/pages/user/_components/add-security-question-dialog.vue:18
@@ -2382,16 +2382,16 @@ msgstr "Pulpit"
 #: src/js/pages/user/database/index.vue:70
 msgid "database"
 msgid_plural "databases"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "baza danych"
+msgstr[1] "bazy danych"
+msgstr[2] "baz danych"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:13
 #: src/js/pages/user/database/index.vue:27
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:19
 #: src/js/pages/user/database/index.vue:32
 msgid "Database"
-msgstr ""
+msgstr "Baza danych"
 
 #: src/js/pages/admin/backups/modify.vue:219
 #: src/js/pages/admin/backups/schedule.vue:235
@@ -2410,7 +2410,7 @@ msgstr "Zużycie dysku na bazę danych"
 
 #: src/js/pages/user/database/create.vue:18
 msgid "Database Name:"
-msgstr ""
+msgstr "Nazwa bazy danych:"
 
 #: src/js/pages/user/database/create.vue:58
 msgid "Database Password:"
@@ -2439,7 +2439,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:32
 #: src/js/modules/widgets.js:14
 msgid "Databases"
-msgstr ""
+msgstr "Bazy danych"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/history/table.vue:3
@@ -2796,7 +2796,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:109
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:101
 msgid "DirectAdmin Values"
-msgstr ""
+msgstr "Parametry DirectAdmin"
 
 #: src/js/components/global/app/app-footer.vue:18
 msgid "DirectAdmin Web Control Panel © %{ year } JBMC Software"
@@ -3243,7 +3243,7 @@ msgstr "Przekierowania poczty"
 
 #: src/js/pages/admin/mail-queue/view.vue:14
 msgid "E-mail Headers"
-msgstr ""
+msgstr "Nagłówki wiadomości E-mail"
 
 #: src/js/modules/navigation/user.js:55
 msgid "E-mail Manager"
@@ -3257,7 +3257,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:65
 msgid "E-mail pending delivery"
-msgstr ""
+msgstr "Wiadomości w trakcie dostaraczenia"
 
 #: src/js/pages/user/email/accounts/account.vue:59
 #: src/js/pages/user/email/accounts/create.vue:54
@@ -3507,7 +3507,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-notification-center.vue:26
 msgid "Errors"
-msgstr ""
+msgstr "Błędy"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:65
 msgid "Event"
@@ -3692,7 +3692,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:235
 msgid "Filesystem"
-msgstr ""
+msgstr "System plików"
 
 #: src/js/pages/user/email/filters.vue:138
 msgid "filter"
@@ -3802,21 +3802,21 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:33
 msgid "Free Memory"
-msgstr ""
+msgstr "Wolna pamięć"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:42
 msgid "Free Swap Memory"
-msgstr ""
+msgstr "Wolna pamięć SWAP"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:37
 msgid "Freeze"
-msgstr ""
+msgstr "Zamroź"
 
 #: src/js/pages/admin/mail-queue/index.vue:55
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:21
 msgid "Frozen"
-msgstr ""
+msgstr "Zamrożona"
 
 #: src/js/pages/user/ftp-accounts/create.vue:125
 #: src/js/pages/user/ftp-accounts/edit.vue:123
@@ -3919,7 +3919,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:55
 msgid "Full Server Statistics"
-msgstr ""
+msgstr "Pełne statystyki serwera"
 
 #: src/js/pages/user/dns/security.vue:16
 msgid "Generate Keys"
@@ -3966,11 +3966,11 @@ msgstr ""
 
 #: src/js/modules/widgets.js:5
 msgid "Hardware details"
-msgstr ""
+msgstr "Informacje o sprzęcie"
 
 #: src/js/components/global/app/app-user-bar.vue:21
 msgid "Hello, %{ username }"
-msgstr "WItaj, %{ username }"
+msgstr "Witaj, %{ username }"
 
 #: src/js/modules/navigation/admin.js:221
 #: src/js/modules/navigation/reseller.js:156
@@ -4171,7 +4171,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-notification-center.vue:20
 msgid "Information"
-msgstr ""
+msgstr "Informacje"
 
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:18
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:25
@@ -4222,7 +4222,7 @@ msgstr ""
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:27
 #: src/js/pages/admin/plugin-manager.vue:24
 msgid "Installed"
-msgstr ""
+msgstr "Zainstalowane"
 
 #: src/js/modules/navigation/user.js:168
 msgid "Installed Perl Modules"
@@ -4231,7 +4231,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:43
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:36
 msgid "Internal"
-msgstr ""
+msgstr "Internal"
 
 #: src/js/pages/user/email/lists/modify.vue:105
 msgid "Intro Access"
@@ -4309,17 +4309,17 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/ip-config.vue:10
 msgid "IP Address"
 msgid_plural "IP Addresses"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Adres IP"
+msgstr[1] "Adresy IP"
+msgstr[2] "Adresów IP"
 
 #: src/js/pages/admin/dns/add.vue:29
 msgid "IP Address:"
-msgstr ""
+msgstr "Adres IP:"
 
 #: src/js/pages/user/dashboard/_components/widgets/ip-config.vue:5
 msgid "IP Addresses"
-msgstr ""
+msgstr "Adresy IP"
 
 #: src/js/pages/admin/ip-manager/details.vue:1
 msgid "IP Details"
@@ -4346,7 +4346,7 @@ msgstr ""
 #: src/js/pages/admin/ip-manager/index.vue:1 src/js/modules/widgets.js:19
 #: src/js/modules/widgets.js:49
 msgid "IP Manager"
-msgstr ""
+msgstr "Zarządzanie adresami IP"
 
 #: src/js/pages/admin/reseller-packages/index.vue:19
 #: src/js/pages/admin/users/index.vue:11
@@ -4490,11 +4490,11 @@ msgstr ""
 #: src/js/pages/admin/license.vue:154
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:145
 msgid "Last Restart"
-msgstr ""
+msgstr "Ostatnie ponowne uruchomienie"
 
 #: src/js/pages/admin/stats.vue:210
 msgid "Last Tally Completion"
-msgstr ""
+msgstr "Ostatnio zakończone zestawienie"
 
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:55
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:41
@@ -4505,39 +4505,39 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:137
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:87
 msgid "Last Updated"
-msgstr ""
+msgstr "Ostatnia aktualizacja"
 
 #: src/js/pages/admin/license.vue:27
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:20
 msgid "License ID"
-msgstr ""
+msgstr "ID licencji"
 
 #: src/js/modules/widgets.js:70
 msgid "License Info and updates"
-msgstr ""
+msgstr "Informacje o licencji i uaktualnienia"
 
 #: src/js/pages/admin/license.vue:15
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:8
 msgid "License IP"
-msgstr ""
+msgstr "Adres IP licencji"
 
 #: src/js/pages/admin/license.vue:39
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:32
 msgid "License Type"
-msgstr ""
+msgstr "Typ licencji"
 
 #: src/js/pages/admin/license.vue:1
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:4
 msgid "License Values"
-msgstr ""
+msgstr "Parametry licencji"
 
 #: src/js/modules/widgets.js:69
 msgid "License/Updates"
-msgstr ""
+msgstr "Licencje/Aktualizacje"
 
 #: src/js/modules/navigation/admin.js:232
 msgid "Licensing / Updates"
-msgstr ""
+msgstr "Licencjonowanie / Aktualizacje"
 
 #: src/js/components/global/ui/ui-color-picker.vue:64
 msgid "Lightness"
@@ -4620,7 +4620,7 @@ msgstr "Lista Użytkowników"
 
 #: src/js/pages/admin/stats.vue:203
 msgid "Load Average"
-msgstr ""
+msgstr "Średnie obciążenie"
 
 #: src/js/pages/admin/log-viewer/view.vue:68
 msgid "Load Log"
@@ -4703,13 +4703,13 @@ msgstr ""
 #: src/js/pages/admin/users/resellers/view.vue:141
 #: src/js/pages/reseller/users/view.vue:188
 msgid "Logged in successfully"
-msgstr ""
+msgstr "Zalogowano pomyślnie"
 
 #: src/js/components/local/security-question-auth-dialog.vue:47
 #: src/js/components/local/standard-auth-dialog.vue:79
 #: src/js/components/local/two-step-auth-dialog.vue:61
 msgid "Logged in successfully..."
-msgstr ""
+msgstr "Zalogowano pomyślnie..."
 
 #: src/js/pages/admin/multi-server.vue:43
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:10
@@ -4806,12 +4806,12 @@ msgstr ""
 
 #: src/js/modules/widgets.js:64
 msgid "Mail Queue"
-msgstr ""
+msgstr "Kolejka E-mail"
 
 #: src/js/pages/admin/mail-queue/index.vue:1
 #: src/js/modules/navigation/admin.js:115
 msgid "Mail Queue Administration"
-msgstr ""
+msgstr "Zarządzanie kolejką E-mail"
 
 #: src/js/pages/user/email/usage/php-scripts.vue:25
 #: src/js/pages/user/email/usage/php-scripts.vue:30
@@ -4886,7 +4886,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:50
 msgid "Manage Server IPs"
-msgstr ""
+msgstr "Zarządzaj adresami IP serwera"
 
 #: src/js/pages/reseller/tickets.vue:1 src/js/modules/navigation/admin.js:227
 #: src/js/modules/navigation/reseller.js:162
@@ -4906,6 +4906,7 @@ msgstr "Zarządzaj pakietami Użytkownika"
 #: src/js/components/local/auth-dialog.vue:13
 msgid "Manage your domains, databases & other server info."
 msgstr ""
+"Zarządzaj swoimi domenami, bazami danych i innymi informacjami o serwerze."
 
 #: src/js/pages/admin/settings.vue:293
 msgid "Manual"
@@ -4985,14 +4986,14 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:3
 msgid "Memory Information"
-msgstr ""
+msgstr "Informacje o pamięci"
 
 #: src/js/pages/admin/services.vue:18
 #: src/js/pages/user/dashboard/_components/widgets/show-services.vue:4
 #: src/js/pages/admin/services.vue:24
 #: src/js/pages/user/dashboard/_components/widgets/show-services.vue:9
 msgid "Memory Usage"
-msgstr ""
+msgstr "Zużycie pamięci"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:43
@@ -5235,7 +5236,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:75
 msgid "Monitor all services"
-msgstr ""
+msgstr "Monitoruj wszystkie usługi"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:8
 msgid "Monitor Backup: %{ id }"
@@ -5262,7 +5263,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:240
 msgid "Mounted on"
-msgstr ""
+msgstr "Punkt montowania"
 
 #: src/js/pages/user/filemanager/index.vue:108
 msgid "Move files"
@@ -5336,7 +5337,7 @@ msgstr "Nazwa"
 #: src/js/pages/admin/license.vue:21
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:14
 msgid "Name in License"
-msgstr ""
+msgstr "Licencja dla"
 
 #: src/js/pages/reseller/nameservers.vue:45
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:58
@@ -5415,7 +5416,7 @@ msgstr "Nawigacja"
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:56
 #: src/js/pages/admin/ip-manager/index.vue:29
 msgid "Netmask"
-msgstr ""
+msgstr "Maska"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:31
 msgid "Neutral"
@@ -5803,7 +5804,7 @@ msgstr "Mazwa pakietu"
 
 #: src/js/pages/admin/settings.vue:252
 msgid "Parse service logs for brute force attacks"
-msgstr "Analizuj logi serwisów w poszukiwaniu ataków brute force"
+msgstr "Analizuj logi usług w poszukiwaniu ataków brute force"
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:18
 #: src/js/components/local/standard-auth-dialog.vue:15
@@ -5823,7 +5824,7 @@ msgstr "Analizuj logi serwisów w poszukiwaniu ataków brute force"
 #: src/js/pages/user/protected-directories/view.vue:71
 #: src/js/components/global/app/app-user-bar.vue:81
 msgid "Password"
-msgstr ""
+msgstr "Hasło"
 
 #: src/js/modules/navigation/user.js:150
 msgid "Password Protected Directories"
@@ -5946,7 +5947,7 @@ msgstr ""
 #: src/js/pages/admin/services.vue:23
 #: src/js/pages/user/dashboard/_components/widgets/show-services.vue:8
 msgid "PID(s)"
-msgstr ""
+msgstr "PID(y)"
 
 #: src/js/components/global/app/app-search.vue:3
 #: src/js/components/local/filemanager/search.vue:4
@@ -6005,7 +6006,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:64
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:57
 msgid "Portioned License"
-msgstr ""
+msgstr "Licencja Portioned"
 
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:50
 msgid "Post reply"
@@ -6078,12 +6079,12 @@ msgstr ""
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:5
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:7
 msgid "Processor Name"
-msgstr ""
+msgstr "Nazwa procesora"
 
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:5
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:9
 msgid "Processor Speed (MHz)"
-msgstr ""
+msgstr "Prędkość (MHz)"
 
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:69
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:55
@@ -6197,15 +6198,15 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:13 src/js/pages/admin/services.vue:81
 msgid "Reboot"
-msgstr ""
+msgstr "Uruchom ponownie"
 
 #: src/js/pages/admin/services.vue:71
 msgid "Reboot Server"
-msgstr ""
+msgstr "Uruchom ponownie serwer"
 
 #: src/js/pages/admin/stats.vue:225
 msgid "Received"
-msgstr ""
+msgstr "Odebrane"
 
 #: src/js/pages/admin/stats.vue:166 src/js/pages/user/stats/index.vue:46
 #: src/js/pages/reseller/stats.vue:217
@@ -6219,7 +6220,7 @@ msgstr "Odebrane listy E-mail"
 #: src/js/pages/admin/mail-queue/index.vue:33
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:11
 msgid "Recipient(s)"
-msgstr ""
+msgstr "Odbiorca(y)"
 
 #: src/js/pages/admin/dns/index.vue:128
 msgid "record"
@@ -6253,7 +6254,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:64
 msgid "Reload"
-msgstr ""
+msgstr "Przeładuj"
 
 #: src/js/pages/admin/process-monitor.vue:22
 msgid "Reload every"
@@ -6542,7 +6543,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:61
 msgid "Restart"
-msgstr ""
+msgstr "Uruchom ponownie"
 
 #: src/js/pages/admin/license.vue:176
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:167
@@ -6583,7 +6584,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:38
 msgid "Retry"
-msgstr ""
+msgstr "Ponów"
 
 #: src/js/pages/admin/ip-manager/details.vue:201
 msgid "Rewrite Apache"
@@ -6614,7 +6615,7 @@ msgstr ""
 #: src/js/pages/admin/services.vue:34
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:19
 msgid "Running"
-msgstr ""
+msgstr "Uruchomiona"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:29
 msgid "Safe"
@@ -7030,7 +7031,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:32
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:10
 msgid "Sender"
-msgstr ""
+msgstr "Nadawca"
 
 #: src/js/pages/user/email/usage/index.vue:135
 msgid "Sender:"
@@ -7059,7 +7060,7 @@ msgstr ""
 #: src/js/pages/reseller/users/_components/usage-table.vue:137
 #: src/js/pages/user/stats/index.vue:86
 msgid "Sent E-mails"
-msgstr "Wysłana poczta E-mail"
+msgstr "Wysłane listy E-mail"
 
 #: src/js/pages/user/login-keys/create.vue:261
 #: src/js/pages/user/login-keys/modify.vue:241
@@ -7106,12 +7107,12 @@ msgstr "Ustawienia serwera"
 
 #: src/js/pages/admin/stats.vue:1
 msgid "Server Statistics"
-msgstr ""
+msgstr "Statystyki serwera"
 
 #: src/js/pages/admin/license.vue:130
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:121
 msgid "Server Version"
-msgstr ""
+msgstr "Wersja zainstalowana na serwerze"
 
 #: src/js/pages/admin/settings.vue:119
 msgid "Server's Hostname"
@@ -7122,32 +7123,32 @@ msgstr "Hostname Serwera"
 #: src/js/pages/admin/services.vue:21
 #: src/js/pages/user/dashboard/_components/widgets/show-services.vue:7
 msgid "Service"
-msgstr ""
+msgstr "Usługa"
 
 #: src/js/modules/navigation/admin.js:120
 msgid "Service Monitor"
-msgstr ""
+msgstr "Monitor usług"
 
 #: src/js/pages/admin/services.vue:154
 msgid "Service was reloaded successfully"
-msgstr ""
+msgstr "Usługa została pomyślnie przeładowana"
 
 #: src/js/pages/admin/services.vue:146
 msgid "Service was restarted successfully"
-msgstr ""
+msgstr "Usługa została pomyślnie ponownie uruchomiona"
 
 #: src/js/pages/admin/services.vue:130
 msgid "Service was started successfully"
-msgstr ""
+msgstr "Usługa została pomyślnie uruchomiona"
 
 #: src/js/pages/admin/services.vue:138
 msgid "Service was stopped successfully"
-msgstr ""
+msgstr "Usługa została pomyślnie zatrzymana"
 
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:3
 #: src/js/modules/widgets.js:74
 msgid "Services"
-msgstr ""
+msgstr "Usługi"
 
 #: src/js/pages/admin/settings.vue:144
 msgid "Session Timeout (minutes)"
@@ -7343,11 +7344,11 @@ msgstr ""
 
 #: src/js/components/global/app/app-notification-center.vue:17
 msgid "Show Messages:"
-msgstr ""
+msgstr "Pokaż wiadomości:"
 
 #: src/js/pages/admin/services.vue:1
 msgid "Show Services"
-msgstr ""
+msgstr "Pokaż usługi"
 
 #: src/js/pages/user/email/usage/index.vue:13
 #: src/js/pages/user/email/usage/php-scripts.vue:12
@@ -7378,7 +7379,7 @@ msgstr "Pokaż:"
 
 #: src/js/components/local/auth-dialog.vue:25
 msgid "Sign In to Account"
-msgstr ""
+msgstr "Zaloguj się do konta"
 
 #: src/js/pages/user/dns/security.vue:130
 msgid "Signed"
@@ -7416,7 +7417,7 @@ msgstr ""
 #: src/js/pages/user/database/index.vue:34
 #: src/js/pages/user/email/filters.vue:63
 msgid "Size"
-msgstr ""
+msgstr "Rozmiar"
 
 #: src/js/pages/user/email/usage/index.vue:143
 msgid "Size:"
@@ -7583,7 +7584,7 @@ msgstr ""
 
 #: src/js/components/local/auth-dialog.vue:10
 msgid "Start DirectAdmin"
-msgstr ""
+msgstr "Zaloguj do DirectAdmin"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:16
@@ -7711,7 +7712,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:58
 msgid "Stop"
-msgstr ""
+msgstr "Zatrzymaj"
 
 #: src/js/pages/user/email/filters.vue:37
 #: src/js/pages/user/email/filters.vue:57
@@ -7849,7 +7850,7 @@ msgstr ""
 #: src/js/pages/reseller/users/view.vue:187
 #: src/js/pages/user/two-step-auth.vue:275
 msgid "Success"
-msgstr ""
+msgstr "Powodzenie"
 
 #: src/js/modules/navigation/admin.js:214
 #: src/js/modules/navigation/reseller.js:149
@@ -7947,7 +7948,7 @@ msgstr ""
 
 #: src/js/modules/navigation/admin.js:153 src/js/modules/widgets.js:4
 msgid "System Information"
-msgstr ""
+msgstr "Informacje o systemie"
 
 #: src/js/pages/user/mimetypes/index.vue:39
 msgid "System Mime Types"
@@ -8017,7 +8018,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:36
 msgid "Thaw"
-msgstr ""
+msgstr "Odmoź"
 
 #: src/js/pages/admin/ip-manager/details.vue:156
 msgid ""
@@ -8107,6 +8108,10 @@ msgid ""
 "The license will automatically update to the next time period when the key’s "
 "expiry nears."
 msgstr ""
+"Licencja Portioned jest licencją, która ma rzeczywisty czas wygaśnięcia w "
+"przyszłości pomimo, że pobrany klucz wskazuje na wcześniejszy czas. Licencja "
+"zostanie automatycznie przedłużona na następny okres czasu kiedy zbliża się "
+"data końca ważniości klucza."
 
 #: src/js/pages/admin/license.vue:70
 msgid ""
@@ -8114,6 +8119,10 @@ msgid ""
 "into the future than is set in the physical key. The license will "
 "automatically update to the next time period when the key’s expiry nears."
 msgstr ""
+"Licencja Portioned jest licencją, która ma rzeczywisty czas wygaśnięcia w "
+"przyszłości pomimo, że pobrany klucz wskazuje na wcześniejszy czas. Licencja "
+"zostanie automatycznie przedłużona na następny okres czasu kiedy zbliża się "
+"data końca ważniości klucza."
 
 #: src/js/pages/user/messages/_tables/tickets.vue:2
 #: src/js/pages/reseller/tickets.vue:53
@@ -8138,7 +8147,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:30
 #: src/js/pages/user/email/usage/index.vue:123
 msgid "Time"
-msgstr ""
+msgstr "Czas"
 
 #: src/js/pages/admin/settings.vue:236
 msgid "Time before failed login count resets"
@@ -8147,11 +8156,11 @@ msgstr "Czas po którym kasowany jest licznik błędnych logowań"
 #: src/js/pages/admin/license.vue:85
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:79
 msgid "Time Remaining"
-msgstr ""
+msgstr "Pozostały czas"
 
 #: src/js/pages/admin/settings.vue:138
 msgid "Timeout (seconds)"
-msgstr "Timeout (sekundy) "
+msgstr "Timeout (sekundy)"
 
 #: src/js/components/local/create-message-dialog.vue:7
 #: src/js/components/local/send-user-message-dialog.vue:7
@@ -8188,11 +8197,11 @@ msgstr "Całkowite zużycie dysku"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:30
 msgid "Total Memory"
-msgstr ""
+msgstr "Całkowita pamięć"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:39
 msgid "Total Swap Memory"
-msgstr ""
+msgstr "Całkowita pamięć SWAP"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:170
 msgid "Tracker stream was closed."
@@ -8200,7 +8209,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:228
 msgid "Transmitted"
-msgstr ""
+msgstr "Wysłane"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:68
 msgid "Trigger"
@@ -8353,12 +8362,12 @@ msgstr ""
 #: src/js/pages/admin/license.vue:179
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:170
 msgid "Update DirectAdmin"
-msgstr ""
+msgstr "Aktualizuj DirectAdmin"
 
 #: src/js/pages/admin/license.vue:104
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:98
 msgid "Update License"
-msgstr ""
+msgstr "Aktualizuj licencję"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:63
 msgid "Update List"
@@ -8400,7 +8409,7 @@ msgstr ""
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:8
 msgid "Uptime"
-msgstr ""
+msgstr "Czas pracy"
 
 #: src/js/pages/admin/plugin-manager.vue:88
 #: src/js/pages/admin/plugin-manager.vue:97
@@ -8534,7 +8543,7 @@ msgstr ""
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:237
 msgid "Used"
-msgstr ""
+msgstr "Użyte"
 
 #: src/js/pages/admin/users/index.vue:140
 #: src/js/pages/reseller/users/index.vue:114
@@ -8622,7 +8631,7 @@ msgstr "Typ użytkownika"
 #: src/js/pages/user/dashboard/_components/widgets/ip-config.vue:12
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:20
 msgid "User(s)"
-msgstr ""
+msgstr "Użytkownicy"
 
 #: src/js/components/local/standard-auth-dialog.vue:7
 #: src/js/pages/admin/backups/modify.vue:144
@@ -8754,7 +8763,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:48
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:41
 msgid "Valid After"
-msgstr ""
+msgstr "Ważna po"
 
 #: src/js/pages/user/cronjobs/create.vue:33
 #: src/js/pages/user/cronjobs/index.vue:108
@@ -8764,7 +8773,7 @@ msgstr ""
 #: src/js/pages/admin/license.vue:56
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:49
 msgid "Valid Until"
-msgstr ""
+msgstr "Ważna do"
 
 #: src/js/pages/user/cronjobs/index.vue:80
 msgid ""
@@ -8795,14 +8804,14 @@ msgstr "Wartość"
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:5
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:8
 msgid "Vendor ID"
-msgstr ""
+msgstr "ID producenta"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:5
 #: src/js/pages/admin/plugin-manager.vue:20
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:9
 msgid "Version"
-msgstr ""
+msgstr "Wersja"
 
 #: src/js/pages/user/stats/log.vue:1
 msgid "Vew Log"
@@ -8819,7 +8828,7 @@ msgstr ""
 #: src/js/pages/user/filemanager/edit.vue:12
 #: src/js/pages/user/login-keys/index.vue:89
 msgid "View"
-msgstr ""
+msgstr "Widok"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:30
@@ -8889,7 +8898,7 @@ msgstr ""
 
 #: src/js/pages/user/dashboard/_components/dashboard-tab.vue:18
 msgid "View More"
-msgstr ""
+msgstr "Zobacz więcej"
 
 #: src/js/pages/user/protected-directories/view.vue:1
 msgid "View Protected Directory"
@@ -9112,7 +9121,7 @@ msgstr ""
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
-msgstr ""
+msgstr "Możesz dodać poniższe widżety do swojego pulpitu:"
 
 #: src/js/components/global/app/app-breadcrumbs.vue:4
 msgid "You are here:"
@@ -9159,7 +9168,7 @@ msgstr ""
 
 #: src/js/pages/admin/services.vue:75
 msgid "Your Password:"
-msgstr ""
+msgstr "Twoje hasło:"
 
 #: src/js/pages/user/email/accounts/account.vue:64
 #: src/js/pages/user/email/accounts/account.vue:75
