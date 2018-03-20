@@ -29,7 +29,7 @@ msgstr "..."
 
 #: src/js/pages/admin/custom-httpd/index.vue:99
 msgid "./build rewrite_confs"
-msgstr ""
+msgstr "./build rewrite_confs"
 
 #: src/js/pages/reseller/users/view.vue:77
 msgid "( Today: %{ sent })"
@@ -106,7 +106,7 @@ msgstr "{{label}}"
 #: src/js/pages/admin/backups/modify.vue:56
 #: src/js/pages/admin/backups/schedule.vue:59
 msgid "& Users"
-msgstr "&nbsp;Użytkownicy"
+msgstr "Użytkowników"
 
 #: src/js/pages/admin/stats.vue:66
 msgid "&nbsp;Database Disk Usage"
@@ -489,7 +489,7 @@ msgstr ""
 #: src/js/pages/user/mimetypes/index.vue:60
 #: src/js/pages/user/protected-directories/view.vue:78
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: src/js/pages/reseller/users/modify.vue:40
 msgid "Add Additional IP"
@@ -516,11 +516,11 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:19
 msgid "Add DNS records for this IP"
-msgstr ""
+msgstr "Dodaj rekord DNS dla tego adresu IP"
 
 #: src/js/pages/admin/dns/index.vue:16
 msgid "Add DNS Zone"
-msgstr ""
+msgstr "Dodaj strefę DNS"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:40
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:68
@@ -592,7 +592,7 @@ msgstr ""
 #: src/js/pages/admin/multi-server.vue:135
 #: src/js/pages/admin/multi-server.vue:19
 msgid "Add New Server"
-msgstr ""
+msgstr "Dodaj nowy serwer"
 
 #: src/js/pages/user/subdomains/index.vue:72
 msgid "Add New SubDomain"
@@ -647,7 +647,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:20
 msgid "Add the code to be inserted into the CUSTOM tokens."
-msgstr ""
+msgstr "Dodaj kod, który zostanie wstawiony w miejsce tokenów CUSTOM."
 
 #: src/js/pages/admin/ip-manager/details.vue:141
 msgid "Add to Apache"
@@ -691,7 +691,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:83
 msgid "Add user home directories to directory list"
-msgstr ""
+msgstr "Dodaj katalogi domowe Użytkowników do listy katalogów"
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:27
 #: src/js/pages/user/dashboard/index.vue:62
@@ -719,9 +719,9 @@ msgstr ""
 #: src/js/pages/admin/users/admins.vue:101
 msgid "admin"
 msgid_plural "admins"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "administrator"
+msgstr[1] "administratorów"
+msgstr[2] "administratorów"
 
 #: src/js/pages/admin/backups/modify.vue:73
 #: src/js/pages/admin/backups/schedule.vue:77
@@ -730,23 +730,23 @@ msgstr[2] ""
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:73
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:40
 msgid "Admin"
-msgstr ""
+msgstr "Administrator"
 
 #: src/js/modules/navigation/admin.js:100
 msgid "Admin Backup/Transfer"
-msgstr ""
+msgstr "Kopia zapasowa/Transfer Administratora"
 
 #: src/js/pages/admin/backups/index.vue:1
 msgid "Admin Backups"
-msgstr ""
+msgstr "Kopie zapasowe Administratora"
 
 #: src/js/pages/admin/history.vue:1
 msgid "Admin History"
-msgstr ""
+msgstr "Historia Administratora"
 
 #: src/js/pages/user/email/lists/modify.vue:15
 msgid "Admin Password"
-msgstr ""
+msgstr "Hasło Administratora"
 
 #: src/js/pages/admin/settings.vue:1
 msgid "Admin Settings"
@@ -758,7 +758,7 @@ msgstr "Statystyki"
 
 #: src/js/modules/navigation/admin.js:93
 msgid "Admin Tools"
-msgstr ""
+msgstr "Narzędzia Administratora"
 
 #: src/js/pages/admin/settings.vue:12 src/js/modules/navigation/admin.js:62
 #: src/js/pages/admin/settings.vue:16
@@ -797,11 +797,11 @@ msgstr ""
 #: src/js/pages/admin/backups/modify.vue:243
 #: src/js/pages/admin/backups/schedule.vue:259
 msgid "All"
-msgstr ""
+msgstr "Wszystkie"
 
 #: src/js/pages/reseller/tickets.vue:25
 msgid "All (%{ count })"
-msgstr ""
+msgstr "Wszystkie (%{ count })"
 
 #: src/js/modules/widgets.js:60
 msgid "All Accounts on the Server"
@@ -812,7 +812,7 @@ msgstr "Wszystkie konta na serwerze"
 #: src/js/pages/admin/backups/modify.vue:195
 #: src/js/pages/admin/backups/schedule.vue:211
 msgid "All Data"
-msgstr ""
+msgstr "Wszystkie dane"
 
 #: src/js/pages/admin/settings.vue:290
 msgid "All Logs"
@@ -848,7 +848,7 @@ msgstr "Wszyscy Użytkownicy"
 #: src/js/pages/reseller/backups/modify.vue:41
 #: src/js/pages/reseller/backups/schedule.vue:42
 msgid "All Users Except Selected"
-msgstr ""
+msgstr "Wszyscy Użytkownicy oprócz zaznaczonych"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:43
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:39
@@ -978,7 +978,7 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:170
 #: src/js/pages/reseller/backups/schedule.vue:167
 msgid "Append"
-msgstr ""
+msgstr "Dodaj"
 
 #: src/js/pages/reseller/skins.vue:38
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:25
@@ -1046,7 +1046,7 @@ msgstr ""
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Are you sure you want to delete selected %{subject}?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć wybrany %{subject}?"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: src/js/pages/admin/multi-server.vue:125
 msgid "Are you sure you want to disable this feature?"
-msgstr ""
+msgstr "Czy na pewno chcesz wyłączyć tę funkcję?"
 
 #: src/js/pages/admin/plugin-manager.vue:135
 msgid "Are you sure you want to install “%{ name }” plugin?"
@@ -1172,16 +1172,16 @@ msgstr ""
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:9
 #: src/js/pages/admin/process-monitor.vue:120
 msgid "Authenticate"
-msgstr ""
+msgstr "Uwierzytelnij"
 
 #: src/js/pages/admin/process-monitor.vue:110
 #: src/js/pages/admin/process-monitor.vue:15
 msgid "Authenticate to send signals"
-msgstr ""
+msgstr "Uwierzytelnij, aby wysyłać sygnały"
 
 #: src/js/pages/user/email/usage/index.vue:69
 msgid "Authentication"
-msgstr ""
+msgstr "Uwierzytelnienie"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:25
@@ -1295,25 +1295,25 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:60
 #: src/js/pages/user/backup/restore.vue:12
 msgid "Backup"
-msgstr ""
+msgstr "Kopia zapasowa"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:16
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:8
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:18
 msgid "Backup ID"
-msgstr ""
+msgstr "ID kopii zapasowej"
 
 #: src/js/pages/admin/system-backup.vue:43
 msgid "Backup Path"
-msgstr ""
+msgstr "Ścieżka kopii zapasowej"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:3
 #: src/js/pages/admin/backups/index.vue:42
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:3
 #: src/js/pages/reseller/backups/index.vue:76
 msgid "Backup/Restore Settings"
-msgstr ""
+msgstr "Ustawienia tworzenia / przywracania kopii zapasowej"
 
 #: src/js/components/local/history/table.vue:3
 #: src/js/components/local/stats/webalizer-table.vue:4
@@ -1381,7 +1381,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:20
 msgid "Basic Configuration"
-msgstr ""
+msgstr "Podstawowa konfiguracja"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:18
 msgid ""
@@ -1470,7 +1470,7 @@ msgstr ""
 #: src/js/pages/admin/dns/index.vue:53 src/js/pages/admin/dns/index.vue:67
 #: src/js/pages/user/email/accounts/account.vue:23
 msgid "Both"
-msgstr ""
+msgstr "Obie"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:39
@@ -1657,12 +1657,12 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:31
 msgid "Choose directories to backup"
-msgstr ""
+msgstr "Wybierz katalogi do kopii zapasowej"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:36
 msgid "Choose files to backup"
-msgstr ""
+msgstr "Wybierz pliki do kopii zapasowej"
 
 #: src/js/components/global/app/app-search.vue:43
 msgid "Choose your searching criterias:"
@@ -1769,7 +1769,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-error.vue:7
 msgid "Close Report"
-msgstr ""
+msgstr "Zamknij raport"
 
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:34
 #: src/js/pages/reseller/_dialogs/view-ticket.vue:40
@@ -1878,26 +1878,26 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/index.vue:45
 #: src/js/pages/admin/custom-httpd/index.vue:52
 msgid "Configuration Files"
-msgstr ""
+msgstr "Pliki konfiguracyjne"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:21
 msgid "Configure full system Backup"
-msgstr ""
+msgstr "Konfiguracja pełnej kopii zapasowej systemu"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:26
 msgid "Configure Remote Transfer option"
-msgstr ""
+msgstr "Konfiguracja zdalnego transferu"
 
 #: src/js/components/global/ui/ui-dialog-confirm.vue:13
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:6
 msgid "Confirm"
-msgstr ""
+msgstr "Potwierdź"
 
 #: src/js/components/global/ui/ui-dialog-confirm.vue:3
 msgid "Confirmation"
-msgstr ""
+msgstr "Potwierdzenie"
 
 #: src/js/pages/admin/users/index.vue:191
 msgid "Connection Error"
@@ -1910,11 +1910,11 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/index.vue:28
 #: src/js/pages/admin/custom-httpd/index.vue:32
 msgid "contain"
-msgstr ""
+msgstr "zawiera"
 
 #: src/js/pages/admin/dns/index.vue:24 src/js/pages/admin/dns/index.vue:29
 msgid "Contains"
-msgstr ""
+msgstr "Zawierają"
 
 #: src/js/pages/user/email/vacations/create.vue:39
 #: src/js/pages/user/email/vacations/modify.vue:35
@@ -1923,7 +1923,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/view.vue:20
 msgid "Contents of the %{ filename } file for %{ domain }"
-msgstr ""
+msgstr "Zawartość pliku %{ filename } domeny %{ domain }"
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:46
 msgid "Copy"
@@ -2142,7 +2142,7 @@ msgstr "Utwórz pakiet Resellera"
 
 #: src/js/pages/admin/dns/add.vue:72
 msgid "Create Reverse IP Lookup:"
-msgstr ""
+msgstr "Utwórz strefę IP Reverse:"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:53
 msgid "Create Routine"
@@ -2182,11 +2182,11 @@ msgstr ""
 
 #: src/js/pages/admin/dns/add.vue:1
 msgid "Create Zone"
-msgstr ""
+msgstr "Utwóz strefę"
 
 #: src/js/modules/navigation/user.js:120
 msgid "Create/Restore Backups"
-msgstr ""
+msgstr "Utwórz/Przywróć kopię zapasową"
 
 #: src/js/pages/user/dns/security.vue:45
 msgid "Created"
@@ -2297,7 +2297,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:78
 msgid "Custom Directories & Files"
-msgstr ""
+msgstr "Niestandardowe katalogi i pliki"
 
 #: src/js/modules/navigation/user.js:130
 msgid "Custom Error Pages"
@@ -2306,7 +2306,7 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/index.vue:1
 #: src/js/modules/navigation/admin.js:67
 msgid "Custom HTTPD Configurations"
-msgstr ""
+msgstr "Niestandardowe konfiguracje HTTPD"
 
 #: src/js/pages/admin/backups/modify.vue:183
 #: src/js/pages/admin/backups/schedule.vue:200
@@ -2400,7 +2400,7 @@ msgstr "Baza danych"
 #: src/js/pages/admin/backups/_components/crons-table.vue:100
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:99
 msgid "Database Data"
-msgstr ""
+msgstr "Dane bazy danych"
 
 #: src/js/pages/reseller/stats.vue:70 src/js/pages/user/stats/index.vue:46
 #: src/js/pages/reseller/users/_components/usage-table.vue:104
@@ -2421,7 +2421,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:99
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:98
 msgid "Database Settings"
-msgstr ""
+msgstr "Ustawienia bazy danych"
 
 #: src/js/pages/user/backup/index.vue:102
 #: src/js/pages/user/backup/restore.vue:104
@@ -2486,13 +2486,13 @@ msgstr "Dzień"
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:18
 #: src/js/pages/user/cronjobs/index.vue:28
 msgid "Day of Month"
-msgstr ""
+msgstr "Dzień miesiąca"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:31
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:27
 #: src/js/pages/reseller/backups/index.vue:42
 msgid "Day of Month: %{dayofmonth}"
-msgstr ""
+msgstr "Dzień miesiąca: %{dayofmonth}"
 
 #: src/js/pages/admin/backups/modify.vue:115
 #: src/js/pages/admin/backups/schedule.vue:130
@@ -2504,13 +2504,13 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:20
 #: src/js/pages/user/cronjobs/index.vue:34
 msgid "Day of Week"
-msgstr ""
+msgstr "Dzień tygodnia"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:33
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:29
 #: src/js/pages/reseller/backups/index.vue:44
 msgid "Day of Week: %{dayofweek}"
-msgstr ""
+msgstr "Dzień tygodnia: %{dayofweek}"
 
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:25
 msgid "day(s)"
@@ -2551,7 +2551,7 @@ msgstr "Grudzień"
 
 #: src/js/pages/admin/php-safe-mode.vue:55
 msgid "Defaults for new domains"
-msgstr ""
+msgstr "Domyślnie dla nowych domen"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:14
 #: src/js/components/local/dns/records-table.vue:25
@@ -2665,7 +2665,7 @@ msgstr "Usuń zaznaczone"
 
 #: src/js/pages/admin/system-backup.vue:104
 msgid "Delete the local backup after remote transfer"
-msgstr ""
+msgstr "Usuń lokalną kopię zapasową po transferze zdalnym"
 
 #: src/js/pages/user/email/spamassassin.vue:35
 msgid "Delete the spam"
@@ -2682,7 +2682,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:113
 msgid "Deletes local file before creating the next one"
-msgstr ""
+msgstr "Kasuje plik lokalny przed utworzeniem nowego"
 
 #: src/js/pages/user/login-keys/create.vue:120
 #: src/js/pages/user/login-keys/index.vue:21
@@ -2778,7 +2778,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:51 src/js/pages/user/bandwidth.vue:182
 #: src/js/pages/user/bandwidth.vue:225 src/js/pages/user/bandwidth.vue:264
 msgid "Direct Admin"
-msgstr ""
+msgstr "Direct Admin"
 
 #: src/js/pages/user/password.vue:37
 msgid "DirectAdmin Account"
@@ -2807,12 +2807,12 @@ msgstr "Panel Zarządzania Serwerem Web - DirectAdmin © %{ year } JBMC Software
 #: src/js/pages/admin/system-backup.vue:148
 #: src/js/pages/admin/system-backup.vue:30
 msgid "Directories"
-msgstr ""
+msgstr "Katalogi"
 
 #: src/js/pages/user/ftp-accounts/create.vue:76
 #: src/js/pages/user/ftp-accounts/edit.vue:49
 msgid "Directory"
-msgstr ""
+msgstr "Katalog"
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:22
 msgid "Directory %{ path } already protected."
@@ -2820,11 +2820,11 @@ msgstr ""
 
 #: src/js/components/local/stats/webalizer-table.vue:91
 msgid "Directory:"
-msgstr ""
+msgstr "Katalog:"
 
 #: src/js/pages/admin/php-safe-mode.vue:26
 msgid "Disable Open Basedir"
-msgstr ""
+msgstr "Wyłącz Open Basedir"
 
 #: src/js/pages/user/email/spamassassin.vue:13
 msgid "Disable SpamAssassin"
@@ -2917,7 +2917,7 @@ msgstr ""
 #: src/js/pages/admin/dns/edit.vue:1 src/js/pages/admin/dns/index.vue:1
 #: src/js/modules/navigation/admin.js:72 src/js/pages/reseller/stats.vue:190
 msgid "DNS Administration"
-msgstr ""
+msgstr "Administracja DNS"
 
 #: src/js/pages/user/stats/index.vue:129
 #: src/js/components/local/user-package.vue:157
@@ -2932,7 +2932,7 @@ msgstr "Zarządzanie strefą DNS"
 
 #: src/js/pages/admin/system-backup.vue:68
 msgid "DNS data"
-msgstr ""
+msgstr "Dane DNS"
 
 #: src/js/pages/user/dns/index.vue:1 src/js/modules/navigation/user.js:24
 msgid "DNS Management"
@@ -2941,9 +2941,9 @@ msgstr ""
 #: src/js/components/local/dns/records-table.vue:65
 msgid "DNS record"
 msgid_plural "DNS Records"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Rekord DNS"
+msgstr[1] "Rekordy DNS"
+msgstr[2] "Rokordów DNS"
 
 #: src/js/pages/admin/dns/edit.vue:37 src/js/pages/user/dns/security.vue:1
 msgid "DNS Security"
@@ -3062,7 +3062,7 @@ msgstr "Wskaźniki Domen"
 
 #: src/js/components/local/dns/records-table.vue:144
 msgid "Domain record was updated successfully"
-msgstr ""
+msgstr "Rekord domeny został pomyślnie zaktualizowany"
 
 #: src/js/modules/navigation/user.js:14 src/js/modules/widgets.js:9
 msgid "Domain Setup"
@@ -3101,7 +3101,7 @@ msgstr "Domeny"
 #: src/js/pages/admin/backups/modify.vue:204
 #: src/js/pages/admin/backups/schedule.vue:220
 msgid "Domains Directory"
-msgstr ""
+msgstr "Katalogi Domen"
 
 #: src/js/pages/user/backup/index.vue:22
 #: src/js/pages/user/backup/restore.vue:24
@@ -3211,7 +3211,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:103
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:102
 msgid "E-mail Data"
-msgstr ""
+msgstr "Dane poczty E-mail"
 
 #: src/js/pages/user/backup/index.vue:44
 #: src/js/pages/user/backup/restore.vue:46
@@ -3334,7 +3334,7 @@ msgstr ""
 
 #: src/js/pages/admin/dns/edit.vue:11
 msgid "Edit DNS Records for %{ domain }"
-msgstr ""
+msgstr "Edytuj rekord DNS domeny %{ domain }"
 
 #: src/js/components/local/edit-admin-message-dialog.vue:3
 #: src/js/components/local/edit-reseller-message-dialog.vue:3
@@ -3475,11 +3475,11 @@ msgstr "Wpisz hasło:"
 #: src/js/pages/admin/custom-httpd/index.vue:28
 #: src/js/pages/admin/custom-httpd/index.vue:31
 msgid "equal"
-msgstr ""
+msgstr "jest równa"
 
 #: src/js/pages/admin/dns/index.vue:24 src/js/pages/admin/dns/index.vue:30
 msgid "Equals"
-msgstr ""
+msgstr "Są równe"
 
 #: src/js/pages/user/two-step-auth.vue:281
 msgid "Error"
@@ -3664,14 +3664,14 @@ msgstr ""
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:9
 msgid "File:"
 msgid_plural "Files:"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Plik:"
+msgstr[1] "Pliki:"
+msgstr[2] "Plików:"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:8
 msgid "Filename"
-msgstr ""
+msgstr "Nazwa pliku"
 
 #: src/js/components/local/filemanager/search.vue:21
 #: src/js/pages/admin/backups/restore.vue:131
@@ -3684,7 +3684,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:35
 #: src/js/pages/reseller/backups/restore.vue:118
 msgid "Files"
-msgstr ""
+msgstr "Pliki"
 
 #: src/js/pages/user/disk-usage.vue:33
 msgid "files owned by %{ owner } in"
@@ -3708,7 +3708,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/view.vue:72
 msgid "Filter Tokens"
-msgstr ""
+msgstr "Filtruj tokeny"
 
 #: src/js/components/local/filemanager/files-table.vue:64
 msgid "Filtered by name:"
@@ -3760,14 +3760,14 @@ msgstr ""
 #: src/js/pages/user/email/forwarders.vue:61
 msgid "forwarder"
 msgid_plural "forwarders"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "przekierowanie"
+msgstr[1] "przekierowania"
+msgstr[2] "przekierowań"
 
 #: src/js/pages/user/email/forwarders.vue:19
 #: src/js/pages/user/email/forwarders.vue:24
 msgid "Forwarder"
-msgstr ""
+msgstr "Przekierowanie"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:10
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:8
@@ -3785,7 +3785,7 @@ msgstr[2] ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:101
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:100
 msgid "Forwarders"
-msgstr ""
+msgstr "Przekierowania"
 
 #: src/js/pages/user/backup/index.vue:58
 #: src/js/pages/user/backup/restore.vue:60
@@ -3821,7 +3821,7 @@ msgstr "Zamrożona"
 #: src/js/pages/user/ftp-accounts/create.vue:125
 #: src/js/pages/user/ftp-accounts/edit.vue:123
 msgid "Ftp"
-msgstr ""
+msgstr "Ftp"
 
 #: src/js/pages/admin/backups/modify.vue:131
 #: src/js/pages/admin/backups/restore.vue:39
@@ -3834,7 +3834,7 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:164 src/js/pages/user/bandwidth.vue:213
 #: src/js/pages/user/bandwidth.vue:261
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #: src/js/pages/user/ftp-accounts/create.vue:130
 #: src/js/pages/user/ftp-accounts/edit.vue:128
@@ -3903,7 +3903,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:98
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:97
 msgid "FTP Settings"
-msgstr ""
+msgstr "Ustawienia FTP"
 
 #: src/js/pages/user/ftp-accounts/create.vue:25
 msgid "FTP Username"
@@ -3993,7 +3993,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/view.vue:85
 msgid "Hide Empty"
-msgstr ""
+msgstr "Ukryj puste"
 
 #: src/js/pages/user/disk-usage.vue:17
 msgid "Hide entries which are already included in the System Quotas"
@@ -4045,13 +4045,13 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:17
 #: src/js/pages/user/cronjobs/index.vue:25
 msgid "Hour"
-msgstr ""
+msgstr "Godzina"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:30
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:26
 #: src/js/pages/reseller/backups/index.vue:41
 msgid "Hour: %{hour}"
-msgstr ""
+msgstr "Godzina: %{hour}"
 
 #: src/js/pages/admin/settings.vue:276
 msgid "hours after last attempt."
@@ -4065,7 +4065,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:63
 msgid "HTTPD data"
-msgstr ""
+msgstr "Dane HTTPD"
 
 #: src/js/components/global/ui/ui-color-picker.vue:52
 msgid "Hue"
@@ -4100,7 +4100,7 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:109
 #: src/js/pages/reseller/backups/restore.vue:103
 msgid "If the user already exists, this setting will have no effect."
-msgstr ""
+msgstr "Jeżeli taki użytkownik już istnieje ustawienia nie odniosą skutku."
 
 #: src/js/pages/admin/backups/restore.vue:116
 msgid ""
@@ -4108,6 +4108,9 @@ msgid ""
 "system will not be included. If there no IPs to be used, a Reseller or Admin "
 "will be restored to the server IP."
 msgstr ""
+"Jeżeli użyjesz adresu IP z kopii zapasowej a dany adres IP nie istnieje w "
+"systemie, zostanie on pominięty. Jeżeli nie ma wolnych adresów IP to "
+"Reseller lub Administrator zostanie przywrócony z adresem IP serwera."
 
 #: src/js/pages/admin/log-viewer/view.vue:48
 msgid "Ignore Case"
@@ -4146,7 +4149,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:109
 msgid "Incremental file-by-file backup"
-msgstr ""
+msgstr "Przyrostowa kopia zapasowa file-by-file"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:35
 msgid "Index"
@@ -4341,7 +4344,7 @@ msgstr ""
 #: src/js/pages/reseller/ip-config.vue:1 src/js/modules/navigation/admin.js:77
 #: src/js/modules/navigation/reseller.js:47
 msgid "IP Management"
-msgstr ""
+msgstr "Zarządzanie adresami IP"
 
 #: src/js/pages/admin/ip-manager/index.vue:1 src/js/modules/widgets.js:19
 #: src/js/modules/widgets.js:49
@@ -4638,16 +4641,16 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:32
 #: src/js/pages/admin/backups/schedule.vue:141
 msgid "Local"
-msgstr ""
+msgstr "Lokalnie"
 
 #: src/js/pages/admin/dns/index.vue:50 src/js/pages/admin/dns/index.vue:79
 #: src/js/pages/admin/dns/index.vue:86
 msgid "Local Data"
-msgstr ""
+msgstr "Dane lokalne"
 
 #: src/js/pages/admin/dns/index.vue:64 src/js/pages/admin/dns/index.vue:90
 msgid "Local Mail"
-msgstr ""
+msgstr "Poczta lokalna"
 
 #: src/js/pages/user/redirects.vue:18 src/js/pages/user/redirects.vue:68
 #: src/js/pages/user/redirects.vue:21
@@ -4665,7 +4668,7 @@ msgstr ""
 
 #: src/js/pages/admin/backups/restore.vue:123
 msgid "Location"
-msgstr ""
+msgstr "Lokalizacja"
 
 #: src/js/pages/reseller/backups/restore.vue:112
 msgid "Location: %{location}"
@@ -5094,6 +5097,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:49
 msgid "Minumum disk space required for backup (MB)"
 msgstr ""
+"Wymagane minimalne wolne miejsce na dysku do wykonania kopii zapasowej (MB)"
 
 #: src/js/pages/admin/backups/modify.vue:87
 #: src/js/pages/admin/backups/schedule.vue:102
@@ -5105,7 +5109,7 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:17 src/js/pages/admin/cron-jobs.vue:16
 #: src/js/pages/user/cronjobs/index.vue:22
 msgid "Minute"
-msgstr "Minutę"
+msgstr "Minuta"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:29
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:25
@@ -5147,7 +5151,7 @@ msgstr ""
 
 #: src/js/pages/admin/backups/modify.vue:1
 msgid "Modify Backup Schedule"
-msgstr ""
+msgstr "Zmodyfikuj harmonogram kopii zapasowej"
 
 #: src/js/pages/user/domains/edit.vue:1
 msgid "Modify Domain"
@@ -5253,13 +5257,13 @@ msgstr ""
 #: src/js/pages/user/stats/domain-statistics.vue:29
 #: src/js/pages/admin/cron-jobs.vue:19 src/js/pages/user/cronjobs/index.vue:31
 msgid "Month"
-msgstr ""
+msgstr "Miesiąc"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:32
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:28
 #: src/js/pages/reseller/backups/index.vue:43
 msgid "Month: %{month}"
-msgstr ""
+msgstr "Miesiąc: %{month}"
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:240
 msgid "Mounted on"
@@ -5283,11 +5287,11 @@ msgstr "Użytkowników pomiędzy Resellerami"
 
 #: src/js/pages/admin/multi-server.vue:24
 msgid "Multi Server is currently turned OFF"
-msgstr ""
+msgstr "Multi Serwer jest obecnie WYŁĄCZONY"
 
 #: src/js/pages/admin/multi-server.vue:1 src/js/modules/navigation/admin.js:82
 msgid "Multi Server Setup"
-msgstr ""
+msgstr "Ustawienia Multi Serwer"
 
 #: src/js/pages/user/email/lists/modify.vue:139
 msgid "Mungedomain"
@@ -5295,7 +5299,7 @@ msgstr ""
 
 #: src/js/modules/navigation/user.js:97
 msgid "MX Records"
-msgstr ""
+msgstr "Rekordy MX"
 
 #: src/js/pages/user/messages/index.vue:1
 msgid "My messages"
@@ -5467,7 +5471,7 @@ msgstr "Następna"
 
 #: src/js/components/global/ui/ui-steps.vue:34
 msgid "Next Step"
-msgstr ""
+msgstr "Następny krok"
 
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:71
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:81
@@ -5534,6 +5538,9 @@ msgid ""
 "Note that you must set the IP to be shared if you want to add multiple users "
 "to it. If you select a non-shared IP, you can only restore 1 user to it."
 msgstr ""
+"Pamiętaj, że musisz ustawić adres IP jako współdzielony (shared), jeśli "
+"chcesz dodać do niego wielu użytkowników. Jeśli wybierzesz niewspółdzielony "
+"adres IP, możesz przywrócić tylko 1 użytkownika."
 
 #: src/js/pages/user/email/usage/index.vue:112
 msgid ""
@@ -5599,22 +5606,22 @@ msgstr "Listopad"
 
 #: src/js/pages/admin/process-monitor.vue:50
 msgid "now"
-msgstr ""
+msgstr "teraz"
 
 #: src/js/pages/admin/backups/schedule.vue:91
 #: src/js/pages/reseller/backups/schedule.vue:68
 msgid "Now"
-msgstr ""
+msgstr "Teraz"
 
 #: src/js/pages/admin/settings.vue:126
 #: src/js/pages/reseller/users/modify.vue:73
 msgid "NS1"
-msgstr ""
+msgstr "NS1"
 
 #: src/js/pages/admin/settings.vue:132
 #: src/js/pages/reseller/users/modify.vue:79
 msgid "NS2"
-msgstr ""
+msgstr "NS2"
 
 #: src/js/pages/admin/log-viewer/view.vue:26
 msgid "Number of lines from the end"
@@ -5660,13 +5667,15 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:52
 msgid "on partition"
-msgstr ""
+msgstr "na partycji"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:40
 msgid ""
 "On restore, check for domain conflict in domainowners, rather than the named."
 "conf, or remote named.conf files."
 msgstr ""
+"Podczas przywracania kopii zapasowej sprawdzaj konflikty w domainowners "
+"zamiast w named.conf lub w zdalnym named.conf."
 
 #: src/js/pages/reseller/backups/schedule.vue:72
 msgid "On Schedule"
@@ -5686,7 +5695,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/index.vue:25
 msgid "Only domains that"
-msgstr ""
+msgstr "Domena, która"
 
 #: src/js/pages/user/filemanager/index.vue:248
 msgid "Oops, something went wrong..."
@@ -5916,7 +5925,7 @@ msgstr ""
 
 #: src/js/pages/admin/php-safe-mode.vue:1
 msgid "PHP Settings"
-msgstr ""
+msgstr "Ustawienia PHP"
 
 #: src/js/pages/user/domains/edit.vue:76 src/js/pages/user/domains/php.vue:11
 #: src/js/pages/user/domains/php.vue:13
@@ -5926,6 +5935,8 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:11
 msgid "PHP-FPM config customization for %{ user } php-fpm %{ version }"
 msgstr ""
+"Niestandardowa konfiguracja PHP-FPM użytkownika %{ user } dla php-fpm w "
+"wersji %{ version }"
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:1
 msgid "PHP-FPM Configuration"
@@ -6040,7 +6051,7 @@ msgstr "Poprzednia"
 
 #: src/js/components/global/ui/ui-steps.vue:27
 msgid "Previous Step"
-msgstr ""
+msgstr "Poprzedni krok"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:28
 msgid "Primary"
@@ -6074,7 +6085,7 @@ msgstr ""
 #: src/js/pages/admin/process-monitor.vue:1
 #: src/js/modules/navigation/admin.js:110
 msgid "Process Monitor"
-msgstr ""
+msgstr "Monitor procesów"
 
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:5
 #: src/js/pages/user/system-info/_tables/cpu-info-table.vue:7
@@ -6225,9 +6236,9 @@ msgstr "Odbiorca(y)"
 #: src/js/pages/admin/dns/index.vue:128
 msgid "record"
 msgid_plural "records"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "rekord"
+msgstr[1] "rekordy"
+msgstr[2] "rekordów"
 
 #: src/js/pages/user/redirects.vue:114
 msgid "Redirect"
@@ -6258,16 +6269,16 @@ msgstr "Przeładuj"
 
 #: src/js/pages/admin/process-monitor.vue:22
 msgid "Reload every"
-msgstr ""
+msgstr "Odświeżaj co"
 
 #: src/js/pages/admin/backups/restore.vue:86
 #: src/js/pages/reseller/backups/restore.vue:38
 msgid "Reload Files"
-msgstr ""
+msgstr "Ponownie załaduj pliki"
 
 #: src/js/pages/admin/process-monitor.vue:37
 msgid "reload in %{delay} seconds"
-msgstr ""
+msgstr "odświeżenie za %{delay} sekund"
 
 #: src/js/pages/admin/log-viewer/view.vue:60 src/js/pages/user/stats/log.vue:50
 #: src/js/pages/user/subdomains/logs.vue:41
@@ -6276,15 +6287,15 @@ msgstr ""
 
 #: src/js/pages/admin/process-monitor.vue:40
 msgid "reloading..."
-msgstr ""
+msgstr "odświeżanie..."
 
 #: src/js/pages/admin/system-backup.vue:119
 msgid "Remote Host"
-msgstr ""
+msgstr "Adres zdalnego serwera"
 
 #: src/js/pages/admin/system-backup.vue:131
 msgid "Remote Password"
-msgstr ""
+msgstr "Hasło zdalnego serwera"
 
 #: src/js/pages/admin/backups/modify.vue:156
 #: src/js/pages/admin/backups/restore.vue:64
@@ -6294,24 +6305,24 @@ msgstr ""
 #: src/js/pages/reseller/backups/restore.vue:64
 #: src/js/pages/reseller/backups/schedule.vue:147
 msgid "Remote Path"
-msgstr ""
+msgstr "Ścieżka na sewerze zdalnym"
 
 #: src/js/pages/admin/users/index.vue:11 src/js/pages/admin/users/index.vue:26
 msgid "Remote Server"
-msgstr ""
+msgstr "Zdalny serwer"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:25
 msgid "Remote Transfer"
-msgstr ""
+msgstr "Zdalny transfer"
 
 #: src/js/pages/admin/system-backup.vue:95
 msgid "Remote transfer method"
-msgstr ""
+msgstr "Metoda zdalnego transferu"
 
 #: src/js/pages/admin/system-backup.vue:125
 msgid "Remote User"
-msgstr ""
+msgstr "Użytkownik zdalnego serwera"
 
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:15
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:61
@@ -6329,7 +6340,7 @@ msgstr "Usuń adres IP z listy blokowanych po"
 
 #: src/js/pages/admin/process-monitor.vue:12
 msgid "Remove Authentication"
-msgstr ""
+msgstr "Usuń uwierzytelnienie"
 
 #: src/js/pages/user/subdomains/index.vue:107
 msgid "Remove Directory Content"
@@ -6499,7 +6510,7 @@ msgstr "Wyzeruj licznki IP/Użytkownika błędnych logowań po"
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:3
 #: src/js/pages/admin/dns/edit.vue:20
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Przywróć do domyślnych"
 
 #: src/js/components/local/skins/customize-skin-dialog.vue:46
 msgid "Reset logo"
@@ -6530,6 +6541,8 @@ msgstr ""
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:4
 msgid "Resetting the defaults will wipe any custom entries you have made."
 msgstr ""
+"Przywrócenie do wartości domyślnych spowoduje usunięcie wszystkich "
+"wprowadzonych wpisów niestandardowych."
 
 #: src/js/pages/user/email/autoresponders/create.vue:16
 #: src/js/pages/user/email/autoresponders/modify.vue:12
@@ -6555,13 +6568,13 @@ msgstr ""
 #: src/js/pages/reseller/backups/restore.vue:129
 #: src/js/pages/user/backup/restore.vue:127
 msgid "Restore"
-msgstr ""
+msgstr "Przywróć"
 
 #: src/js/pages/admin/backups/restore.vue:1
 #: src/js/pages/reseller/backups/index.vue:16
 #: src/js/pages/user/backup/index.vue:13 src/js/pages/user/backup/restore.vue:1
 msgid "Restore Backup"
-msgstr ""
+msgstr "Przywróć kopię zapasową"
 
 #: src/js/pages/user/backup/restore.vue:19
 msgid "Restore Options"
@@ -6570,12 +6583,12 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:13
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:13
 msgid "Restore with local NameServers."
-msgstr ""
+msgstr "Przywróć używająć lokalnych serwerów nazw."
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:27
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:27
 msgid "Restore with SPF values from backup."
-msgstr ""
+msgstr "Przywróć używając wartości SPF z kopii zapasowej."
 
 #: src/js/pages/user/email/lists/modify.vue:185
 msgid "Restrict Post"
@@ -6597,7 +6610,7 @@ msgstr ""
 
 #: src/js/pages/admin/process-monitor.vue:115
 msgid "Root Password"
-msgstr ""
+msgstr "Hasło root-a"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:47
 #: src/js/pages/reseller/customize-skin/_components/route-editor.vue:10
@@ -6610,7 +6623,7 @@ msgstr ""
 
 #: src/js/pages/admin/system-backup.vue:12
 msgid "Run System Backup right now"
-msgstr ""
+msgstr "Uruchom teraz tworzenie kopii zapasowej systemu"
 
 #: src/js/pages/admin/services.vue:34
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:19
@@ -6706,26 +6719,26 @@ msgstr ""
 #: src/js/pages/admin/backups/index.vue:17
 #: src/js/pages/admin/backups/schedule.vue:270
 msgid "Schedule"
-msgstr ""
+msgstr "Harmonogram"
 
 #: src/js/pages/admin/backups/schedule.vue:1
 #: src/js/pages/reseller/backups/index.vue:13
 #: src/js/pages/reseller/backups/schedule.vue:1
 msgid "Schedule Backup"
-msgstr ""
+msgstr "Harmonogram kopii zapasowej"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:68
 #: src/js/pages/reseller/backups/index.vue:78
 msgid "scheduled backup"
 msgid_plural "scheduled backups"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "harmonogram kopii zapasowej"
+msgstr[1] "harmonogram kopii zapasowych"
+msgstr[2] "harmonogram kopii zapasowych"
 
 #: src/js/pages/admin/backups/index.vue:25
 #: src/js/pages/admin/backups/index.vue:27
 msgid "Scheduled Backups"
-msgstr ""
+msgstr "Harmonogram kopii zapasowych"
 
 #: src/js/pages/user/two-step-auth.vue:139
 #: src/js/pages/user/two-step-auth.vue:141
@@ -6758,7 +6771,7 @@ msgstr ""
 
 #: src/js/pages/admin/process-monitor.vue:32
 msgid "seconds"
-msgstr ""
+msgstr "sekund"
 
 #: src/js/pages/admin/settings.vue:240
 msgid "seconds after the last attempt"
@@ -6775,7 +6788,7 @@ msgstr ""
 #: src/js/pages/reseller/backups/restore.vue:76
 #: src/js/pages/reseller/backups/schedule.vue:159
 msgid "Secure FTP"
-msgstr ""
+msgstr "Bezpiecznie połączenie FTP"
 
 #: src/js/pages/user/stats/index.vue:129
 #: src/js/pages/reseller/users/_components/account-info.vue:229
@@ -6827,14 +6840,14 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:26
 #: src/js/pages/reseller/backups/restore.vue:24
 msgid "Select backup files to restore."
-msgstr ""
+msgstr "Wybierz pliki kopii zapasowej do przywrócenia."
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
 #: src/js/pages/admin/backups/modify.vue:31
 #: src/js/pages/admin/backups/schedule.vue:31
 msgid "Select data you would like to backup."
-msgstr ""
+msgstr "Wybierz dane, z których chcesz utworzyć kopię zapasową."
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:6
 msgid "Select Database"
@@ -6849,14 +6862,14 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:27
 #: src/js/pages/reseller/backups/schedule.vue:28
 msgid "Select directory for backups."
-msgstr ""
+msgstr "Wybierz miejsce wykonania kopii zapasowej."
 
 #: src/js/pages/admin/backups/restore.vue:11
 #: src/js/pages/reseller/backups/restore.vue:11
 #: src/js/pages/admin/backups/restore.vue:16
 #: src/js/pages/reseller/backups/restore.vue:16
 msgid "Select directory for restore."
-msgstr ""
+msgstr "Wybierz katalog do przywracania."
 
 #: src/js/components/global/input/input-dropzone.vue:13
 msgid "Select file to upload"
@@ -6872,7 +6885,7 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:11
 #: src/js/pages/admin/backups/restore.vue:21
 msgid "Select IP address used for restore."
-msgstr ""
+msgstr "Wybierz adres IP, który zostanie użyty podczas przywracania."
 
 #: src/js/pages/user/domains/_components/add-ip-to-domain-dialog.vue:8
 msgid "Select IP to Add"
@@ -6912,7 +6925,7 @@ msgstr "Wybierz użytkowników z"
 #: src/js/pages/reseller/backups/modify.vue:22
 #: src/js/pages/reseller/backups/schedule.vue:23
 msgid "Select time period for backup."
-msgstr ""
+msgstr "Wybierz termin kiedy wykonać kopię zapasową."
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:20
@@ -6932,12 +6945,12 @@ msgstr "Wybierz Użytkowników"
 #: src/js/pages/reseller/backups/modify.vue:17
 #: src/js/pages/reseller/backups/schedule.vue:18
 msgid "Select users you would like to backup."
-msgstr ""
+msgstr "Wybierz użytkowników, dla których chcesz wykonać kopię zapasową."
 
 #: src/js/pages/admin/backups/modify.vue:199
 #: src/js/pages/admin/backups/schedule.vue:215
 msgid "Selected Data"
-msgstr ""
+msgstr "Wybrane dane"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:9
 msgid "Selected entries count: %{n}"
@@ -6962,7 +6975,7 @@ msgstr[2] "wybranych skórek"
 #: src/js/pages/reseller/backups/modify.vue:37
 #: src/js/pages/reseller/backups/schedule.vue:38
 msgid "Selected Users"
-msgstr ""
+msgstr "Zaznaczeni Użytkownicy"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:39
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:35
@@ -6991,7 +7004,7 @@ msgstr "Wyślij wiadomość"
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:7
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:7
 msgid "Send a message when a backup has finished."
-msgstr ""
+msgstr "Wyślij wiadomość kiedy kopia zapasowa będzie ukończona."
 
 #: src/js/pages/user/cronjobs/index.vue:62
 msgid "Send all cron output to e-mail"
@@ -7336,7 +7349,7 @@ msgstr ""
 
 #: src/js/pages/admin/dns/index.vue:21
 msgid "Show domains that"
-msgstr ""
+msgstr "Pokaż domeny, które"
 
 #: src/js/pages/admin/log-viewer/view.vue:21
 msgid "Show Entire File"
@@ -7471,7 +7484,7 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:78
 #: src/js/pages/reseller/backups/schedule.vue:62
 msgid "Skip Suspended"
-msgstr ""
+msgstr "Pomiń zawieszonych"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:25
@@ -7598,11 +7611,11 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/index.vue:28
 #: src/js/pages/admin/custom-httpd/index.vue:33
 msgid "starts with"
-msgstr ""
+msgstr "rozpoczyna się"
 
 #: src/js/pages/admin/dns/index.vue:24 src/js/pages/admin/dns/index.vue:28
 msgid "Starts With"
-msgstr ""
+msgstr "Rozpoczynają się od"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:22
 msgid "State/Province"
@@ -7654,7 +7667,7 @@ msgstr ""
 #: src/js/pages/admin/backups/restore.vue:15
 #: src/js/pages/reseller/backups/restore.vue:15
 msgid "Step 1: From Where"
-msgstr ""
+msgstr "Krok 1: Skąd"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
@@ -7665,14 +7678,14 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:16
 #: src/js/pages/reseller/backups/schedule.vue:17
 msgid "Step 1: Who"
-msgstr ""
+msgstr "Krok 1: Kto"
 
 #: src/js/pages/admin/backups/restore.vue:11
 #: src/js/pages/reseller/backups/restore.vue:11
 #: src/js/pages/admin/backups/restore.vue:20
 #: src/js/pages/reseller/backups/restore.vue:19
 msgid "Step 2: Select IP"
-msgstr ""
+msgstr "Ktok 2: Wybierz adres IP"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
@@ -7683,14 +7696,14 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:21
 #: src/js/pages/reseller/backups/schedule.vue:22
 msgid "Step 2: When"
-msgstr ""
+msgstr "Ktok 2: Kiedy"
 
 #: src/js/pages/admin/backups/restore.vue:11
 #: src/js/pages/reseller/backups/restore.vue:11
 #: src/js/pages/admin/backups/restore.vue:25
 #: src/js/pages/reseller/backups/restore.vue:23
 msgid "Step 3: Select File(s)"
-msgstr ""
+msgstr "Krok 3: Wybierz plik(i)"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
@@ -7701,14 +7714,14 @@ msgstr ""
 #: src/js/pages/reseller/backups/modify.vue:26
 #: src/js/pages/reseller/backups/schedule.vue:27
 msgid "Step 3: Where"
-msgstr ""
+msgstr "Krok 3: Gdzie"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
 #: src/js/pages/admin/backups/modify.vue:30
 #: src/js/pages/admin/backups/schedule.vue:30
 msgid "Step 4: What"
-msgstr ""
+msgstr "Krok 4: Co"
 
 #: src/js/pages/admin/services.vue:58
 msgid "Stop"
@@ -7751,7 +7764,7 @@ msgstr[2] "subdomen"
 #: src/js/pages/admin/backups/_components/crons-table.vue:96
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:95
 msgid "Subdomain Lists"
-msgstr "Lista subdomen"
+msgstr "Listy subdomen"
 
 #: src/js/modules/navigation/user.js:19
 msgid "Subdomain Management"
@@ -7924,7 +7937,7 @@ msgstr ""
 #: src/js/pages/admin/system-backup.vue:1
 #: src/js/modules/navigation/admin.js:125
 msgid "System Backup"
-msgstr ""
+msgstr "Kopia zapasowa systemu"
 
 #: src/js/pages/user/stats/index.vue:129
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:3
@@ -7994,7 +8007,7 @@ msgstr ""
 
 #: src/js/pages/admin/custom-httpd/view.vue:38
 msgid "Templates"
-msgstr ""
+msgstr "Szablony"
 
 #: src/js/pages/user/two-step-auth.vue:74
 msgid "Test Code"
@@ -8018,7 +8031,7 @@ msgstr ""
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:36
 msgid "Thaw"
-msgstr "Odmoź"
+msgstr "Odmroź"
 
 #: src/js/pages/admin/ip-manager/details.vue:156
 msgid ""
@@ -8221,11 +8234,11 @@ msgstr ""
 
 #: src/js/pages/admin/multi-server.vue:16
 msgid "Turn off"
-msgstr ""
+msgstr "Wyłącz"
 
 #: src/js/pages/admin/multi-server.vue:13
 msgid "Turn on"
-msgstr ""
+msgstr "Włącz"
 
 #: src/js/components/local/two-step-auth-dialog.vue:3
 msgid "Two Step Authentication"
@@ -8482,12 +8495,12 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:32
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:32
 msgid "Use local SPF values."
-msgstr ""
+msgstr "Użyj lokalnych wartości SPF."
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:18
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:18
 msgid "Use NS values from backup."
-msgstr ""
+msgstr "Użyj serwerów nazw z kopii zapasowej."
 
 #: src/js/pages/admin/settings.vue:356
 msgid "Use RBL Blocking"
@@ -8495,7 +8508,7 @@ msgstr "Używaj blokowania na podstwie list RBL"
 
 #: src/js/pages/admin/system-backup.vue:91
 msgid "Use Remote Transfer"
-msgstr ""
+msgstr "Użyj zdalnego transferu"
 
 #: src/js/pages/user/email/spamassassin.vue:125
 msgid "Use text-only attachments."
@@ -8514,16 +8527,16 @@ msgstr ""
 
 #: src/js/pages/admin/backups/restore.vue:96
 msgid "Use the IP from the list"
-msgstr ""
+msgstr "Użyj adresu IP z listy"
 
 #: src/js/pages/reseller/backups/restore.vue:90
 msgid "Use the IP from the list:"
-msgstr ""
+msgstr "Użyj adresu IP z listy:"
 
 #: src/js/pages/admin/backups/restore.vue:92
 #: src/js/pages/reseller/backups/restore.vue:86
 msgid "Use the IP stored in the backup"
-msgstr ""
+msgstr "Użyj adresu IP z kopii zapasowej"
 
 #: src/js/pages/user/ssl/index.vue:123
 msgid "Use the server's certificate"
@@ -8551,9 +8564,9 @@ msgstr "Użyte"
 #: src/js/pages/user/protected-directories/view.vue:57
 msgid "user"
 msgid_plural "users"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "użytkownik"
+msgstr[1] "użytkowników"
+msgstr[2] "użytkowników"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:68
 #: src/js/pages/admin/brute-force-monitor/user_list.vue:12
@@ -8573,9 +8586,9 @@ msgstr[2] ""
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:42
 msgid "User"
 msgid_plural "Users"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Użytkownik"
+msgstr[1] "Użytkowników"
+msgstr[2] "Użytkowników"
 
 #: src/js/pages/admin/settings.vue:328
 msgid "User can set limit per E-mail"
@@ -8732,14 +8745,14 @@ msgstr ""
 #: src/js/pages/user/email/vacations/index.vue:63
 msgid "vacation message"
 msgid_plural "vacation messages"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "wiadomość wakacyjna"
+msgstr[1] "wiadomości wakacyjne"
+msgstr[2] "wiadomości wakacyjnych"
 
 #: src/js/pages/user/email/vacations/create.vue:94
 #: src/js/pages/user/email/vacations/modify.vue:90
 msgid "Vacation Message:"
-msgstr ""
+msgstr "Wiadomość wakacyjna:"
 
 #: src/js/pages/admin/backups/modify.vue:234
 #: src/js/pages/admin/backups/schedule.vue:250
@@ -8748,7 +8761,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:105
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:104
 msgid "Vacation Messages"
-msgstr ""
+msgstr "Wiadomości wakacyjne"
 
 #: src/js/pages/user/backup/index.vue:72
 #: src/js/pages/user/backup/restore.vue:74
@@ -8846,7 +8859,7 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/view.vue:65
 #: src/js/pages/admin/custom-httpd/view.vue:69
 msgid "View All Available Tokens"
-msgstr ""
+msgstr "Pokaż wszystkie dostępne tokeny"
 
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:3
 #: src/js/pages/user/filemanager/index.vue:122
@@ -8860,7 +8873,7 @@ msgstr ""
 #: src/js/pages/admin/custom-httpd/view.vue:1
 #: src/js/pages/admin/custom-httpd/view.vue:14
 msgid "View Domain Configuration"
-msgstr ""
+msgstr "Szczegóły konfiguracji domeny"
 
 #: src/js/components/local/stats/webalizer-table.vue:75
 msgid "View Error Log"
@@ -9008,7 +9021,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/crons-table.vue:11
 msgid "What"
-msgstr ""
+msgstr "Co"
 
 #: src/js/pages/user/email/spamassassin.vue:41
 msgid "What score threshold do you wish to use?"
@@ -9019,7 +9032,7 @@ msgstr ""
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:16
 #: src/js/pages/admin/backups/_components/crons-table.vue:8
 msgid "When"
-msgstr ""
+msgstr "Kiedy"
 
 #: src/js/pages/admin/backups/restore.vue:112
 msgid ""
@@ -9027,6 +9040,9 @@ msgid ""
 "Reseller will only receive the single IP.\n"
 "You would need to add extra IPs to that accounts IP list after he's created."
 msgstr ""
+"Jeżeli przywracasz Resellera lub Administratora i wybierzesz adres IP z "
+"listy, dany Reseller otrzyma tylko to jedno IP. Dodatkowe adresy IP możesz "
+"dodać po przywróceniu danego konta."
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -9037,7 +9053,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:22
 #: src/js/pages/reseller/backups/index.vue:25
 msgid "Where"
-msgstr ""
+msgstr "Gdzie"
 
 #: src/js/pages/user/email/spamassassin.vue:21
 msgid "Where do you want the spam to go?"
@@ -9061,7 +9077,7 @@ msgstr ""
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:21
 #: src/js/pages/reseller/backups/index.vue:24
 msgid "Who"
-msgstr ""
+msgstr "Kto"
 
 #: src/js/pages/user/email/lists/modify.vue:121
 msgid "Who Access"
@@ -9083,15 +9099,15 @@ msgstr ""
 
 #: src/js/pages/admin/dns/add.vue:23
 msgid "Wrong format for a domain"
-msgstr ""
+msgstr "Niepoprawny format domeny"
 
 #: src/js/pages/admin/dns/add.vue:50 src/js/pages/admin/dns/add.vue:66
 msgid "Wrong format for a nameserver"
-msgstr ""
+msgstr "Niepoprawny format serwera nazw"
 
 #: src/js/pages/admin/dns/add.vue:34
 msgid "Wrong IP format"
-msgstr ""
+msgstr "Niepoprawny format adresu IP"
 
 #: src/js/components/local/history/chart.vue:4
 msgid "Year:"
@@ -9109,7 +9125,7 @@ msgstr ""
 #: src/js/pages/user/ftp-accounts/index.vue:66
 #: src/js/pages/user/email/lists/modify.vue:329
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: src/js/pages/user/email/spamassassin.vue:77
 msgid "Yes, block all spam scoring higher than:"

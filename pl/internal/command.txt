@@ -103,8 +103,8 @@
 103=Nie można utworzyć odwrotnego IP
 104=Podana strefa już istnieje
 105=Nie można utworzyć strefy.<br><br>Istnieje już w systemie:
-106=Resetuj strefę
-107=Wystąpił błąd podczas resetowania strefy
+106=Przywróć strefę do wartości domyślnych
+107=Wystąpił błąd podczas przywracania strefy do wartości domyślnych
 108=%sCzy na pewno chcesz usunąć wybrane strefy?%s
 109=został usunięty z listy.
 110=nie został usunięty ponieważ najpierw musi być zwolniony.
