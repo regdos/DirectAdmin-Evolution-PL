@@ -623,7 +623,7 @@ msgstr ""
 
 #: src/js/pages/admin/plugin-manager.vue:82
 msgid "Add Plugin"
-msgstr ""
+msgstr "Dodaj wtyczkę"
 
 #: src/js/pages/user/two-step-auth.vue:165
 msgid "Add Scratch Codes"
@@ -656,11 +656,11 @@ msgstr ""
 #: src/js/components/local/filemanager/actions.vue:30
 #: src/js/components/local/filemanager/files-table.vue:235
 msgid "Add to clipboard"
-msgstr ""
+msgstr "Dodaj do schowka"
 
 #: src/js/components/local/filemanager/files-table.vue:296
 msgid "Add To Clipboard"
-msgstr ""
+msgstr "Dodaj do schowka"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:47
 msgid "Add to device"
@@ -829,7 +829,7 @@ msgstr ""
 
 #: src/js/pages/admin/cron-jobs.vue:1 src/js/modules/navigation/admin.js:138
 msgid "All User Cron Jobs"
-msgstr ""
+msgstr "Harmonogram zadań wszystkich Użytkowników"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:37
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:33
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #: src/js/pages/admin/plugin-manager.vue:129
 msgid "Are you sure you want to activate “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz aktywować wtyczkę \"% {name}\"?"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:4
 msgid "Are you sure you want to add selected IP to skip list?"
@@ -1038,11 +1038,11 @@ msgstr ""
 
 #: src/js/pages/admin/plugin-manager.vue:126
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz dezaktywować wtyczkę \"% {name}\"?"
 
 #: src/js/pages/admin/plugin-manager.vue:141
 msgid "Are you sure you want to delete “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć wtyczkę \"% {name}\"?"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Are you sure you want to delete selected %{subject}?"
@@ -1050,7 +1050,7 @@ msgstr "Czy na pewno chcesz usunąć wybrany %{subject}?"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć wybrane pliki?"
 
 #: src/js/pages/reseller/users/_components/delete-user-dialog.vue:6
 msgid "Are you sure you want to delete user %{user}?"
@@ -1066,7 +1066,7 @@ msgstr "Czy na pewno chcesz wyłączyć tę funkcję?"
 
 #: src/js/pages/admin/plugin-manager.vue:135
 msgid "Are you sure you want to install “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz zainstalować wtyczkę \"% {name}\"?"
 
 #: src/js/pages/admin/services.vue:73
 msgid "Are you sure you want to reboot server?"
@@ -1085,7 +1085,7 @@ msgstr[2] ""
 
 #: src/js/pages/admin/plugin-manager.vue:138
 msgid "Are you sure you want to uninstall “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz odinstalować wtyczkę \"% {name}\"?"
 
 #: src/js/pages/admin/ip-manager/details.vue:179
 msgid "Are you sure you want to unlink selected IP?"
@@ -1096,7 +1096,7 @@ msgstr[2] ""
 
 #: src/js/pages/admin/plugin-manager.vue:132
 msgid "Are you sure you want to update “%{ name }” plugin?"
-msgstr ""
+msgstr "Czy na pewno chcesz zaktualizować wtyczkę \"% {name}\"?"
 
 #: src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:33
 #: src/js/pages/admin/ip-manager/index.vue:19
@@ -1150,7 +1150,7 @@ msgstr ""
 #: src/js/pages/admin/brute-force-monitor/index.vue:76
 #: src/js/pages/user/login-history.vue:16
 msgid "Attempts"
-msgstr ""
+msgstr "Ilość prób"
 
 #: src/js/pages/user/login-keys/create.vue:260
 #: src/js/pages/user/login-keys/modify.vue:240
@@ -1186,7 +1186,7 @@ msgstr "Uwierzytelnienie"
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:25
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: src/js/pages/user/email/lists/modify.vue:340
 msgid "Auto"
@@ -1202,7 +1202,7 @@ msgstr ""
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:36
 msgid "Automatically delete messages older than"
-msgstr ""
+msgstr "Automatycznie usuwaj wiadomości starsze niż"
 
 #: src/js/pages/user/login-keys/create.vue:85
 #: src/js/pages/user/login-keys/modify.vue:71
@@ -1212,7 +1212,7 @@ msgstr ""
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:19
 msgid "Automatically delete tickets older than"
-msgstr ""
+msgstr "Automatycznie usuwaj zgłoszenia starsze niż"
 
 #: src/js/pages/user/email/autoresponders/index.vue:57
 msgid "autoresponder"
@@ -1262,7 +1262,7 @@ msgstr "Dostępna pamięć"
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:21
 msgid "Available Version"
-msgstr ""
+msgstr "Dostępna wersja"
 
 #: src/js/pages/user/email/catch-all.vue:45
 msgid ""
@@ -1509,7 +1509,7 @@ msgstr "Cache pamięci SWAP"
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:23
 msgid "Can Update"
-msgstr ""
+msgstr "Możliwa aktualizacja"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:54
 #: src/js/pages/reseller/stats.vue:195
@@ -1679,11 +1679,11 @@ msgstr ""
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:46
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:36
 msgid "Clear"
-msgstr ""
+msgstr "Wyczyść"
 
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:31
 msgid "Clear Clipboard"
-msgstr ""
+msgstr "Wyczyść schowek"
 
 #: src/js/pages/admin/settings.vue:280
 msgid "Clear failed login attempts from log"
@@ -1704,7 +1704,7 @@ msgstr ""
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:3
 #: src/js/pages/user/messages/index.vue:56
 msgid "Clear Message System"
-msgstr ""
+msgstr "Wyczyść system wiadomości"
 
 #: src/js/pages/admin/ip-manager/index.vue:19
 #: src/js/pages/admin/ip-manager/index.vue:34
@@ -1740,15 +1740,15 @@ msgstr "ID klienta"
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:36
 msgid "Clipboard"
-msgstr ""
+msgstr "Schowek"
 
 #: src/js/pages/user/filemanager/index.vue:105
 msgid "Clipboard Actions"
-msgstr ""
+msgstr "Działania w schowku"
 
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:8
 msgid "Clipboard is empty"
-msgstr ""
+msgstr "Schowej jest pusty"
 
 #: src/js/components/global/ui/ui-dialog.vue:25
 #: src/js/components/global/ui/ui-dialog.vue:67
@@ -1781,7 +1781,7 @@ msgstr ""
 
 #: src/js/pages/reseller/tickets.vue:40
 msgid "Closed (%{ count })"
-msgstr ""
+msgstr "Zamknięte (%{ count })"
 
 #: src/js/pages/user/email/lists/modify.vue:347
 msgid "Closed+Confirm"
@@ -1819,12 +1819,12 @@ msgstr ""
 #: src/js/pages/user/cronjobs/index.vue:37
 #: src/js/pages/user/login-keys/log.vue:19
 msgid "Command"
-msgstr ""
+msgstr "Komenda"
 
 #: src/js/pages/user/login-keys/create.vue:101
 #: src/js/pages/user/login-keys/modify.vue:87
 msgid "Commands:"
-msgstr ""
+msgstr "Komendy:"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:13
 #: src/js/pages/admin/brute-force-monitor/skip_list.vue:19
@@ -1860,7 +1860,7 @@ msgstr "Kompilacja dla"
 
 #: src/js/modules/navigation/admin.js:163
 msgid "Complete Usage Statistics"
-msgstr ""
+msgstr "Pełne statystyki zużycia"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:32
 msgid "Compress"
@@ -1869,7 +1869,7 @@ msgstr ""
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:3
 #: src/js/pages/user/filemanager/index.vue:114
 msgid "Compress Files"
-msgstr ""
+msgstr "Kompresuj pliki"
 
 #: src/js/pages/admin/custom-httpd/view.vue:33
 msgid "Configuration Check"
@@ -1936,24 +1936,24 @@ msgstr ""
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:7
 #: src/js/components/local/filemanager/files-table.vue:291
 msgid "Copy File"
-msgstr ""
+msgstr "Skopiuj plik"
 
 #: src/js/pages/user/filemanager/index.vue:111
 msgid "Copy files"
-msgstr ""
+msgstr "Skopiuj pliki"
 
 #: src/js/pages/user/ftp-accounts/create.vue:62
 #: src/js/pages/user/ftp-accounts/edit.vue:39
 msgid "Copy Password"
-msgstr ""
+msgstr "Skopiuj hasło"
 
 #: src/js/pages/user/ssl/ca-cert.vue:16
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Kopiuj do schowka"
 
 #: src/js/pages/admin/plugin-manager.vue:33
 msgid "Corrupted Plugin"
-msgstr ""
+msgstr "Uszkodzona wtyczka"
 
 #: src/js/pages/user/email/usage/index.vue:42
 msgid "Count"
@@ -2063,11 +2063,11 @@ msgstr ""
 #: src/js/pages/user/filemanager/index.vue:20
 #: src/js/pages/user/filemanager/index.vue:56
 msgid "Create File"
-msgstr ""
+msgstr "Utwóz plik"
 
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:5
 msgid "Create Folder"
-msgstr ""
+msgstr "Utwórz folder"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:3
 msgid "Create Forwarder"
@@ -2514,13 +2514,13 @@ msgstr "Dzień tygodnia: %{dayofweek}"
 
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:25
 msgid "day(s)"
-msgstr ""
+msgstr "dzień/dni"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:32
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:28
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:45
 msgid "days"
-msgstr ""
+msgstr "dni"
 
 #: src/js/pages/admin/settings.vue:283
 msgid "days after entry was made."
@@ -2536,7 +2536,7 @@ msgstr "Bazy Danych"
 
 #: src/js/pages/admin/plugin-manager.vue:58
 msgid "Deactivate"
-msgstr ""
+msgstr "Dezaktywuj"
 
 #: src/js/pages/user/login-keys/create.vue:264
 #: src/js/pages/user/login-keys/modify.vue:244
@@ -3137,9 +3137,9 @@ msgstr ""
 #: src/js/components/global/input/input-dropzone.vue:34
 msgid "Drop file here or click to upload"
 msgid_plural "Drop files here or click to upload"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Przeciągnij plik tutaj lub kliknij żeby go przesłać"
+msgstr[1] "Przeciągnij pliki tutaj lub kliknij żeby je przesłać"
+msgstr[2] "Przeciągnij pliki tutaj lub kliknij żeby je przesłać"
 
 #: src/js/pages/user/dns/security.vue:136
 msgid "DS Record"
@@ -3168,11 +3168,11 @@ msgstr "Adres E-mail"
 
 #: src/js/pages/reseller/tickets.vue:120
 msgid "E-mail a copy of all messages"
-msgstr ""
+msgstr "Wysyłaj kopie wszystkich zgłoszeń na e-mail"
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:9
 msgid "E-mail a copy of all messages to"
-msgstr ""
+msgstr "Wysyłaj kopie wszystkich zgłoszeń na e-mail"
 
 #: src/js/pages/user/email/accounts/index.vue:25
 msgid "E-mail accounts"
@@ -3401,7 +3401,7 @@ msgstr ""
 
 #: src/js/pages/user/filemanager/index.vue:117
 msgid "Empty Clipboard"
-msgstr ""
+msgstr "Opróżnij schowek"
 
 #: src/js/pages/admin/settings.vue:88
 msgid ""
@@ -3572,7 +3572,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:109
 #: src/js/modules/navigation/user.js:185
 msgid "Extra Features"
-msgstr ""
+msgstr "Dodatkowe funkcje"
 
 #: src/js/components/local/filemanager/dialogs/extract-file-dialog.vue:17
 #: src/js/components/local/filemanager/files-table.vue:302
@@ -3632,34 +3632,34 @@ msgstr ""
 #: src/js/pages/admin/file-editor.vue:16
 #: src/js/pages/admin/log-viewer/index.vue:16
 msgid "File"
-msgstr ""
+msgstr "Plik"
 
 #: src/js/pages/admin/file-editor.vue:1 src/js/modules/navigation/admin.js:148
 msgid "File Editor"
-msgstr ""
+msgstr "Edytor plików"
 
 #: src/js/pages/user/filemanager/index.vue:1
 #: src/js/modules/navigation/admin.js:143
 #: src/js/modules/navigation/reseller.js:93
 #: src/js/modules/navigation/user.js:163
 msgid "File Manager"
-msgstr ""
+msgstr "Zarządzanie plikami"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:14
 msgid "File Name"
-msgstr ""
+msgstr "Nazwa pliku"
 
 #: src/js/components/local/filemanager/dialogs/create-file-dialog.vue:11
 msgid "File Name:"
-msgstr ""
+msgstr "Nazwa pliku:"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:23
 msgid "File Type"
-msgstr ""
+msgstr "Typ pliku"
 
 #: src/js/components/global/input/input-dropzone.vue:208
 msgid "File was not added due to max file size limit"
-msgstr ""
+msgstr "Plik nie został dodany z powodu przekroczenia limitu rozmiaru"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:9
 msgid "File:"
@@ -3736,16 +3736,16 @@ msgstr ""
 
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:12
 msgid "Folder Name:"
-msgstr ""
+msgstr "Nazwa folderu:"
 
 #: src/js/pages/user/email/_components/purge-folder-dialog.vue:7
 msgid "Folder:"
-msgstr ""
+msgstr "Folder:"
 
 #: src/js/components/local/filemanager/folder-tree-view.vue:9
 #: src/js/components/local/filemanager/search.vue:24
 msgid "Folders"
-msgstr ""
+msgstr "Foldery"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:40
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:66
@@ -3944,7 +3944,7 @@ msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:36
 msgid "Grep"
-msgstr ""
+msgstr "Grep"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:58
 msgid "Group"
@@ -3976,7 +3976,7 @@ msgstr "Witaj, %{ username }"
 #: src/js/modules/navigation/reseller.js:156
 #: src/js/modules/navigation/user.js:224
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:5
 msgid ""
@@ -4024,7 +4024,7 @@ msgstr ""
 
 #: src/js/pages/reseller/tickets.vue:35
 msgid "Hold (%{ count })"
-msgstr ""
+msgstr "Zatrzymane (%{ count })"
 
 #: src/js/components/local/user-package.vue:43
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:57
@@ -4211,11 +4211,11 @@ msgstr ""
 #: src/js/pages/admin/plugin-manager.vue:116
 #: src/js/pages/admin/plugin-manager.vue:68
 msgid "Install"
-msgstr ""
+msgstr "Zainstaluj"
 
 #: src/js/pages/admin/plugin-manager.vue:111
 msgid "Install after upload"
-msgstr ""
+msgstr "Zainstaluj po przesłaniu"
 
 #: src/js/components/local/skins/upload-skin-dialog.vue:20
 msgid "Install Serverwide"
@@ -4627,7 +4627,7 @@ msgstr "Średnie obciążenie"
 
 #: src/js/pages/admin/log-viewer/view.vue:68
 msgid "Load Log"
-msgstr ""
+msgstr "Wczytaj log"
 
 #: src/js/components/global/ui/ui-request-notification.vue:13
 msgid "Loading"
@@ -4635,7 +4635,7 @@ msgstr "Wczytywanie"
 
 #: src/js/components/global/app/app-plugin-page.vue:49
 msgid "Loading “%{name}” plugin"
-msgstr ""
+msgstr "Wczytywanie wtyczki “%{name}\""
 
 #: src/js/pages/admin/backups/modify.vue:124
 #: src/js/pages/admin/backups/restore.vue:32
@@ -4701,7 +4701,7 @@ msgstr "Zajętość Logów"
 #: src/js/pages/admin/log-viewer/index.vue:1
 #: src/js/modules/navigation/admin.js:158
 msgid "Log Viewer"
-msgstr ""
+msgstr "Podgląd logów"
 
 #: src/js/pages/admin/users/resellers/view.vue:141
 #: src/js/pages/reseller/users/view.vue:188
@@ -4751,7 +4751,7 @@ msgstr "błędnych logowań na dowolnym koncie."
 #: src/js/pages/user/login-history.vue:1
 #: src/js/components/global/app/app-user-bar.vue:75
 msgid "Login History"
-msgstr ""
+msgstr "Historia logowania"
 
 #: src/js/pages/user/login-keys/index.vue:1
 #: src/js/pages/user/stats/index.vue:129
@@ -4773,20 +4773,20 @@ msgstr ""
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:45
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: src/js/components/local/skins/customize-skin-dialog.vue:16
 msgid "Logo:"
-msgstr ""
+msgstr "Logo:"
 
 #: src/js/components/global/app/app-user-bar.vue:88
 msgid "Logout"
-msgstr ""
+msgstr "Wyloguj"
 
 #: src/js/components/local/stats/webalizer-table.vue:4
 #: src/js/components/local/stats/webalizer-table.vue:25
 msgid "Logs"
-msgstr ""
+msgstr "Logi"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:167
 msgid "Lost connection to tracker. Re-connecting."
@@ -4894,7 +4894,7 @@ msgstr "Zarządzaj adresami IP serwera"
 #: src/js/pages/reseller/tickets.vue:1 src/js/modules/navigation/admin.js:227
 #: src/js/modules/navigation/reseller.js:162
 msgid "Manage Tickets"
-msgstr ""
+msgstr "Zarzązaj zgłoszeniami"
 
 #: src/js/pages/reseller/backups/index.vue:1
 #: src/js/modules/navigation/reseller.js:65
@@ -4945,11 +4945,11 @@ msgstr ""
 
 #: src/js/components/global/input/input-dropzone.vue:53
 msgid "Max File Size:"
-msgstr ""
+msgstr "Maksymalny rozmiar pliku:"
 
 #: src/js/components/global/input/input-dropzone.vue:50
 msgid "Max Files Size:"
-msgstr ""
+msgstr "Maksymalny rozmiar plików:"
 
 #: src/js/pages/admin/settings.vue:333
 msgid "Max limit User can set per E-mail"
@@ -4961,7 +4961,7 @@ msgstr "Maks. wielkość żądania / ładowanego pliku"
 
 #: src/js/components/global/app/app-plugin-page.vue:13
 msgid "Maximize"
-msgstr ""
+msgstr "Maksymalizuj"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:12
 msgid "Maximum requests per week: %{n}"
@@ -5092,7 +5092,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-plugin-page.vue:28
 msgid "Minimize"
-msgstr ""
+msgstr "Minimalizuj"
 
 #: src/js/pages/admin/system-backup.vue:49
 msgid "Minumum disk space required for backup (MB)"
@@ -5271,7 +5271,7 @@ msgstr "Punkt montowania"
 
 #: src/js/pages/user/filemanager/index.vue:108
 msgid "Move files"
-msgstr ""
+msgstr "Przenieś pliki"
 
 #: src/js/pages/admin/users/move.vue:46
 msgid "Move Users"
@@ -5303,7 +5303,7 @@ msgstr "Rekordy MX"
 
 #: src/js/pages/user/messages/index.vue:1
 msgid "My messages"
-msgstr ""
+msgstr "Moje wiadomości"
 
 #: src/js/pages/admin/system-backup.vue:73
 #: src/js/components/local/user-package.vue:141
@@ -5445,11 +5445,11 @@ msgstr ""
 
 #: src/js/pages/user/filemanager/index.vue:17
 msgid "New folder"
-msgstr ""
+msgstr "Nowy folder"
 
 #: src/js/pages/user/filemanager/index.vue:52
 msgid "New Folder"
-msgstr ""
+msgstr "Nowy folder"
 
 #: src/js/pages/reseller/users/_components/resend-welcome-email-dialog.vue:15
 msgid "New Random Password"
@@ -5550,7 +5550,7 @@ msgstr ""
 
 #: src/js/components/local/filemanager/search.vue:13
 msgid "Nothing found"
-msgstr ""
+msgstr "Nic nie znaleziono"
 
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:12
 #: src/js/pages/admin/brute-force-monitor/user_list.vue:12
@@ -5625,7 +5625,7 @@ msgstr "NS2"
 
 #: src/js/pages/admin/log-viewer/view.vue:26
 msgid "Number of lines from the end"
-msgstr ""
+msgstr "Liczba linii od końca"
 
 #: src/js/pages/user/stats/log.vue:43 src/js/pages/user/subdomains/logs.vue:34
 msgid "Number of lines to show"
@@ -5711,11 +5711,11 @@ msgstr ""
 #: src/js/pages/user/email/lists/modify.vue:338
 #: src/js/pages/user/email/lists/modify.vue:343
 msgid "Open"
-msgstr ""
+msgstr "Otwarte"
 
 #: src/js/pages/reseller/tickets.vue:30
 msgid "Open (%{ count })"
-msgstr ""
+msgstr "Otwarte (%{ count })"
 
 #: src/js/pages/admin/php-safe-mode.vue:41
 #: src/js/pages/admin/php-safe-mode.vue:61
@@ -5740,7 +5740,7 @@ msgstr ""
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:3
 #: src/js/pages/user/messages/index.vue:63
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: src/js/pages/admin/settings.vue:217
 msgid "or after"
@@ -5865,7 +5865,7 @@ msgstr ""
 #: src/js/components/local/filemanager/dialogs/upload-files-dialog.vue:7
 #: src/js/pages/user/protected-directories/view.vue:20
 msgid "Path:"
-msgstr ""
+msgstr "Ścieżka:"
 
 #: src/js/pages/user/email/usage/index.vue:47
 msgid "Percent"
@@ -5882,7 +5882,7 @@ msgstr ""
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:14
 msgid "Perm."
-msgstr ""
+msgstr "Upr."
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:37
 msgid "Personal DNS's"
@@ -5946,7 +5946,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:137
 #: src/js/modules/navigation/user.js:205
 msgid "phpMyAdmin"
-msgstr ""
+msgstr "phpMyAdmin"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:7
@@ -5974,12 +5974,12 @@ msgstr ""
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:19
 msgid "Plugin"
-msgstr ""
+msgstr "Wtyczka"
 
 #: src/js/pages/admin/plugin-manager.vue:1
 #: src/js/modules/navigation/admin.js:203
 msgid "Plugin Manager"
-msgstr ""
+msgstr "Zarządzanie wtyczkami"
 
 #: src/js/modules/navigation/admin.js:208
 #: src/js/modules/navigation/reseller.js:143
@@ -6283,7 +6283,7 @@ msgstr "odświeżenie za %{delay} sekund"
 #: src/js/pages/admin/log-viewer/view.vue:60 src/js/pages/user/stats/log.vue:50
 #: src/js/pages/user/subdomains/logs.vue:41
 msgid "Reload Log"
-msgstr ""
+msgstr "Odśwież Log"
 
 #: src/js/pages/admin/process-monitor.vue:40
 msgid "reloading..."
@@ -6332,7 +6332,7 @@ msgstr "Użytkownik zdalnego serwera"
 #: src/js/pages/user/email/spamassassin.vue:202
 #: src/js/pages/admin/brute-force-monitor/skip_list.vue:32
 msgid "Remove"
-msgstr ""
+msgstr "Usuń"
 
 #: src/js/pages/admin/settings.vue:244
 msgid "Remove an IP from the blacklist after"
@@ -6356,7 +6356,7 @@ msgstr[2] ""
 
 #: src/js/components/local/dropzone-file-preview.vue:42
 msgid "Remove file"
-msgstr ""
+msgstr "Usuń plik"
 
 #: src/js/pages/admin/ip-manager/index.vue:19
 #: src/js/pages/admin/ip-manager/index.vue:33
@@ -6380,7 +6380,7 @@ msgstr ""
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:27
 #: src/js/components/local/filemanager/files-table.vue:286
 msgid "Rename"
-msgstr ""
+msgstr "Zmień nazwę"
 
 #: src/js/pages/user/domains/index.vue:16
 msgid "Rename domain"
@@ -6519,12 +6519,12 @@ msgstr ""
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:33
 msgid "Reset owner"
-msgstr ""
+msgstr "Przywróć właściciela"
 
 #: src/js/components/local/filemanager/actions.vue:27
 #: src/js/components/local/filemanager/files-table.vue:232
 msgid "Reset Owner"
-msgstr ""
+msgstr "Przywróć właściciela"
 
 #: src/js/pages/reseller/edit-user-message.vue:12
 msgid "Reset to default"
@@ -6606,7 +6606,7 @@ msgstr ""
 #: src/js/components/local/filemanager/breadcrumbs.vue:4
 #: src/js/components/local/filemanager/folder-tree-view.vue:27
 msgid "Root"
-msgstr ""
+msgstr "Katalog główny"
 
 #: src/js/pages/admin/process-monitor.vue:115
 msgid "Root Password"
@@ -6758,7 +6758,7 @@ msgstr ""
 #: src/js/pages/user/filemanager/index.vue:67
 #: src/js/pages/user/filemanager/index.vue:73
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: src/js/components/global/app/app-search.vue:21
 #: src/js/components/global/app/app-search.vue:41
@@ -6874,9 +6874,9 @@ msgstr "Wybierz katalog do przywracania."
 #: src/js/components/global/input/input-dropzone.vue:13
 msgid "Select file to upload"
 msgid_plural "Select files to upload"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Wybierz pik do przesłania"
+msgstr[1] "Wybierz pliki do przesłania"
+msgstr[2] "Wybierz pliki do przesłania"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:81
 msgid "Select IP address or User to filter results"
@@ -7200,17 +7200,17 @@ msgstr ""
 #: src/js/components/local/filemanager/actions.vue:24
 #: src/js/components/local/filemanager/files-table.vue:229
 msgid "Set permission"
-msgstr ""
+msgstr "Ustaw uprawnienie"
 
 #: src/js/components/local/filemanager/files-table.vue:158
 msgid "Set permissions"
-msgstr ""
+msgstr "Ustaw uprawnienienia"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:5
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:31
 msgid "Set Permissions"
-msgstr ""
+msgstr "Ustaw uprawnienienia"
 
 #: src/js/components/local/stats/webalizer-table.vue:83
 msgid "Set selected domain to be publicly viewable."
@@ -7353,7 +7353,7 @@ msgstr "Pokaż domeny, które"
 
 #: src/js/pages/admin/log-viewer/view.vue:21
 msgid "Show Entire File"
-msgstr ""
+msgstr "Pokaż cały plik"
 
 #: src/js/components/global/app/app-notification-center.vue:17
 msgid "Show Messages:"
@@ -7810,7 +7810,7 @@ msgstr "Temat"
 
 #: src/js/pages/user/messages/_dialogs/clear-message-system-dialog.vue:7
 msgid "Subject Contains"
-msgstr ""
+msgstr "Temat zawiera"
 
 #: src/js/pages/user/email/lists/modify.vue:203
 #: src/js/pages/user/email/vacations/create.vue:23
@@ -7869,7 +7869,7 @@ msgstr "Powodzenie"
 #: src/js/modules/navigation/reseller.js:149
 #: src/js/modules/navigation/user.js:218
 msgid "Support & Help"
-msgstr ""
+msgstr "Wsparcie i pomoc"
 
 #: src/js/modules/navigation/user.js:235
 msgid "Support Center"
@@ -7957,7 +7957,7 @@ msgstr "Informacje o systemie"
 #: src/js/modules/navigation/reseller.js:86
 #: src/js/modules/navigation/user.js:157
 msgid "System Info & Files"
-msgstr ""
+msgstr "Informacje o systemie i Pliki"
 
 #: src/js/modules/navigation/admin.js:153 src/js/modules/widgets.js:4
 msgid "System Information"
@@ -8145,11 +8145,11 @@ msgstr ""
 
 #: src/js/pages/reseller/tickets.vue:114
 msgid "Ticket System Enabled"
-msgstr ""
+msgstr "Włącz system zgłoszeń"
 
 #: src/js/pages/reseller/tickets.vue:106
 msgid "Ticket System Settings"
-msgstr ""
+msgstr "Ustawienia systemu zgłoszeń"
 
 #: src/js/pages/user/messages/index.vue:48
 msgid "Tickets"
@@ -8272,11 +8272,11 @@ msgstr ""
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:22
 msgid "UID/GID"
-msgstr ""
+msgstr "UID/GID"
 
 #: src/js/pages/admin/plugin-manager.vue:71
 msgid "Un-Install"
-msgstr ""
+msgstr "Odinstaluj"
 
 #: src/js/pages/admin/ip-manager/details.vue:101
 #: src/js/pages/admin/ip-manager/details.vue:207
@@ -8391,7 +8391,7 @@ msgstr ""
 #: src/js/pages/admin/plugin-manager.vue:119
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:53
 msgid "Upload"
-msgstr ""
+msgstr "Prześlij"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:3
 #: src/js/pages/user/database/index.vue:23
@@ -8401,11 +8401,11 @@ msgstr ""
 #: src/js/pages/user/filemanager/index.vue:23
 #: src/js/pages/user/filemanager/index.vue:59
 msgid "Upload File"
-msgstr ""
+msgstr "Prześlij plik"
 
 #: src/js/components/local/filemanager/dialogs/upload-files-dialog.vue:3
 msgid "Upload Files"
-msgstr ""
+msgstr "Prześlij pliki"
 
 #: src/js/pages/reseller/customize-skin/_components/upload-logo.vue:18
 msgid "Upload Logo"
@@ -8413,7 +8413,7 @@ msgstr ""
 
 #: src/js/pages/admin/plugin-manager.vue:86
 msgid "Upload Method:"
-msgstr ""
+msgstr "Metoda przesłania:"
 
 #: src/js/components/local/skins/upload-skin-dialog.vue:6
 #: src/js/pages/reseller/skins.vue:13
@@ -8516,7 +8516,7 @@ msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:38
 msgid "Use the | charter for separation."
-msgstr ""
+msgstr "Użyj znaku | do odseparowania."
 
 #: src/js/pages/admin/settings.vue:61
 msgid ""
@@ -8864,7 +8864,7 @@ msgstr "Pokaż wszystkie dostępne tokeny"
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:3
 #: src/js/pages/user/filemanager/index.vue:122
 msgid "View Clipboard"
-msgstr ""
+msgstr "Wyświetl schowek"
 
 #: src/js/pages/user/database/view.vue:1
 msgid "View Database"
@@ -8899,11 +8899,11 @@ msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:1
 msgid "View Log"
-msgstr ""
+msgstr "Pokaż log"
 
 #: src/js/pages/admin/log-viewer/view.vue:11
 msgid "View Log: %{ log }"
-msgstr ""
+msgstr "Pokaż log: %{ log }"
 
 #: src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
@@ -8923,7 +8923,7 @@ msgstr ""
 
 #: src/js/pages/admin/log-viewer/view.vue:76
 msgid "View RAW"
-msgstr ""
+msgstr "Pokaż dane źródłowe (RAW)"
 
 #: src/js/pages/admin/users/resellers/view.vue:1
 msgid "View Reseller"
@@ -8986,24 +8986,24 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:50
 #: src/js/pages/user/email/accounts/index.vue:114
 msgid "Webmail:"
-msgstr ""
+msgstr "Webmail:"
 
 #: src/js/modules/navigation/admin.js:191
 #: src/js/modules/navigation/reseller.js:130
 #: src/js/modules/navigation/user.js:198
 msgid "Webmail: Roundcube"
-msgstr ""
+msgstr "Webmail: Roundcube"
 
 #: src/js/modules/navigation/admin.js:177
 #: src/js/modules/navigation/reseller.js:116
 #: src/js/modules/navigation/user.js:191
 msgid "Webmail: Squirrelmail"
-msgstr ""
+msgstr "Webmail: Squirrelmail"
 
 #: src/js/modules/navigation/admin.js:184
 #: src/js/modules/navigation/reseller.js:123
 msgid "Webmail: UebiMiau"
-msgstr ""
+msgstr "Webmail: UebiMiau"
 
 #: src/js/pages/user/backup/index.vue:19
 #: src/js/pages/user/backup/restore.vue:21
