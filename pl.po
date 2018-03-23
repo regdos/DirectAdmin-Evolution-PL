@@ -397,7 +397,7 @@ msgstr "Informacje o koncie"
 #: src/js/modules/navigation/admin.js:7 src/js/modules/navigation/reseller.js:7
 #: src/js/modules/navigation/user.js:7
 msgid "Account Manager"
-msgstr "Zaządzanie kontami"
+msgstr "Zarządzanie kontami"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:150
 msgid "Account modified"
@@ -426,7 +426,7 @@ msgstr[2] ""
 
 #: src/js/modules/widgets.js:30
 msgid "Accounts and usage information"
-msgstr ""
+msgstr "Konta i informacje o zużyciu"
 
 #: src/js/pages/user/email/filters.vue:119
 msgid "Action for filter matches:"
@@ -456,20 +456,20 @@ msgstr "Aktywny"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:6
 msgid "Active databases"
-msgstr ""
+msgstr "Aktywnych baz danych"
 
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:5
 msgid "Active domains"
-msgstr ""
+msgstr "Aktywnych domen"
 
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:64
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:50
 msgid "Active Since"
-msgstr ""
+msgstr "Aktywny od"
 
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:8
 msgid "Active sub-domains"
-msgstr ""
+msgstr "Aktywnych subdomen"
 
 #: src/js/components/local/dns/add-record.vue:53
 #: src/js/pages/admin/backups/modify.vue:54
@@ -525,7 +525,7 @@ msgstr "Dodaj strefę DNS"
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:40
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:68
 msgid "Add Entry"
-msgstr ""
+msgstr "Dodaj pozycję"
 
 #: src/js/pages/user/database/view.vue:40
 msgid "Add Existing User"
@@ -555,7 +555,7 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/additional-domains.vue:49
 #: src/js/pages/user/domains/index.vue:19
 msgid "Add New"
-msgstr ""
+msgstr "Dodaj nową"
 
 #: src/js/pages/user/database/view.vue:64
 msgid "Add New Access Host"
@@ -567,7 +567,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:21
 msgid "Add New Category"
-msgstr ""
+msgstr "Dodaj nową kategorię"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:3
 msgid "Add New Domain Pointer"
@@ -619,7 +619,7 @@ msgstr ""
 
 #: src/js/pages/reseller/user-packages/index.vue:12
 msgid "Add Package"
-msgstr ""
+msgstr "Dodaj pakiet"
 
 #: src/js/pages/admin/plugin-manager.vue:82
 msgid "Add Plugin"
@@ -635,11 +635,11 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/index.vue:98
 msgid "Add Subdomain"
-msgstr ""
+msgstr "Dodaj subdomenę"
 
 #: src/js/pages/user/subdomains/index.vue:16
 msgid "Add SubDomain"
-msgstr ""
+msgstr "Dodaj subdomenę"
 
 #: src/js/pages/user/email/lists/view.vue:12
 msgid "Add Subscriber"
@@ -816,7 +816,7 @@ msgstr "Wszystkie dane"
 
 #: src/js/pages/admin/settings.vue:290
 msgid "All Logs"
-msgstr "Wszystkie Logi"
+msgstr "Wszystkie logi"
 
 #: src/js/pages/user/stats/domain-statistics.vue:95
 #: src/js/pages/user/subdomains/stats.vue:87
@@ -825,7 +825,7 @@ msgstr ""
 
 #: src/js/pages/reseller/message-users.vue:14
 msgid "All of Your Users"
-msgstr ""
+msgstr "Wszystkich Twoich Użytkowników"
 
 #: src/js/pages/admin/cron-jobs.vue:1 src/js/modules/navigation/admin.js:138
 msgid "All User Cron Jobs"
@@ -870,7 +870,7 @@ msgstr "Przydzielono"
 #: src/js/pages/user/login-keys/modify.vue:98
 #: src/js/pages/user/login-keys/index.vue:28
 msgid "Allow"
-msgstr ""
+msgstr "Zezwól"
 
 #: src/js/pages/admin/settings.vue:54
 msgid ""
@@ -890,7 +890,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:91
 #: src/js/pages/user/login-keys/modify.vue:77
 msgid "Allow HTM:"
-msgstr ""
+msgstr "Zezwól na HTM:"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:176
 #: src/js/pages/admin/users/resellers/modify.vue:168
@@ -912,12 +912,12 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:146
 #: src/js/pages/user/login-keys/modify.vue:132
 msgid "Allowed IPs:"
-msgstr ""
+msgstr "Dozwolone adresy IP:"
 
 #: src/js/pages/user/login-keys/create.vue:95
 #: src/js/pages/user/login-keys/modify.vue:81
 msgid "Allows browsing of the DA interface to HTM, IMG and CSS files."
-msgstr ""
+msgstr "Umożliwia przeglądanie interfejsu DA dla plików HTM, IMG i CSS."
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:32
 msgid "Alter"
@@ -983,7 +983,7 @@ msgstr "Dodaj"
 #: src/js/pages/reseller/skins.vue:38
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:25
 msgid "Apply to All"
-msgstr ""
+msgstr "Zastosuj do wszystkich"
 
 #: src/js/pages/admin/ip-manager/details.vue:153
 msgid "Apply to existing domains"
@@ -992,7 +992,7 @@ msgstr ""
 #: src/js/pages/reseller/skins.vue:33
 #: src/js/pages/user/dashboard/_components/widgets/skins.vue:20
 msgid "Apply to Me"
-msgstr ""
+msgstr "Zastosuj do mnie"
 
 #: src/js/pages/user/email/lists/modify.vue:21
 msgid "Approve Password"
@@ -1046,7 +1046,7 @@ msgstr "Czy na pewno chcesz usunąć wtyczkę \"% {name}\"?"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Are you sure you want to delete selected %{subject}?"
-msgstr "Czy na pewno chcesz usunąć wybrany %{subject}?"
+msgstr "Czy na pewno chcesz usunąć wybrany/ą %{subject}?"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
@@ -1209,6 +1209,8 @@ msgstr "Automatycznie usuwaj wiadomości starsze niż"
 msgid ""
 "Automatically delete the key once the key expires, or all uses are used."
 msgstr ""
+"Automatycznie usuń klucz po wygaśnięciu lub gdy został używy dozwolną liczbę "
+"razy."
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:19
 msgid "Automatically delete tickets older than"
@@ -1276,12 +1278,12 @@ msgstr ""
 #: src/js/pages/user/subdomains/stats.vue:11
 #: src/js/pages/user/subdomains/stats.vue:14
 msgid "Awstats"
-msgstr ""
+msgstr "AWStats"
 
 #: src/js/pages/user/stats/domain-statistics.vue:11
 #: src/js/pages/user/stats/domain-statistics.vue:19
 msgid "AWStats"
-msgstr ""
+msgstr "AWStats"
 
 #: src/js/components/global/app/app-page.vue:14
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:39
@@ -1290,7 +1292,7 @@ msgstr "Wróć"
 
 #: src/js/pages/user/stats/index.vue:197
 msgid "Backed up Web Logs"
-msgstr ""
+msgstr "Kopie zapasowe logów stron"
 
 #: src/js/pages/admin/system-backup.vue:60
 #: src/js/pages/user/backup/restore.vue:12
@@ -1376,7 +1378,7 @@ msgstr ""
 
 #: src/js/pages/user/bandwidth.vue:12
 msgid "Bandwidth Breakdown for %{month} %{year}"
-msgstr ""
+msgstr "Podział przepustowości za %{month} %{year}"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:20
@@ -1587,7 +1589,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:10
 msgid "Change domain options"
-msgstr ""
+msgstr "Zmień opcje domen"
 
 #: src/js/pages/reseller/users/modify.vue:12
 msgid "Change Package for User %{user}"
@@ -1625,7 +1627,7 @@ msgstr "Zmień IP Użytkownika"
 
 #: src/js/pages/reseller/users/create.vue:19
 msgid "Change User Message"
-msgstr ""
+msgstr "Zmień wiadomość Użytkownika"
 
 #: src/js/pages/user/password.vue:1
 msgid "Change your Password"
@@ -1687,7 +1689,7 @@ msgstr "Wyczyść schowek"
 
 #: src/js/pages/admin/settings.vue:280
 msgid "Clear failed login attempts from log"
-msgstr "Usuń błędne próby logowania z pliku loga po"
+msgstr "Usuń błędne próby logowania z pliku logów po"
 
 #: src/js/components/local/filemanager/files-table.vue:65
 #: src/js/pages/admin/brute-force-monitor/index.vue:16
@@ -1697,7 +1699,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:81
 #: src/js/pages/user/login-keys/modify.vue:67
 msgid "Clear Key:"
-msgstr ""
+msgstr "Czyszczenie klucza:"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:3
 #: src/js/pages/admin/brute-force-monitor/index.vue:112
@@ -1806,11 +1808,11 @@ msgstr ""
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:44
 msgid "Colors"
-msgstr ""
+msgstr "Kolory"
 
 #: src/js/pages/reseller/customize-skin/_components/category-editor.vue:30
 msgid "Column Size"
-msgstr ""
+msgstr "ROzmiar kolumny"
 
 #: src/js/pages/admin/cron-jobs.vue:12 src/js/pages/user/cronjobs/create.vue:88
 #: src/js/pages/user/cronjobs/index.vue:155
@@ -2087,7 +2089,7 @@ msgstr ""
 
 #: src/js/pages/user/login-keys/create.vue:1
 msgid "Create Login Key"
-msgstr ""
+msgstr "Utwórz klucz logowania"
 
 #: src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
@@ -2162,11 +2164,11 @@ msgstr ""
 #: src/js/pages/reseller/users/create.vue:1
 #: src/js/pages/reseller/users/index.vue:17
 msgid "Create User"
-msgstr ""
+msgstr "Utwórz Użytkownika"
 
 #: src/js/pages/reseller/users/create.vue:91
 msgid "Create User Package"
-msgstr ""
+msgstr "Utwórz pakiet Użytkownika"
 
 #: src/js/pages/user/email/vacations/create.vue:1
 msgid "Create Vacation Message"
@@ -2237,7 +2239,7 @@ msgstr ""
 
 #: src/js/pages/reseller/skins.vue:48
 msgid "Current"
-msgstr ""
+msgstr "Aktualna"
 
 #: src/js/pages/admin/license.vue:138
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:129
@@ -2255,7 +2257,7 @@ msgstr "Aktualne adresy IP"
 #: src/js/pages/user/login-keys/create.vue:165
 #: src/js/pages/user/login-keys/modify.vue:149
 msgid "Current Password:"
-msgstr ""
+msgstr "Aktualne hasło:"
 
 #: src/js/pages/user/protected-directories/index.vue:12
 #: src/js/pages/user/protected-directories/index.vue:15
@@ -2293,7 +2295,7 @@ msgstr ""
 
 #: src/js/components/local/skins/customize-skin-dialog.vue:30
 msgid "Custom Color %{index}"
-msgstr ""
+msgstr "Kolor niestandardowy %{index}"
 
 #: src/js/pages/admin/system-backup.vue:78
 msgid "Custom Directories & Files"
@@ -2325,7 +2327,7 @@ msgstr ""
 
 #: src/js/pages/user/dns/index.vue:57
 msgid "Custom Value:"
-msgstr ""
+msgstr "Wartość niestandardowa:"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:45
 msgid "CUSTOM1"
@@ -2372,7 +2374,7 @@ msgstr "Dzienny limit wysłanych wiadomości E-mail na konto"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:30
 msgid "Danger"
-msgstr ""
+msgstr "Ostrzeżenie"
 
 #: src/js/pages/user/dashboard/index.vue:1
 #: src/js/components/global/app/app-plugin-page.vue:99
@@ -2414,7 +2416,7 @@ msgstr "Nazwa bazy danych:"
 
 #: src/js/pages/user/database/create.vue:58
 msgid "Database Password:"
-msgstr ""
+msgstr "Hasło bazy danych:"
 
 #: src/js/pages/admin/backups/modify.vue:216
 #: src/js/pages/admin/backups/schedule.vue:232
@@ -2430,7 +2432,7 @@ msgstr ""
 
 #: src/js/pages/user/database/create.vue:34
 msgid "Database User:"
-msgstr ""
+msgstr "Użytkownik bazy danych:"
 
 #: src/js/pages/user/backup/index.vue:99
 #: src/js/pages/user/backup/restore.vue:101
@@ -2689,7 +2691,7 @@ msgstr "Kasuje plik lokalny przed utworzeniem nowego"
 #: src/js/pages/user/login-keys/modify.vue:106
 #: src/js/pages/user/login-keys/index.vue:29
 msgid "Deny"
-msgstr ""
+msgstr "Zabroń"
 
 #: src/js/pages/user/email/lists/modify.vue:41
 #: src/js/pages/user/two-step-auth.vue:83
@@ -2727,7 +2729,7 @@ msgstr ""
 #: src/js/pages/user/disk-usage.vue:25
 #: src/js/pages/user/email/usage/index.vue:124
 msgid "Details"
-msgstr ""
+msgstr "Szczegóły"
 
 #: src/js/pages/admin/ip-manager/details.vue:13
 msgid "Details for %{ip}"
@@ -2735,7 +2737,7 @@ msgstr ""
 
 #: src/js/pages/user/stats/index.vue:11
 msgid "Details for user \"%{username}\""
-msgstr ""
+msgstr "Szczegóły Użytkownika\"%{username}\""
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:61
 msgid "Details:"
@@ -2791,7 +2793,7 @@ msgstr ""
 
 #: src/js/components/global/app/app-plugin-page.vue:21
 msgid "DirectAdmin Logo"
-msgstr ""
+msgstr "Logo DirectAdmin"
 
 #: src/js/pages/admin/license.vue:109
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:101
@@ -2842,7 +2844,7 @@ msgstr "Wyłączone"
 
 #: src/js/pages/reseller/customize-skin/index.vue:96
 msgid "Discard"
-msgstr ""
+msgstr "Odrzuć"
 
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:5
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:5
@@ -2936,7 +2938,7 @@ msgstr "Dane DNS"
 
 #: src/js/pages/user/dns/index.vue:1 src/js/modules/navigation/user.js:24
 msgid "DNS Management"
-msgstr ""
+msgstr "Zarządzanie DNS"
 
 #: src/js/components/local/dns/records-table.vue:65
 msgid "DNS record"
@@ -2967,7 +2969,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/index.vue:81
 msgid "Do you want to discard all of unsaved changes before leave?"
-msgstr ""
+msgstr "Czy chcesz odrzucić wszystkie niezapisane zmiany przed wyjściem?"
 
 #: src/js/pages/user/email/spamassassin.vue:90
 msgid "Do you wish to rewrite the subject of a spam e-mail?"
@@ -2984,9 +2986,9 @@ msgstr ""
 #: src/js/pages/user/domains/index.vue:87
 msgid "domain"
 msgid_plural "domains"
-msgstr[0] "domena"
+msgstr[0] "domenę"
 msgstr[1] "domeny"
-msgstr[2] "domen"
+msgstr[2] "domeny"
 
 #: src/js/components/global/app/app-domains-dropdown.vue:6
 #: src/js/components/local/stats/webalizer-table.vue:4
@@ -3023,7 +3025,7 @@ msgstr ""
 #: src/js/pages/user/subdomains/index.vue:19
 #: src/js/pages/user/subdomains/index.vue:29
 msgid "Domain Info"
-msgstr ""
+msgstr "Informacje"
 
 #: src/js/pages/user/domains/ips.vue:1
 msgid "Domain IPs"
@@ -3066,11 +3068,11 @@ msgstr "Rekord domeny został pomyślnie zaktualizowany"
 
 #: src/js/modules/navigation/user.js:14 src/js/modules/widgets.js:9
 msgid "Domain Setup"
-msgstr ""
+msgstr "Konfiguracja domen"
 
 #: src/js/pages/user/stats/index.vue:30
 msgid "Domain Statistics"
-msgstr ""
+msgstr "Statystyki domen"
 
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:7
 #: src/js/pages/user/domains/add.vue:18
@@ -3120,7 +3122,7 @@ msgstr ""
 #: src/js/pages/user/database/index.vue:27
 #: src/js/pages/user/database/index.vue:35
 msgid "Download Backup"
-msgstr ""
+msgstr "Pobierz kopię zapasową"
 
 #: src/js/pages/user/email/accounts/index.vue:142
 msgid "Download Outlook Configuration"
@@ -3253,7 +3255,7 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:21
 #: src/js/pages/user/create-ticket.vue:40
 msgid "E-mail Only"
-msgstr ""
+msgstr "Tylko wiadomość E-mail"
 
 #: src/js/modules/widgets.js:65
 msgid "E-mail pending delivery"
@@ -3314,7 +3316,7 @@ msgstr "Edytuj"
 
 #: src/js/pages/user/stats/index.vue:17 src/js/pages/user/stats/index.vue:203
 msgid "Edit Account Configuration"
-msgstr ""
+msgstr "Edytuj konfigurację konta"
 
 #: src/js/pages/admin/users/create-admin.vue:16
 msgid "Edit Admin Message"
@@ -3326,7 +3328,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:35
 msgid "Edit Category"
-msgstr ""
+msgstr "Edytuj kategorię"
 
 #: src/js/pages/user/cronjobs/index.vue:97
 msgid "Edit Cron Job"
@@ -3351,7 +3353,7 @@ msgstr ""
 
 #: src/js/pages/reseller/user-packages/view.vue:1
 msgid "Edit Package"
-msgstr ""
+msgstr "Edytuj pakiet"
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:31
 msgid "Edit Protection"
@@ -3367,13 +3369,13 @@ msgstr "Edytuj wiadomość Resellera"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:75
 msgid "Edit Route"
-msgstr ""
+msgstr "Edytuj ścieżkę"
 
 #: src/js/pages/reseller/edit-user-message.vue:1
 #: src/js/pages/reseller/users/_components/change-user-message.vue:3
 #: src/js/modules/navigation/reseller.js:34
 msgid "Edit User Message"
-msgstr ""
+msgstr "Edytuj wiadomość Użytkownika"
 
 #: src/js/pages/user/redirects.vue:69
 msgid "eg: \"/redirect\", \"/\""
@@ -3495,7 +3497,7 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/index.vue:66
 msgid "Error Log"
-msgstr ""
+msgstr "Logi błędów"
 
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:35
 msgid "Error reading File"
@@ -3532,20 +3534,20 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:36
 #: src/js/pages/user/login-keys/modify.vue:23
 msgid "Expires On:"
-msgstr ""
+msgstr "Wygasa:"
 
 #: src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/two-step-auth.vue:171
 #: src/js/pages/user/dns/security.vue:133
 #: src/js/pages/user/login-keys/index.vue:26
 msgid "Expiry"
-msgstr ""
+msgstr "Wygasa"
 
 #: src/js/pages/user/domains/php.vue:11 src/js/pages/user/handlers/index.vue:53
 #: src/js/pages/user/mimetypes/index.vue:53
 #: src/js/pages/user/domains/php.vue:15
 msgid "Extension"
-msgstr ""
+msgstr "Rozszerzenie"
 
 #: src/js/pages/user/handlers/index.vue:75
 #: src/js/pages/user/mimetypes/index.vue:76
@@ -3728,7 +3730,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/php.vue:19
 msgid "First PHP"
-msgstr ""
+msgstr "Pierwsze PHP"
 
 #: src/js/pages/admin/ip-manager/details.vue:196
 msgid "Flush from DNS"
@@ -3857,11 +3859,11 @@ msgstr ""
 
 #: src/js/pages/user/stats/index.vue:46 src/js/pages/user/stats/index.vue:98
 msgid "Ftp Accounts"
-msgstr ""
+msgstr "Konta FTP"
 
 #: src/js/pages/user/ftp-accounts/index.vue:1
 msgid "FTP accounts"
-msgstr ""
+msgstr "Konta FTP"
 
 #: src/js/pages/admin/backups/modify.vue:210
 #: src/js/pages/admin/backups/schedule.vue:226 src/js/pages/admin/stats.vue:193
@@ -3884,7 +3886,7 @@ msgstr "Konta FTP"
 
 #: src/js/pages/user/ftp-accounts/index.vue:14
 msgid "FTP Accounts for %{ domain }"
-msgstr ""
+msgstr "Konta FTP dla %{ domain }"
 
 #: src/js/modules/navigation/user.js:34
 msgid "FTP Management"
@@ -3915,7 +3917,7 @@ msgstr ""
 
 #: src/js/pages/user/stats/log.vue:29 src/js/pages/user/subdomains/logs.vue:20
 msgid "Full Log"
-msgstr ""
+msgstr "Pełene logi"
 
 #: src/js/modules/widgets.js:55
 msgid "Full Server Statistics"
@@ -3962,7 +3964,7 @@ msgstr[2] ""
 #: src/js/pages/user/domains/php.vue:14 src/js/pages/user/handlers/index.vue:21
 #: src/js/pages/user/handlers/system.vue:15
 msgid "Handler"
-msgstr ""
+msgstr "Uchwyt"
 
 #: src/js/modules/widgets.js:5
 msgid "Hardware details"
@@ -4012,7 +4014,7 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:36
 #: src/js/pages/user/create-ticket.vue:18
 msgid "High"
-msgstr ""
+msgstr "Wysoki"
 
 #: src/js/pages/user/email/spamassassin.vue:58
 msgid "High Threshold (10.0)"
@@ -4062,6 +4064,8 @@ msgid ""
 "However, these password have attributes, such as the ability to expire, "
 "usage limit, and can be limited to certain functions."
 msgstr ""
+"Hasła te mają dodatkowe atrybuty, tj. ważność, limit ilości użycia oraz "
+"umożliwiają ustawienie dostępu tylko do niektórych funkcji."
 
 #: src/js/pages/admin/system-backup.vue:63
 msgid "HTTPD data"
@@ -4069,11 +4073,11 @@ msgstr "Dane HTTPD"
 
 #: src/js/components/global/ui/ui-color-picker.vue:52
 msgid "Hue"
-msgstr ""
+msgstr "Odcień"
 
 #: src/js/pages/reseller/customize-skin/_components/category-editor.vue:22
 msgid "Icon"
-msgstr ""
+msgstr "Ikona"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:68
 #: src/js/pages/admin/mail-queue/index.vue:23
@@ -4096,6 +4100,8 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:183
 msgid "If no commands are checked (allow and deny), all commands are allowed."
 msgstr ""
+"Jeżeli nie zaznaczysz żadnych komend (dozwolonych i zabronionych), wszystkie "
+"komendy będą dozwolone."
 
 #: src/js/pages/admin/backups/restore.vue:109
 #: src/js/pages/reseller/backups/restore.vue:103
@@ -4219,7 +4225,7 @@ msgstr "Zainstaluj po przesłaniu"
 
 #: src/js/components/local/skins/upload-skin-dialog.vue:20
 msgid "Install Serverwide"
-msgstr ""
+msgstr "Zainstaluj na całym serwerze"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:27
@@ -4246,7 +4252,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/route-editor.vue:21
 msgid "Invalid route name"
-msgstr ""
+msgstr "Niepoprawna nazwa ścieżki"
 
 #: src/js/pages/admin/log-viewer/view.vue:45
 msgid "Invert"
@@ -4428,11 +4434,11 @@ msgstr ""
 #: src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:25
 msgid "Key Name"
-msgstr ""
+msgstr "Nazwa klucza"
 
 #: src/js/pages/user/login-keys/create.vue:12
 msgid "Key Name:"
-msgstr ""
+msgstr "Nazwa klucza:"
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:31
 msgid "Key Size (bits)"
@@ -4441,7 +4447,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:25
 #: src/js/pages/user/login-keys/modify.vue:12
 msgid "Key Value:"
-msgstr ""
+msgstr "Wartość klucza"
 
 #: src/js/pages/user/dns/security.vue:123
 msgid "Key-Signing Key"
@@ -4502,7 +4508,7 @@ msgstr "Ostatnio zakończone zestawienie"
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:55
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:41
 msgid "Last time login"
-msgstr ""
+msgstr "Ostatnie logowanie"
 
 #: src/js/pages/admin/license.vue:146 src/js/pages/admin/license.vue:93
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:137
@@ -4544,7 +4550,7 @@ msgstr "Licencjonowanie / Aktualizacje"
 
 #: src/js/components/global/ui/ui-color-picker.vue:64
 msgid "Lightness"
-msgstr ""
+msgstr "Jasność"
 
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:2
 #: src/js/pages/reseller/stats.vue:17
@@ -4562,7 +4568,7 @@ msgstr ""
 #: src/js/pages/admin/ip-manager/details.vue:166
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:54
 msgid "Link"
-msgstr ""
+msgstr "Łącze"
 
 #: src/js/pages/admin/ip-manager/details.vue:117
 msgid "Link an IP to %{ip}"
@@ -4627,7 +4633,7 @@ msgstr "Średnie obciążenie"
 
 #: src/js/pages/admin/log-viewer/view.vue:68
 msgid "Load Log"
-msgstr "Wczytaj log"
+msgstr "Wczytaj logi"
 
 #: src/js/components/global/ui/ui-request-notification.vue:13
 msgid "Loading"
@@ -4659,12 +4665,12 @@ msgstr ""
 
 #: src/js/pages/reseller/backups/modify.vue:121
 msgid "Local: %{ local_path }"
-msgstr ""
+msgstr "Lokalnie: %{ local_path }"
 
 #: src/js/pages/reseller/backups/restore.vue:30
 #: src/js/pages/reseller/backups/schedule.vue:118
 msgid "Local: %{ location }"
-msgstr ""
+msgstr "Lokalnie: %{ location }"
 
 #: src/js/pages/admin/backups/restore.vue:123
 msgid "Location"
@@ -4684,12 +4690,12 @@ msgstr ""
 #: src/js/pages/admin/log-viewer/index.vue:15
 #: src/js/pages/user/login-keys/index.vue:31
 msgid "Log"
-msgstr ""
+msgstr "Logi"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:68
 #: src/js/pages/admin/brute-force-monitor/index.vue:78
 msgid "Log Entry"
-msgstr ""
+msgstr "Wpis loga"
 
 #: src/js/components/local/stats/webalizer-table.vue:4
 #: src/js/pages/reseller/users/_components/domains.vue:2
@@ -4718,7 +4724,7 @@ msgstr "Zalogowano pomyślnie..."
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:10
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:15
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 #: src/js/components/local/reseller-skin-warning-dialog.vue:23
 msgid "Login anyway"
@@ -4768,7 +4774,7 @@ msgstr "Klucze logowania"
 
 #: src/js/pages/user/login-keys/index.vue:97
 msgid "Login keys allow you to create extra passwords for your account."
-msgstr ""
+msgstr "Dzięki kluczom logowania można utworzyć dodatkowe hasła do logowania."
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:45
@@ -4801,7 +4807,7 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:34
 #: src/js/pages/user/create-ticket.vue:16
 msgid "Low"
-msgstr ""
+msgstr "Niski"
 
 #: src/js/pages/user/email/spamassassin.vue:52
 msgid "Low Threshold (5.0)"
@@ -4868,7 +4874,7 @@ msgstr ""
 #: src/js/components/local/stats/webalizer-table.vue:81
 #: src/js/components/local/stats/webalizer-table.vue:28
 msgid "Make statistics publicly viewable"
-msgstr ""
+msgstr "Udostępnij statystyki publicznie"
 
 #: src/js/pages/user/domain-pointers.vue:62
 msgid "Manage"
@@ -4894,12 +4900,12 @@ msgstr "Zarządzaj adresami IP serwera"
 #: src/js/pages/reseller/tickets.vue:1 src/js/modules/navigation/admin.js:227
 #: src/js/modules/navigation/reseller.js:162
 msgid "Manage Tickets"
-msgstr "Zarzązaj zgłoszeniami"
+msgstr "Zarządzaj zgłoszeniami"
 
 #: src/js/pages/reseller/backups/index.vue:1
 #: src/js/modules/navigation/reseller.js:65
 msgid "Manage User Backups"
-msgstr ""
+msgstr "Zarządzaj kopiami zapasowymi Użytkownika"
 
 #: src/js/pages/reseller/user-packages/index.vue:1
 #: src/js/modules/navigation/reseller.js:24
@@ -5001,17 +5007,17 @@ msgstr "Zużycie pamięci"
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:43
 msgid "Menu: Admin"
-msgstr ""
+msgstr "Menu: Administrator"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:42
 msgid "Menu: Reseller"
-msgstr ""
+msgstr "Menu: Reseller"
 
 #: src/js/pages/reseller/customize-skin/index.vue:39
 #: src/js/pages/reseller/customize-skin/index.vue:41
 msgid "Menu: User"
-msgstr ""
+msgstr "Menu: Użytkownik"
 
 #: src/js/pages/user/messages/index.vue:66
 msgid "message"
@@ -5031,7 +5037,7 @@ msgstr "Wiadomość"
 #: src/js/pages/reseller/message-users.vue:1
 #: src/js/modules/navigation/reseller.js:70
 msgid "Message All Users"
-msgstr ""
+msgstr "Wiadomość do wszystkich Użytkowników"
 
 #: src/js/pages/user/email/lists/modify.vue:263
 msgid "Message Footer"
@@ -5066,7 +5072,7 @@ msgstr "Wiadomości"
 #: src/js/pages/reseller/message-users.vue:35
 #: src/js/pages/user/create-ticket.vue:17
 msgid "Middle"
-msgstr ""
+msgstr "Średni"
 
 #: src/js/pages/user/mimetypes/index.vue:18
 #: src/js/pages/user/mimetypes/system.vue:11
@@ -5139,7 +5145,7 @@ msgstr "Modyfikuj"
 
 #: src/js/pages/user/domains/edit.vue:12
 msgid "Modify %{domain}"
-msgstr ""
+msgstr "Modyfikuj %{domain}"
 
 #: src/js/pages/user/email/autoresponders/modify.vue:1
 msgid "Modify AutoResponder"
@@ -5175,11 +5181,11 @@ msgstr ""
 
 #: src/js/pages/user/login-keys/modify.vue:163
 msgid "Modify Key"
-msgstr ""
+msgstr "Modyfikuj klucz"
 
 #: src/js/pages/user/login-keys/modify.vue:1
 msgid "Modify Login Key"
-msgstr ""
+msgstr "Modyfikuj klucz logowania"
 
 #: src/js/pages/user/email/lists/modify.vue:1
 msgid "Modify Mailing List"
@@ -5191,7 +5197,7 @@ msgstr ""
 
 #: src/js/pages/user/dns/index.vue:35 src/js/pages/user/dns/mx-records.vue:1
 msgid "Modify MX Records"
-msgstr ""
+msgstr "Modyfikuj rekordy MX"
 
 #: src/js/pages/admin/reseller-packages/view.vue:1
 msgid "Modify Package"
@@ -5291,7 +5297,7 @@ msgstr "Multi Serwer jest obecnie WYŁĄCZONY"
 
 #: src/js/pages/admin/multi-server.vue:1 src/js/modules/navigation/admin.js:82
 msgid "Multi Server Setup"
-msgstr "Ustawienia Multi Serwer"
+msgstr "Konfiguracja Multi Serwer"
 
 #: src/js/pages/user/email/lists/modify.vue:139
 msgid "Mungedomain"
@@ -5424,7 +5430,7 @@ msgstr "Maska"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:31
 msgid "Neutral"
-msgstr ""
+msgstr "Neutralny"
 
 #: src/js/pages/admin/settings.vue:183
 #: src/js/pages/user/login-keys/create.vue:41
@@ -5441,7 +5447,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:19
 msgid "New Domain"
-msgstr ""
+msgstr "Nowa domena"
 
 #: src/js/pages/user/filemanager/index.vue:17
 msgid "New folder"
@@ -5457,7 +5463,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/link-editor.vue:21
 msgid "New Tab"
-msgstr ""
+msgstr "Nowa zakładka"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:9
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:13
@@ -5526,6 +5532,8 @@ msgid ""
 "Note that the Login Keys are one-way encrypted, just like passwords. They "
 "cannot be retrieved if you forget them."
 msgstr ""
+"Należy pamiętać, że klucze logowania są szyfrowane jednokierunkowo tak jak "
+"hasła. Jeżeli je zapomnisz to nie można ich odzyskać."
 
 #: src/js/pages/user/cronjobs/create.vue:38
 #: src/js/pages/user/cronjobs/index.vue:113
@@ -5629,12 +5637,12 @@ msgstr "Liczba linii od końca"
 
 #: src/js/pages/user/stats/log.vue:43 src/js/pages/user/subdomains/logs.vue:34
 msgid "Number of lines to show"
-msgstr ""
+msgstr "Liczba linii do pokazania"
 
 #: src/js/pages/user/login-keys/create.vue:74
 #: src/js/pages/user/login-keys/modify.vue:60
 msgid "Number of requests allowed with this key. 0=Unlimited"
-msgstr ""
+msgstr "Liczba żądań dozwolonych przy użyciu tego klucza. 0 = Nieograniczona"
 
 #: src/js/pages/user/database/index.vue:27
 #: src/js/pages/user/database/index.vue:33
@@ -5658,7 +5666,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:6
 msgid "Old Domain"
-msgstr ""
+msgstr "Stara domena"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:9
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:14
@@ -5679,7 +5687,7 @@ msgstr ""
 
 #: src/js/pages/reseller/backups/schedule.vue:72
 msgid "On Schedule"
-msgstr ""
+msgstr "Zgodnie z harmonogramem"
 
 #: src/js/pages/user/login-keys/create.vue:155
 #: src/js/pages/user/login-keys/modify.vue:139
@@ -5688,6 +5696,8 @@ msgid ""
 "Ranges allowed: 1.2.3.4-5 <br>\n"
 "Leave blank to allow any IP."
 msgstr ""
+"Jeden adres IP w linii. Podanie zakresu jest dozwolone: 1.2.3.4-5. Pozostaw "
+"puste aby zezwolić na dowolny adres IP."
 
 #: src/js/pages/admin/custom-httpd/customize.vue:23
 msgid "Only add the few lines of the server code you need to insert."
@@ -5754,11 +5764,11 @@ msgstr "Oryinalny pakiet"
 #: src/js/pages/user/bandwidth.vue:54 src/js/pages/user/bandwidth.vue:188
 #: src/js/pages/user/bandwidth.vue:229 src/js/pages/user/bandwidth.vue:265
 msgid "Other"
-msgstr ""
+msgstr "Inne"
 
 #: src/js/pages/user/dns/index.vue:16 src/js/pages/user/dns/index.vue:48
 msgid "Override TTL Value"
-msgstr ""
+msgstr "Nadpisz wartość TTL"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:53
 #: src/js/pages/reseller/stats.vue:193
@@ -5858,7 +5868,7 @@ msgstr ""
 #: src/js/pages/reseller/skins.vue:22
 #: src/js/pages/user/email/usage/index.vue:126
 msgid "Path"
-msgstr ""
+msgstr "Ścieżka"
 
 #: src/js/components/local/filemanager/dialogs/create-file-dialog.vue:7
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:8
@@ -5921,7 +5931,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/php.vue:1
 msgid "PHP Selector"
-msgstr ""
+msgstr "Wybór PHP"
 
 #: src/js/pages/admin/php-safe-mode.vue:1
 msgid "PHP Settings"
@@ -5930,7 +5940,7 @@ msgstr "Ustawienia PHP"
 #: src/js/pages/user/domains/edit.vue:76 src/js/pages/user/domains/php.vue:11
 #: src/js/pages/user/domains/php.vue:13
 msgid "PHP Version Selector"
-msgstr ""
+msgstr "Wybór wersji PHP"
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:11
 msgid "PHP-FPM config customization for %{ user } php-fpm %{ version }"
@@ -5985,7 +5995,7 @@ msgstr "Zarządzanie wtyczkami"
 #: src/js/modules/navigation/reseller.js:143
 #: src/js/modules/navigation/user.js:211
 msgid "Plugins will be inserted after this entry"
-msgstr ""
+msgstr "Wtyczki zostaną wstawione po tym wpisie"
 
 #: src/js/pages/user/domain-pointers.vue:49
 msgid "Pointer"
@@ -6055,7 +6065,7 @@ msgstr "Poprzedni krok"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:28
 msgid "Primary"
-msgstr ""
+msgstr "Podstawowy"
 
 #: src/js/pages/user/two-step-auth.vue:135
 msgid "Print"
@@ -6067,16 +6077,16 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:31
 #: src/js/pages/user/create-ticket.vue:13
 msgid "Priority:"
-msgstr ""
+msgstr "Priorytet:"
 
 #: src/js/pages/user/domains/edit.vue:141
 msgid "private_html option has been updated"
-msgstr ""
+msgstr "Opcje dla private_html zostały zaktualizowane"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:3
 #: src/js/pages/user/domains/edit.vue:56
 msgid "private_html setup"
-msgstr ""
+msgstr "Konfiguracja private_html"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:11
 msgid "Privileges:"
@@ -6100,7 +6110,7 @@ msgstr "Prędkość (MHz)"
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:69
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:55
 msgid "Profile Setup"
-msgstr ""
+msgstr "Konfiguracja profilu"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:12
@@ -6191,11 +6201,11 @@ msgstr ""
 #: src/js/pages/user/login-keys/create.vue:31
 #: src/js/pages/user/login-keys/modify.vue:18
 msgid "Random"
-msgstr ""
+msgstr "Losuj"
 
 #: src/js/pages/user/stats/log.vue:60 src/js/pages/user/subdomains/logs.vue:51
 msgid "raw"
-msgstr ""
+msgstr "źródło"
 
 #: src/js/pages/user/dns/security.vue:13
 msgid "Re-sign your zone"
@@ -6283,7 +6293,7 @@ msgstr "odświeżenie za %{delay} sekund"
 #: src/js/pages/admin/log-viewer/view.vue:60 src/js/pages/user/stats/log.vue:50
 #: src/js/pages/user/subdomains/logs.vue:41
 msgid "Reload Log"
-msgstr "Odśwież Log"
+msgstr "Odśwież logi"
 
 #: src/js/pages/admin/process-monitor.vue:40
 msgid "reloading..."
@@ -6344,7 +6354,7 @@ msgstr "Usuń uwierzytelnienie"
 
 #: src/js/pages/user/subdomains/index.vue:107
 msgid "Remove Directory Content"
-msgstr ""
+msgstr "Usuń zawartość katalogu"
 
 #: src/js/pages/reseller/users/modify.vue:94
 #: src/js/pages/user/domains/ips.vue:44
@@ -6384,11 +6394,11 @@ msgstr "Zmień nazwę"
 
 #: src/js/pages/user/domains/index.vue:16
 msgid "Rename domain"
-msgstr ""
+msgstr "Zmień nazwę domeny"
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:3
 msgid "Rename Domain"
-msgstr ""
+msgstr "Zmień nazwę domeny"
 
 #: src/js/pages/user/database/index.vue:27
 #: src/js/pages/user/database/index.vue:38
@@ -6493,7 +6503,7 @@ msgstr "Wyślij ponownie email powitalny"
 #: src/js/pages/reseller/customize-skin/index.vue:34
 #: src/js/pages/reseller/users/_components/change-user-message.vue:43
 msgid "Reset"
-msgstr ""
+msgstr "Przywróć"
 
 #: src/js/components/local/skins/customize-skin-dialog.vue:49
 msgid "Reset colors"
@@ -6514,7 +6524,7 @@ msgstr "Przywróć do domyślnych"
 
 #: src/js/components/local/skins/customize-skin-dialog.vue:46
 msgid "Reset logo"
-msgstr ""
+msgstr "Przywróć logo"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/files-table.vue:33
@@ -6528,7 +6538,7 @@ msgstr "Przywróć właściciela"
 
 #: src/js/pages/reseller/edit-user-message.vue:12
 msgid "Reset to default"
-msgstr ""
+msgstr "Przywróć domyślną"
 
 #: src/js/pages/reseller/users/view.vue:70
 msgid "Reset Today"
@@ -6536,7 +6546,7 @@ msgstr ""
 
 #: src/js/pages/user/login-keys/index.vue:37
 msgid "Reset Uses"
-msgstr ""
+msgstr "Wyzeruj użycia"
 
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:4
 msgid "Resetting the defaults will wipe any custom entries you have made."
@@ -6615,7 +6625,7 @@ msgstr "Hasło root-a"
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:47
 #: src/js/pages/reseller/customize-skin/_components/route-editor.vue:10
 msgid "Route"
-msgstr ""
+msgstr "Ścieżka"
 
 #: src/js/pages/user/cronjobs/create.vue:13
 msgid "Run on @reboot"
@@ -6632,7 +6642,7 @@ msgstr "Uruchomiona"
 
 #: src/js/pages/reseller/customize-skin/_components/colors-editor.vue:29
 msgid "Safe"
-msgstr ""
+msgstr "Bezpieczny"
 
 #: src/js/pages/admin/php-safe-mode.vue:58
 msgid "Safe Mode"
@@ -6641,11 +6651,11 @@ msgstr ""
 #: src/js/pages/user/domains/add.vue:31 src/js/pages/user/domains/add.vue:40
 #: src/js/pages/user/domains/edit.vue:22 src/js/pages/user/domains/edit.vue:31
 msgid "Same as Main account"
-msgstr ""
+msgstr "Tak samo jak w koncie głównym"
 
 #: src/js/components/global/ui/ui-color-picker.vue:58
 msgid "Saturation"
-msgstr ""
+msgstr "Nasycenie"
 
 #: src/js/components/global/app/app-search.vue:66
 #: src/js/components/local/dns/edit-record.vue:41
@@ -6767,7 +6777,7 @@ msgstr "Ustawienia wyszukiwania"
 
 #: src/js/pages/user/domains/php.vue:28
 msgid "Second PHP"
-msgstr ""
+msgstr "Drugie PHP"
 
 #: src/js/pages/admin/process-monitor.vue:32
 msgid "seconds"
@@ -6798,7 +6808,7 @@ msgstr "SSL"
 
 #: src/js/pages/user/domains/add.vue:47 src/js/pages/user/domains/edit.vue:39
 msgid "Secure SSL"
-msgstr ""
+msgstr "Bezpieczny SSL"
 
 #: src/js/pages/user/security-questions.vue:21
 #: src/js/pages/user/security-questions.vue:28
@@ -6910,7 +6920,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/rename-domain-dialog.vue:9
 msgid "Select the domain to change and enter it's new value"
-msgstr ""
+msgstr "Wybierz domenę do zmiany i podaj jej nową nazwę"
 
 #: src/js/pages/admin/users/move.vue:15
 msgid "Select the Users of"
@@ -7174,7 +7184,7 @@ msgstr ""
 
 #: src/js/pages/user/domains/index.vue:40
 msgid "Set as default"
-msgstr ""
+msgstr "Ustaw jako domyślną"
 
 #: src/js/pages/user/email/catch-all.vue:1
 msgid "Set Catch All E-mail"
@@ -7221,7 +7231,7 @@ msgstr[2] ""
 
 #: src/js/pages/reseller/nameservers.vue:42
 msgid "Set the Nameservers that will be assigned to new users"
-msgstr ""
+msgstr "Ustaw serwery nazw, które będą przypisywane nowym Użytkownikom"
 
 #: src/js/pages/user/email/vacations/index.vue:20
 msgid "Set Vacation Message"
@@ -7254,7 +7264,7 @@ msgstr "Ustawienia"
 
 #: src/js/modules/widgets.js:15
 msgid "Setup your databases"
-msgstr ""
+msgstr "Konfiguruj swoje bazy danych"
 
 #: src/js/pages/reseller/ip-config.vue:28
 msgid "Share"
@@ -7547,7 +7557,7 @@ msgstr ""
 #: src/js/pages/user/email/spamassassin.vue:1
 #: src/js/modules/navigation/user.js:82
 msgid "Spamassassin Setup"
-msgstr ""
+msgstr "Konfiguracja Spamassassin"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:41
 #: src/js/pages/reseller/stats.vue:197
@@ -7631,7 +7641,7 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/index.vue:49
 msgid "Stats"
-msgstr ""
+msgstr "Statystyki"
 
 #: src/js/components/local/stats/webalizer-table.vue:4
 #: src/js/pages/admin/ip-manager/details.vue:28
@@ -7750,14 +7760,14 @@ msgstr "Subdomeny"
 
 #: src/js/pages/user/subdomains/index.vue:1
 msgid "Sub-Domains Setup"
-msgstr ""
+msgstr "Konfiguracja subdomen"
 
 #: src/js/pages/user/subdomains/index.vue:102
 msgid "subdomain"
 msgid_plural "subdomains"
-msgstr[0] "subdomena"
+msgstr[0] "subdomenę"
 msgstr[1] "subdomeny"
-msgstr[2] "subdomen"
+msgstr[2] "subdomeny"
 
 #: src/js/pages/admin/backups/modify.vue:207
 #: src/js/pages/admin/backups/schedule.vue:223
@@ -7824,7 +7834,7 @@ msgstr ""
 #: src/js/pages/reseller/message-users.vue:42
 #: src/js/pages/user/create-ticket.vue:27
 msgid "Subject:"
-msgstr ""
+msgstr "Temat:"
 
 #: src/js/pages/reseller/backups/schedule.vue:189
 #: src/js/pages/reseller/passwords.vue:55
@@ -7922,7 +7932,7 @@ msgstr "Zawieś po przekroczeniu limitów"
 #: src/js/pages/user/email/accounts/index.vue:86
 #: src/js/pages/user/ftp-accounts/index.vue:34
 msgid "Suspended"
-msgstr "Zawieszony"
+msgstr "Zawieszone"
 
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:15
 #: src/js/pages/admin/custom-httpd/view.vue:16
@@ -7987,7 +7997,7 @@ msgstr ""
 
 #: src/js/pages/user/stats/log.vue:37 src/js/pages/user/subdomains/logs.vue:28
 msgid "Tail"
-msgstr ""
+msgstr "Ostatnie"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:26
 msgid "Target Domain"
@@ -8046,6 +8056,7 @@ msgid ""
 "The ALL_USER type commands are replaced with all commands the User is "
 "allowed, at that level."
 msgstr ""
+"Komenda ALL_USER zastępuje wszystkie komendy użytkownika na danym poziomie."
 
 #: src/js/pages/user/email/catch-all.vue:41
 msgid "The e-mail is dropped and completely ignored"
@@ -8058,10 +8069,11 @@ msgstr ""
 #: src/js/pages/user/login-keys/index.vue:100
 msgid "The login username used will still be your normal DA username."
 msgstr ""
+"Nazwa użytkownika do logowania nadal będzie Twoją nazwą użytkownika DA."
 
 #: src/js/pages/user/login-keys/create.vue:184
 msgid "The priorities for allow and deny are"
-msgstr ""
+msgstr "Priorytet dla komed dozwolonych i zabronionych jest"
 
 #: src/js/pages/user/email/catch-all.vue:24
 msgid "The sender is notified that the address doesn't exist"
@@ -8180,7 +8192,7 @@ msgstr "Timeout (sekundy)"
 #: src/js/pages/reseller/create-ticket.vue:13
 #: src/js/pages/reseller/message-users.vue:12
 msgid "To:"
-msgstr ""
+msgstr "Do:"
 
 #: src/js/pages/user/email/usage/index.vue:15
 #: src/js/pages/user/email/usage/php-scripts.vue:14
@@ -8309,7 +8321,7 @@ msgstr[2] ""
 
 #: src/js/pages/reseller/customize-skin/index.vue:25
 msgid "Undo Changes"
-msgstr ""
+msgstr "Wycofaj zmiany"
 
 #: src/js/components/global/ui/ui-progress-label.vue:16
 #: src/js/components/local/user-package.vue:16
@@ -8409,7 +8421,7 @@ msgstr "Prześlij pliki"
 
 #: src/js/pages/reseller/customize-skin/_components/upload-logo.vue:18
 msgid "Upload Logo"
-msgstr ""
+msgstr "Prześlij logo"
 
 #: src/js/pages/admin/plugin-manager.vue:86
 msgid "Upload Method:"
@@ -8418,7 +8430,7 @@ msgstr "Metoda przesłania:"
 #: src/js/components/local/skins/upload-skin-dialog.vue:6
 #: src/js/pages/reseller/skins.vue:13
 msgid "Upload Skin"
-msgstr ""
+msgstr "Prześlij skórkę"
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:8
 msgid "Uptime"
@@ -8432,7 +8444,7 @@ msgstr ""
 
 #: src/js/pages/reseller/customize-skin/_components/category-editor.vue:23
 msgid "URL to image in JPG/PNG/SVG format"
-msgstr ""
+msgstr "Ścieżka do obrazka w formacie JPG/PNG/SVG"
 
 #: src/js/pages/admin/stats.vue:230
 #: src/js/pages/admin/users/resellers/_components/usage-table.vue:2
@@ -8452,7 +8464,7 @@ msgstr "Zużycie"
 
 #: src/js/pages/user/subdomains/index.vue:57
 msgid "Usage Log"
-msgstr ""
+msgstr "Logi użycia"
 
 #: src/js/pages/admin/users/resellers/view.vue:44
 #: src/js/pages/reseller/stats.vue:11 src/js/pages/reseller/users/view.vue:43
@@ -8476,13 +8488,15 @@ msgstr ""
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:15
 msgid "Use a directory named private_html"
-msgstr ""
+msgstr "Użyj katalogu o nazwie private_html"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:26
 msgid ""
 "Use a symbolink link from private_html to public_html - allows for same data "
 "in http and https"
 msgstr ""
+"Użyj linku symbolicznego do katalogu public_html - zazwalaj na te same dane "
+"dla schematów http i https"
 
 #: src/js/pages/user/email/spamassassin.vue:122
 msgid "Use attachments."
@@ -8490,7 +8504,7 @@ msgstr ""
 
 #: src/js/pages/user/dns/index.vue:52
 msgid "Use Default"
-msgstr ""
+msgstr "Użyj domyślnej"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:32
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:32
@@ -8547,12 +8561,16 @@ msgid ""
 "Use this server to handle my e-mails. If not, change the MX records and "
 "uncheck this option."
 msgstr ""
+"Używaj tego serwera do obługi poczty e-mail. Jeżeli nie, zmieniń rekordy MX "
+"i nie zaznaczaj tej opcji."
 
 #: src/js/components/global/app/app-mx-local-mail.vue:6
 msgid ""
 "Use this server to handle my emails. If not, change the MX records and "
 "uncheck this option."
 msgstr ""
+"Używaj tego serwera do obługi poczty e-mail. Jeżeli nie, zmieniń rekordy MX "
+"i nie zaznaczaj tej opcji."
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:237
 msgid "Used"
@@ -8615,13 +8633,13 @@ msgstr ""
 #: src/js/pages/reseller/user-packages/index.vue:61
 msgid "user package"
 msgid_plural "user packages"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "pakiet użytkownika"
+msgstr[1] "pakiety użytkownika"
+msgstr[2] "pakietów użytkownika"
 
 #: src/js/pages/reseller/users/create.vue:56
 msgid "User Package"
-msgstr ""
+msgstr "Pakiet Użytkownika"
 
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:42
 #: src/js/pages/reseller/stats.vue:185
@@ -8712,7 +8730,7 @@ msgstr ""
 #: src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:27
 msgid "Uses"
-msgstr "Użyj"
+msgstr "Użyto"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:43
 msgid "Uses 2 IP's, domain uses one of them"
@@ -8725,7 +8743,7 @@ msgstr "Użyj 3 adresó IP, domena bedzie miała własny adres IP"
 #: src/js/pages/user/login-keys/create.vue:68
 #: src/js/pages/user/login-keys/modify.vue:54
 msgid "Uses:"
-msgstr ""
+msgstr "Użycia:"
 
 #: src/js/pages/user/email/vacations/index.vue:23
 #: src/js/pages/user/email/vacations/index.vue:28
@@ -8828,11 +8846,11 @@ msgstr "Wersja"
 
 #: src/js/pages/user/stats/log.vue:1
 msgid "Vew Log"
-msgstr ""
+msgstr "Pokaż logi"
 
 #: src/js/pages/user/subdomains/logs.vue:1
 msgid "Vew Sub-Domain Log"
-msgstr ""
+msgstr "Pokaż logi subdomeny"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:11
 #: src/js/pages/admin/log-viewer/index.vue:34
@@ -8841,7 +8859,7 @@ msgstr ""
 #: src/js/pages/user/filemanager/edit.vue:12
 #: src/js/pages/user/login-keys/index.vue:89
 msgid "View"
-msgstr "Widok"
+msgstr "Pokaż"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:30
@@ -8877,11 +8895,11 @@ msgstr "Szczegóły konfiguracji domeny"
 
 #: src/js/components/local/stats/webalizer-table.vue:75
 msgid "View Error Log"
-msgstr ""
+msgstr "Pokaż logi błędów"
 
 #: src/js/pages/user/stats/log.vue:15
 msgid "View Error Log for %{ domain }"
-msgstr ""
+msgstr "Pokaż logi błędów dla %{ domain }"
 
 #: src/js/pages/user/filemanager/view.vue:1
 msgid "View File"
@@ -8890,20 +8908,20 @@ msgstr ""
 #: src/js/pages/user/dashboard/_components/widgets/reseller-stats.vue:60
 #: src/js/pages/user/dashboard/_components/widgets/user-stats.vue:46
 msgid "View History"
-msgstr ""
+msgstr "Pokaż historię"
 
 #: src/js/pages/admin/system-backup.vue:199
 #: src/js/pages/admin/system-backup.vue:207
 msgid "View Last Backup Log"
-msgstr ""
+msgstr "Pokaż logi ostatniej kopii zapasowej"
 
 #: src/js/pages/admin/log-viewer/view.vue:1
 msgid "View Log"
-msgstr "Pokaż log"
+msgstr "Pokaż logi"
 
 #: src/js/pages/admin/log-viewer/view.vue:11
 msgid "View Log: %{ log }"
-msgstr "Pokaż log: %{ log }"
+msgstr "Pokaż logi: %{ log }"
 
 #: src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
@@ -8939,7 +8957,7 @@ msgstr ""
 
 #: src/js/pages/user/subdomains/stats.vue:1
 msgid "View Sub-Domain Stats"
-msgstr ""
+msgstr "Pokaż statystyki subdomeny"
 
 #: src/js/pages/user/messages/_dialogs/view-ticket-dialog.vue:3
 msgid "View Ticket: #%{ number }"
@@ -8951,11 +8969,11 @@ msgstr ""
 
 #: src/js/components/local/stats/webalizer-table.vue:69
 msgid "View Usage Log"
-msgstr ""
+msgstr "Pokaż logi użycia"
 
 #: src/js/pages/user/stats/log.vue:12
 msgid "View Usage Log for %{ domain }"
-msgstr ""
+msgstr "Pokaż logi użycia dla %{ domain }"
 
 #: src/js/pages/reseller/users/view.vue:1
 #: src/js/pages/reseller/users/view.vue:12
@@ -8981,7 +8999,7 @@ msgstr ""
 #: src/js/pages/user/stats/domain-statistics.vue:15
 #: src/js/pages/user/subdomains/stats.vue:13
 msgid "Webalizer"
-msgstr ""
+msgstr "Webalizer"
 
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:50
 #: src/js/pages/user/email/accounts/index.vue:114
@@ -9176,7 +9194,7 @@ msgstr ""
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
-msgstr ""
+msgstr "Twoje konto"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:22
 msgid "Your current login information"
