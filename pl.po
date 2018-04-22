@@ -571,7 +571,7 @@ msgstr "Dodaj nową kategorię"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:3
 msgid "Add New Domain Pointer"
-msgstr ""
+msgstr "Dodaj nowy wskaźnik domeny"
 
 #: src/js/pages/user/dashboard/_components/widgets/ip-manager.vue:39
 msgid "Add New IP"
@@ -907,7 +907,7 @@ msgstr "Zezwalaj użytkownikom z mniejszym niż"
 
 #: src/js/pages/user/ftp-settings.vue:28
 msgid "Allow:"
-msgstr ""
+msgstr "Dopuszczone:"
 
 #: src/js/pages/user/login-keys/create.vue:146
 #: src/js/pages/user/login-keys/modify.vue:132
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #: src/js/pages/admin/plugin-manager.vue:126
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz dezaktywować wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz dezaktywować wtyczkę \"%{name}\"?"
 
 #: src/js/pages/admin/plugin-manager.vue:141
 msgid "Are you sure you want to delete “%{ name }” plugin?"
@@ -1096,7 +1096,7 @@ msgstr[2] ""
 
 #: src/js/pages/admin/plugin-manager.vue:132
 msgid "Are you sure you want to update “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz zaktualizować wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz zaktualizować wtyczkę \"%{ name }\"?"
 
 #: src/js/pages/admin/ip-manager/_dialogs/assign-ip-dialog.vue:33
 #: src/js/pages/admin/ip-manager/index.vue:19
@@ -1502,7 +1502,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:68
 msgid "CA Root Certificate"
-msgstr ""
+msgstr "Certyfikat CA Root"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:45
 msgid "Cached Swap Memory"
@@ -1545,7 +1545,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
-msgstr ""
+msgstr "Certyfikat SSL Urzędu Certyfikacji"
 
 #: src/js/pages/user/ssl/_components/certificate-request-dialog.vue:3
 msgid "Certificate Request"
@@ -1553,7 +1553,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:41
 msgid "Certificate Type"
-msgstr ""
+msgstr "Typ certyfikatu"
 
 #: src/js/pages/reseller/users/_components/domains.vue:35
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:44
@@ -1672,7 +1672,7 @@ msgstr "Wybierz kryteria wyszukiwania:"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:34
 msgid "City"
-msgstr ""
+msgstr "Miasto"
 
 #: src/js/pages/user/email/accounts/index.vue:162
 msgid "Clean Forwarders"
@@ -1840,15 +1840,15 @@ msgstr "Komentarze"
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:7
 msgid "Common Name"
-msgstr ""
+msgstr "Nazwa zwyczajowa (CN)"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:46
 msgid "Company"
-msgstr ""
+msgstr "Firma"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:58
 msgid "Company Division"
-msgstr ""
+msgstr "Dział firmy"
 
 #: src/js/pages/admin/license.vue:122
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:113
@@ -1907,7 +1907,7 @@ msgstr ""
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:19
 msgid "Connection Method"
-msgstr ""
+msgstr "Metoda połączenia"
 
 #: src/js/pages/admin/custom-httpd/index.vue:28
 #: src/js/pages/admin/custom-httpd/index.vue:32
@@ -1967,7 +1967,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:10
 msgid "Country"
-msgstr ""
+msgstr "Kraj (dwuznakowy kod)"
 
 #: src/js/pages/user/system-info/_tables/general-info-table.vue:18
 msgid "CPUs Count"
@@ -2003,7 +2003,7 @@ msgstr "Utwórz"
 
 #: src/js/pages/user/ssl/index.vue:130
 msgid "Create A Certificate Request"
-msgstr ""
+msgstr "Utwórz żądanie certyfikatu"
 
 #: src/js/pages/user/two-step-auth.vue:35
 msgid "Create a new secret to begin."
@@ -2025,7 +2025,7 @@ msgstr "Utwórz Administratora"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:35
 msgid "Create as an Alias"
-msgstr ""
+msgstr "Utwórz jako alias"
 
 #: src/js/pages/user/email/autoresponders/create.vue:1
 #: src/js/pages/user/email/autoresponders/index.vue:19
@@ -2081,7 +2081,7 @@ msgstr[2] ""
 #: src/js/pages/user/ftp-accounts/create.vue:1
 #: src/js/pages/user/ftp-accounts/index.vue:19
 msgid "Create FTP Account"
-msgstr ""
+msgstr "Utwórz konto FTP"
 
 #: src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
@@ -2155,7 +2155,7 @@ msgstr ""
 #: src/js/modules/navigation/reseller.js:167
 #: src/js/modules/navigation/user.js:230
 msgid "Create Ticket"
-msgstr ""
+msgstr "Utwórz zgłoszenie"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:44
 msgid "Create tmp tables"
@@ -2180,7 +2180,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:127
 msgid "Create your own self signed certificate"
-msgstr ""
+msgstr "Utwórz własny samopodpisany certyfikat"
 
 #: src/js/pages/admin/dns/add.vue:1
 msgid "Create Zone"
@@ -2287,7 +2287,7 @@ msgstr "Bieżące zużycie"
 #: src/js/pages/user/ftp-accounts/create.vue:133
 #: src/js/pages/user/ftp-accounts/edit.vue:131
 msgid "Custom"
-msgstr ""
+msgstr "Niestandardowy"
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:46
 msgid "Custom amount of bytes from the end of the file"
@@ -2323,7 +2323,7 @@ msgstr ""
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:25
 msgid "Custom username & password"
-msgstr ""
+msgstr "Niestandardowe dane logowania (użytkownik i hasło)"
 
 #: src/js/pages/user/dns/index.vue:57
 msgid "Custom Value:"
@@ -3116,7 +3116,7 @@ msgstr ""
 
 #: src/js/pages/user/database/index.vue:66
 msgid "Download"
-msgstr ""
+msgstr "Pobierz"
 
 #: src/js/pages/user/dashboard/_components/widgets/db.vue:34
 #: src/js/pages/user/database/index.vue:27
@@ -3126,7 +3126,7 @@ msgstr "Pobierz kopię zapasową"
 
 #: src/js/pages/user/email/accounts/index.vue:142
 msgid "Download Outlook Configuration"
-msgstr ""
+msgstr "Pobierz konfigurację dla Outlook"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:29
 msgid "Drop"
@@ -3399,7 +3399,7 @@ msgstr ""
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:15
 msgid "eg. sourcedomain.com"
-msgstr ""
+msgstr "np. domenazrodlowa.pl"
 
 #: src/js/pages/user/filemanager/index.vue:117
 msgid "Empty Clipboard"
@@ -3800,7 +3800,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:133
 msgid "Free & automatic certificate from Let's Encrypt"
-msgstr ""
+msgstr "Darmowy i automatyczny certyfikat od Let's Encrypt"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:33
 msgid "Free Memory"
@@ -3844,6 +3844,7 @@ msgid ""
 "Ftp account with the root directory as the users name in the public_html "
 "directory"
 msgstr ""
+"Konto FTP z głównym katalogiem jak nazwa użytkownika w katalogu public_html"
 
 #: src/js/pages/user/ftp-accounts/create.vue:122
 #: src/js/pages/user/ftp-accounts/edit.vue:120
@@ -3851,11 +3852,15 @@ msgid ""
 "Ftp account with the root directory in the domains home directory (one up "
 "from the public_html)"
 msgstr ""
+"Konto FTP z głównym katalogiem w katalogu domowym domen (o jeden wyżej niż "
+"public_html)"
 
 #: src/js/pages/user/ftp-accounts/create.vue:126
 #: src/js/pages/user/ftp-accounts/edit.vue:124
 msgid "Ftp account with the root directory in the domains public_ftp directory"
 msgstr ""
+"Konto FTP z głównym katalogiem w katalogu domowym domen (o jeden wyżej niż "
+"public_html)"
 
 #: src/js/pages/user/stats/index.vue:46 src/js/pages/user/stats/index.vue:98
 msgid "Ftp Accounts"
@@ -3890,7 +3895,7 @@ msgstr "Konta FTP dla %{ domain }"
 
 #: src/js/modules/navigation/user.js:34
 msgid "FTP Management"
-msgstr ""
+msgstr "Zarządzanie FTP"
 
 #: src/js/pages/admin/backups/modify.vue:135
 #: src/js/pages/admin/backups/modify.vue:213
@@ -3909,11 +3914,11 @@ msgstr "Ustawienia FTP"
 
 #: src/js/pages/user/ftp-accounts/create.vue:25
 msgid "FTP Username"
-msgstr ""
+msgstr "Użytkownik FTP"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:20
 msgid "FTP Username:"
-msgstr ""
+msgstr "Użytkownik FTP:"
 
 #: src/js/pages/user/stats/log.vue:29 src/js/pages/user/subdomains/logs.vue:20
 msgid "Full Log"
@@ -4429,7 +4434,7 @@ msgstr[2] ""
 #: src/js/pages/user/dns/security.vue:43
 #: src/js/pages/user/ssl/_components/paste-cert-tab.vue:4
 msgid "Key"
-msgstr ""
+msgstr "Klucz"
 
 #: src/js/pages/user/login-keys/index.vue:21
 #: src/js/pages/user/login-keys/index.vue:25
@@ -4442,12 +4447,12 @@ msgstr "Nazwa klucza:"
 
 #: src/js/pages/user/ssl/_components/common-data-editor.vue:31
 msgid "Key Size (bits)"
-msgstr ""
+msgstr "Rozmiar klucza (bity)"
 
 #: src/js/pages/user/login-keys/create.vue:25
 #: src/js/pages/user/login-keys/modify.vue:12
 msgid "Key Value:"
-msgstr "Wartość klucza"
+msgstr "Wartość klucza:"
 
 #: src/js/pages/user/dns/security.vue:123
 msgid "Key-Signing Key"
@@ -4878,7 +4883,7 @@ msgstr "Udostępnij statystyki publicznie"
 
 #: src/js/pages/user/domain-pointers.vue:62
 msgid "Manage"
-msgstr ""
+msgstr "Zarządzaj"
 
 #: src/js/modules/widgets.js:20
 msgid "Manage IPs"
@@ -4971,7 +4976,7 @@ msgstr "Maksymalizuj"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:12
 msgid "Maximum requests per week: %{n}"
-msgstr ""
+msgstr "Maksymalna ilość żądań na tydzień: %{n}"
 
 #: src/js/pages/user/email/lists/modify.vue:211
 msgid "MaxLength"
@@ -5177,7 +5182,7 @@ msgstr ""
 
 #: src/js/pages/user/ftp-accounts/edit.vue:1
 msgid "Modify FTP Account"
-msgstr ""
+msgstr "Modyfikuj konto FTP"
 
 #: src/js/pages/user/login-keys/modify.vue:163
 msgid "Modify Key"
@@ -5320,11 +5325,11 @@ msgstr "Bazy danych MySQL"
 
 #: src/js/modules/navigation/user.js:39
 msgid "MySQL Management"
-msgstr "Zarzązanie MySQL"
+msgstr "Zarządzanie MySQL"
 
 #: src/js/pages/user/database/index.vue:1
 msgid "MySQL Management "
-msgstr "Zarzązanie MySQL "
+msgstr "Zarządzanie MySQL"
 
 #: src/js/pages/admin/users/resellers/index.vue:19
 #: src/js/pages/reseller/customize-skin/_components/category-editor.vue:9
@@ -5860,7 +5865,7 @@ msgstr ""
 
 #: src/js/pages/user/ssl/index.vue:136
 msgid "Paste a pre-generated certificate and key"
-msgstr ""
+msgstr "Wklej wygenerowany certyfikat i klucz"
 
 #: src/js/components/local/filemanager/dialogs/compress-clipboard-files-dialog.vue:6
 #: src/js/pages/reseller/skins.vue:18
@@ -5979,7 +5984,7 @@ msgstr "Wprowadź kryteria wyszukiwania"
 #: src/js/pages/user/ftp-accounts/create.vue:134
 #: src/js/pages/user/ftp-accounts/edit.vue:132
 msgid "Please provide custom directory in the field below"
-msgstr ""
+msgstr "Podaj niestandardowy katalog w polu poniżej"
 
 #: src/js/pages/admin/plugin-manager.vue:15
 #: src/js/pages/admin/plugin-manager.vue:19
@@ -5999,7 +6004,7 @@ msgstr "Wtyczki zostaną wstawione po tym wpisie"
 
 #: src/js/pages/user/domain-pointers.vue:49
 msgid "Pointer"
-msgstr ""
+msgstr "Wskaźnik"
 
 #: src/js/pages/user/bandwidth.vue:45 src/js/pages/user/bandwidth.vue:170
 #: src/js/pages/user/bandwidth.vue:217 src/js/pages/user/bandwidth.vue:262
@@ -6861,7 +6866,7 @@ msgstr "Wybierz dane, z których chcesz utworzyć kopię zapasową."
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:6
 msgid "Select Database"
-msgstr ""
+msgstr "Wybierz bazę danych"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
@@ -6964,7 +6969,7 @@ msgstr "Wybrane dane"
 
 #: src/js/pages/user/ssl/_components/lets-encrypt-tab.vue:9
 msgid "Selected entries count: %{n}"
-msgstr ""
+msgstr "Liczna wybranych pozycji: %{n}"
 
 #: src/js/pages/admin/ip-manager/details.vue:185
 msgid "Selected IP:"
@@ -7527,7 +7532,7 @@ msgstr "Sortuj tę kolumnę malejąco"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:14
 msgid "Source Domain"
-msgstr ""
+msgstr "Domena źródłowa"
 
 #: src/js/pages/reseller/users/_components/account-info.vue:232
 msgid "Spam Assassin"
@@ -7629,7 +7634,7 @@ msgstr "Rozpoczynają się od"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:22
 msgid "State/Province"
-msgstr ""
+msgstr "Stan/Województwo"
 
 #: src/js/pages/user/stats/domain-statistics.vue:61
 msgid "Statistics for domain do not available yet"
@@ -8001,7 +8006,7 @@ msgstr "Ostatnie"
 
 #: src/js/pages/user/_components/create-domain-pointer-dialog.vue:26
 msgid "Target Domain"
-msgstr ""
+msgstr "Domena docelowa"
 
 #: src/js/pages/admin/process-monitor.vue:60
 msgid "Tasks:"
@@ -8382,7 +8387,7 @@ msgstr "Odwieś"
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:20
 #: src/js/pages/user/protected-directories/view.vue:29
 msgid "Update"
-msgstr ""
+msgstr "Aktualizuj"
 
 #: src/js/pages/admin/license.vue:179
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:170
@@ -8408,7 +8413,7 @@ msgstr "Prześlij"
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:3
 #: src/js/pages/user/database/index.vue:23
 msgid "Upload Backup"
-msgstr ""
+msgstr "Prześlij kopię zapasową"
 
 #: src/js/pages/user/filemanager/index.vue:23
 #: src/js/pages/user/filemanager/index.vue:59
@@ -8484,7 +8489,7 @@ msgstr "Zużycie, logi i statystyki"
 
 #: src/js/pages/user/ssl/ca-cert.vue:22
 msgid "Use a CA Cert"
-msgstr ""
+msgstr "Użyj certyfikatu CA"
 
 #: src/js/pages/user/domains/_components/private-html-dialog.vue:15
 msgid "Use a directory named private_html"
@@ -8554,7 +8559,7 @@ msgstr "Użyj adresu IP z kopii zapasowej"
 
 #: src/js/pages/user/ssl/index.vue:123
 msgid "Use the server's certificate"
-msgstr ""
+msgstr "Użyj certyfikatu serwera"
 
 #: src/js/pages/user/dns/mx-records.vue:25
 msgid ""
@@ -9034,7 +9039,7 @@ msgstr ""
 
 #: src/js/pages/user/ftp-settings.vue:21
 msgid "Welcome message"
-msgstr ""
+msgstr "Wiadomość powitalna"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/crons-table.vue:11
@@ -9198,7 +9203,7 @@ msgstr "Twoje konto"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:22
 msgid "Your current login information"
-msgstr ""
+msgstr "Twoje aktualne dane logowania"
 
 #: src/js/pages/admin/services.vue:75
 msgid "Your Password:"
