@@ -232,8 +232,8 @@ msgid ""
 "</p>"
 msgstr ""
 "<p>\n"
-"Żeby używać tej funkcjonalności należy pobrać aplikację Authenticator na "
-"swój telefon i zeskanować kod QR.\n"
+"Żeby używać tej funkcjonalności należy pobrać aplikację Google Authenticator "
+"na swój telefon i zeskanować kod QR.\n"
 "</p>\n"
 "<p>\n"
 "Aplikacja wyświetli kod, który należy podać przy logowaniu do konta w "
@@ -430,7 +430,7 @@ msgstr "Konta i informacje o zużyciu"
 
 #: src/js/pages/user/email/filters.vue:119
 msgid "Action for filter matches:"
-msgstr ""
+msgstr "Akcja filtra:"
 
 #: src/js/pages/admin/multi-server.vue:49 src/js/pages/admin/services.vue:18
 #: src/js/pages/admin/users/resellers/view.vue:26
@@ -507,7 +507,7 @@ msgstr ""
 #: src/js/pages/user/two-step-auth.vue:132
 #: src/js/pages/user/two-step-auth.vue:179
 msgid "Add Codes"
-msgstr ""
+msgstr "Dodaj kody"
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:78
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:40
@@ -533,7 +533,7 @@ msgstr ""
 
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:42
 msgid "Add Forwarder Name"
-msgstr ""
+msgstr "Dodaj nazwę przekierowania"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:56
 #: src/js/pages/admin/ip-manager/index.vue:15
@@ -563,7 +563,7 @@ msgstr ""
 
 #: src/js/pages/user/handlers/index.vue:45
 msgid "Add New Apache Handler"
-msgstr ""
+msgstr "Dodaj nowy Apache Handler"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:21
 msgid "Add New Category"
@@ -583,7 +583,7 @@ msgstr ""
 
 #: src/js/pages/user/redirects.vue:59
 msgid "Add New Redirect"
-msgstr ""
+msgstr "Dodaj nowe przepierowanie"
 
 #: src/js/pages/user/security-questions.vue:58
 msgid "Add new Security Question"
@@ -596,7 +596,7 @@ msgstr "Dodaj nowy serwer"
 
 #: src/js/pages/user/subdomains/index.vue:72
 msgid "Add New SubDomain"
-msgstr ""
+msgstr "Dodaj nową subdomenę"
 
 #: src/js/pages/user/dashboard/_components/widgets/all-users.vue:47
 #: src/js/pages/user/dashboard/_components/widgets/list-users.vue:63
@@ -627,7 +627,7 @@ msgstr "Dodaj wtyczkę"
 
 #: src/js/pages/user/two-step-auth.vue:165
 msgid "Add Scratch Codes"
-msgstr ""
+msgstr "Dodaj kody zdrapki"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:3
 msgid "Add Security Question"
@@ -651,7 +651,7 @@ msgstr "Dodaj kod, który zostanie wstawiony w miejsce tokenów CUSTOM."
 
 #: src/js/pages/admin/ip-manager/details.vue:141
 msgid "Add to Apache"
-msgstr ""
+msgstr "Dodaj do Apache"
 
 #: src/js/components/local/filemanager/actions.vue:30
 #: src/js/components/local/filemanager/files-table.vue:235
@@ -701,7 +701,7 @@ msgstr "Dodaj widżet"
 #: src/js/pages/admin/ip-manager/details.vue:77
 #: src/js/pages/admin/ip-manager/details.vue:87
 msgid "Added to Apache"
-msgstr ""
+msgstr "Dodane do Apache"
 
 #: src/js/pages/admin/ip-manager/details.vue:77
 #: src/js/pages/admin/ip-manager/details.vue:84
@@ -714,7 +714,7 @@ msgstr ""
 
 #: src/js/pages/user/email/catch-all.vue:53
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 #: src/js/pages/admin/users/admins.vue:101
 msgid "admin"
@@ -767,7 +767,7 @@ msgstr "Ustawienia administracyjne"
 
 #: src/js/pages/user/email/lists/modify.vue:33
 msgid "Administrivia"
-msgstr ""
+msgstr "Administrivia"
 
 #: src/js/pages/admin/users/admins.vue:1
 #: src/js/components/global/app/app-search.vue:96
@@ -776,7 +776,7 @@ msgstr "Administratorzy"
 
 #: src/js/pages/user/email/filters.vue:108
 msgid "Adult Filter:"
-msgstr ""
+msgstr "Filtr treści dla dorosłych:"
 
 #: src/js/components/local/filemanager/files-table.vue:179
 msgid "Advanced edit"
@@ -784,7 +784,7 @@ msgstr ""
 
 #: src/js/modules/navigation/user.js:104
 msgid "Advanced Features"
-msgstr ""
+msgstr "Funkcje zaawansowane"
 
 #: src/js/pages/admin/settings.vue:204
 msgid "after"
@@ -886,6 +886,8 @@ msgid ""
 "Allow API logins with the current User/password. Login Keys and Session Keys "
 "are always allowed."
 msgstr ""
+"Zezwól na logowanie poprzez API z użyciem nazwy użytkownika i hasła. Zawsze "
+"można się logować kluczami logowania i kluczami sesji."
 
 #: src/js/pages/user/login-keys/create.vue:91
 #: src/js/pages/user/login-keys/modify.vue:77
@@ -953,6 +955,8 @@ msgstr ""
 #: src/js/pages/user/email/spamassassin.vue:137
 msgid "Any e-mail from these addresses will automatically be tagged as spam."
 msgstr ""
+"Każda wiadomość wysłana z tych adresów będzie automatycznie oznaczona jako "
+"spam."
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:9
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:12
@@ -962,16 +966,16 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:36 src/js/pages/user/bandwidth.vue:152
 #: src/js/pages/user/bandwidth.vue:205 src/js/pages/user/bandwidth.vue:259
 msgid "Apache"
-msgstr ""
+msgstr "Apache"
 
 #: src/js/pages/user/handlers/index.vue:1 src/js/modules/navigation/user.js:110
 msgid "Apache Handlers"
-msgstr ""
+msgstr "Apache Handlers"
 
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:42
 #: src/js/pages/user/email/accounts/index.vue:106
 msgid "Apparent Usage:"
-msgstr ""
+msgstr "Pozorne zużycie:"
 
 #: src/js/pages/admin/backups/modify.vue:174
 #: src/js/pages/admin/backups/schedule.vue:191
@@ -996,7 +1000,7 @@ msgstr "Zastosuj do mnie"
 
 #: src/js/pages/user/email/lists/modify.vue:21
 msgid "Approve Password"
-msgstr ""
+msgstr "Potwierdź hasło"
 
 #: src/js/pages/user/login-keys/create.vue:256
 #: src/js/pages/user/login-keys/modify.vue:236
@@ -1012,7 +1016,7 @@ msgstr "Kwiecień"
 #: src/js/pages/user/email/lists/index.vue:19
 #: src/js/pages/user/email/lists/index.vue:26
 msgid "Archive Size"
-msgstr ""
+msgstr "Rozmiar archiwum"
 
 #: src/js/pages/admin/plugin-manager.vue:129
 msgid "Are you sure you want to activate “%{ name }” plugin?"
@@ -1046,7 +1050,7 @@ msgstr "Czy na pewno chcesz usunąć wtyczkę \"% {name}\"?"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Are you sure you want to delete selected %{subject}?"
-msgstr "Czy na pewno chcesz usunąć wybrany/ą %{subject}?"
+msgstr "Czy na pewno chcesz usunąć %{subject}?"
 
 #: src/js/components/local/filemanager/dialogs/delete-files-dialog.vue:7
 msgid "Are you sure you want to delete selected files?"
@@ -1144,6 +1148,8 @@ msgid ""
 "Attachments will seperate the spam into its own message, preventing scripts "
 "from being run."
 msgstr ""
+"Załączniki odseparują spam od jego własnej wiadomości, uniemożliwiając "
+"uruchomienie skryptów."
 
 #: src/js/pages/admin/brute-force-monitor/index.vue:68
 #: src/js/pages/user/login-history.vue:11
@@ -1166,7 +1172,7 @@ msgstr "Sierpień"
 #: src/js/pages/user/email/usage/index.vue:119
 #: src/js/pages/user/email/usage/index.vue:125
 msgid "Auth ID"
-msgstr ""
+msgstr "ID Uwierzytelnienia"
 
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:31
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:9
@@ -1251,7 +1257,7 @@ msgstr "Autorespondery"
 #: src/js/pages/user/backup/index.vue:65
 #: src/js/pages/user/backup/restore.vue:67
 msgid "Autoresponders: Includes all autoresponders and messages."
-msgstr ""
+msgstr "Autorespondery: dołącz wszystkie autorespondery i wiadomości."
 
 #: src/js/pages/admin/stats.vue:230 src/js/pages/admin/stats.vue:238
 msgid "Available"
@@ -1274,6 +1280,12 @@ msgid ""
 "discarded. This greatly increases the server load unnecessarily. If you do "
 "not want the catch-all to be on, then use the Fail option instead."
 msgstr ""
+"Unikaj używania opcji Ignoruj, chyba że wiesz, co robisz. Spamerzy będą "
+"wysyłać Ci wiadomości e-mail na przypadkowe adresy, a ta opcja będzie "
+"akceptować te wiadomości e-mail. Nie będziesz tego wiedział, ponieważ "
+"zaakceptowane e-maile zostaną odrzucone. To znacznie zwiększa niepotrzebne "
+"obciążenie serwera. Jeśli nie chcesz, aby catch-all był włączony, użyj "
+"zamiast tego opcji Błąd."
 
 #: src/js/pages/user/subdomains/stats.vue:11
 #: src/js/pages/user/subdomains/stats.vue:14
@@ -1396,6 +1408,8 @@ msgstr ""
 #: src/js/pages/user/two-step-auth.vue:52
 msgid "Be sure to re-scan the QR code, as all old codes become invalid."
 msgstr ""
+"Pamiętaj, aby ponownie zeskanować kod QR, ponieważ wszystkie stare kody "
+"stają się nieważne."
 
 #: src/js/pages/admin/settings.vue:199
 msgid "Blacklist IPs for excessive DA login attempts"
@@ -1406,28 +1420,28 @@ msgstr "Blokuj IP za przekroczoną liczę prób logowania do DA"
 #: src/js/pages/user/email/filters.vue:95
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:39
 msgid "Block"
-msgstr ""
+msgstr "Blokuj"
 
 #: src/js/pages/admin/brute-force-monitor/_components/block-dialog.vue:3
 msgid "Block %{ subject }"
-msgstr ""
+msgstr "Blokuj %{ subject }"
 
 #: src/js/pages/user/email/filters.vue:67
 msgid "Block a specific E-mail address"
-msgstr ""
+msgstr "Blokuje określony adres e-mail"
 
 #: src/js/pages/user/email/filters.vue:73
 msgid "Block all e-mails containing stop words"
-msgstr ""
+msgstr "Blokuje wszystkie wiadomości zawierające słowo"
 
 #: src/js/pages/user/email/filters.vue:76
 msgid "Block all e-mails larger than (KB)"
-msgstr ""
+msgstr "Blokuje wszystkie wiadomości większe niż (KB)"
 
 #: src/js/pages/user/email/filters.vue:12
 #: src/js/pages/user/email/filters.vue:16
 msgid "Block By"
-msgstr ""
+msgstr "Blokowane przez"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:29
@@ -1436,7 +1450,7 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:70
 msgid "Block mail from an entire domain"
-msgstr ""
+msgstr "Blokuje pocztę z całej domeny"
 
 #: src/js/pages/user/email/usage/blockcracking.vue:1
 #: src/js/pages/user/email/usage/blockcracking.vue:11
@@ -1462,7 +1476,7 @@ msgstr ""
 #: src/js/pages/user/email/spamassassin.vue:146
 #: src/js/pages/user/email/spamassassin.vue:150
 msgid "Blocked E-mail"
-msgstr ""
+msgstr "Zablokowane adresy e-mail"
 
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:25
 #: src/js/pages/user/email/accounts/index.vue:88
@@ -1541,7 +1555,7 @@ msgstr "Usługa Catch-All E-mail"
 #: src/js/pages/user/email/autoresponders/index.vue:23
 #: src/js/pages/user/email/autoresponders/index.vue:28
 msgid "CC Address"
-msgstr ""
+msgstr "Adres kopii DW"
 
 #: src/js/pages/user/ssl/ca-cert.vue:1
 msgid "Certificate Authority SSL Certificate"
@@ -1597,21 +1611,21 @@ msgstr "Zmień pakiet dla Użytkownika %{user}"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:3
 msgid "Change password"
-msgstr ""
+msgstr "Zmiana hasła"
 
 #: src/js/pages/user/database/view.vue:32
 #: src/js/pages/user/email/accounts/index.vue:130
 msgid "Change Password"
-msgstr ""
+msgstr "Zmiana hasła"
 
 #: src/js/pages/user/email/accounts/index.vue:137
 msgid "Change Password / Quota"
-msgstr ""
+msgstr "Zmiana hasła / Quota"
 
 #: src/js/pages/reseller/passwords.vue:1 src/js/modules/navigation/admin.js:24
 #: src/js/modules/navigation/reseller.js:29
 msgid "Change Passwords"
-msgstr "Zmiana Haseł"
+msgstr "Zmiana haseł"
 
 #: src/js/pages/user/dashboard/_components/dashboard-tab.vue:73
 msgid "Change position"
@@ -1631,7 +1645,7 @@ msgstr "Zmień wiadomość Użytkownika"
 
 #: src/js/pages/user/password.vue:1
 msgid "Change your Password"
-msgstr ""
+msgstr "Zmień swoje hasło"
 
 #: src/js/pages/admin/history.vue:19 src/js/pages/reseller/history.vue:21
 #: src/js/pages/reseller/users/history.vue:18
@@ -1779,7 +1793,7 @@ msgstr "Zamknij raport"
 #: src/js/pages/user/email/lists/modify.vue:339
 #: src/js/pages/user/email/lists/modify.vue:344
 msgid "Closed"
-msgstr ""
+msgstr "Zamknięte"
 
 #: src/js/pages/reseller/tickets.vue:40
 msgid "Closed (%{ count })"
@@ -1959,7 +1973,7 @@ msgstr "Uszkodzona wtyczka"
 
 #: src/js/pages/user/email/usage/index.vue:42
 msgid "Count"
-msgstr ""
+msgstr "Ilość"
 
 #: src/js/pages/user/disk-usage.vue:20 src/js/pages/user/disk-usage.vue:26
 msgid "Counted"
@@ -2007,12 +2021,12 @@ msgstr "Utwórz żądanie certyfikatu"
 
 #: src/js/pages/user/two-step-auth.vue:35
 msgid "Create a new secret to begin."
-msgstr ""
+msgstr "Utwórz nowy tajny klucz aby rozpocząć."
 
 #: src/js/pages/user/email/accounts/create.vue:96
 #: src/js/pages/user/email/accounts/index.vue:19
 msgid "Create Account"
-msgstr ""
+msgstr "Utwórz konto"
 
 #: src/js/pages/admin/users/admins.vue:12
 #: src/js/pages/admin/users/create-admin.vue:1
@@ -2030,11 +2044,11 @@ msgstr "Utwórz jako alias"
 #: src/js/pages/user/email/autoresponders/create.vue:1
 #: src/js/pages/user/email/autoresponders/index.vue:19
 msgid "Create AutoResponder"
-msgstr ""
+msgstr "Utwórz autoresponder"
 
 #: src/js/pages/user/backup/index.vue:117
 msgid "Create Backup"
-msgstr ""
+msgstr "Utwórz kopię zapsaową"
 
 #: src/js/pages/user/cronjobs/index.vue:12
 msgid "Create cron job"
@@ -2059,13 +2073,13 @@ msgstr "Utwórz wskaźnik domeny"
 
 #: src/js/pages/user/email/forwarders.vue:16
 msgid "Create E-mail Forwarder"
-msgstr ""
+msgstr "Utwórz przekierowanie e-mail"
 
 #: src/js/components/local/filemanager/dialogs/create-file-dialog.vue:4
 #: src/js/pages/user/filemanager/index.vue:20
 #: src/js/pages/user/filemanager/index.vue:56
 msgid "Create File"
-msgstr "Utwóz plik"
+msgstr "Utwórz plik"
 
 #: src/js/components/local/filemanager/dialogs/create-folder-dialog.vue:5
 msgid "Create Folder"
@@ -2074,9 +2088,9 @@ msgstr "Utwórz folder"
 #: src/js/pages/user/email/_components/create-forwarder-dialog.vue:3
 msgid "Create Forwarder"
 msgid_plural "Create Forwarders"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Utwórz przekierowanie"
+msgstr[1] "Utwórz przekierowania"
+msgstr[2] "Utwórz przekierowania"
 
 #: src/js/pages/user/ftp-accounts/create.vue:1
 #: src/js/pages/user/ftp-accounts/index.vue:19
@@ -2085,7 +2099,7 @@ msgstr "Utwórz konto FTP"
 
 #: src/js/pages/user/handlers/index.vue:13
 msgid "Create Handler"
-msgstr ""
+msgstr "Utwórz Handler"
 
 #: src/js/pages/user/login-keys/create.vue:1
 msgid "Create Login Key"
@@ -2093,12 +2107,12 @@ msgstr "Utwórz klucz logowania"
 
 #: src/js/pages/user/email/accounts/create.vue:1
 msgid "Create Mail Account"
-msgstr ""
+msgstr "Utwórz konto E-mail"
 
 #: src/js/pages/user/email/lists/index.vue:16
 #: src/js/pages/user/email/lists/index.vue:62
 msgid "Create Mailing List"
-msgstr ""
+msgstr "Utwórz listę wysyłkową"
 
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:3
 #: src/js/pages/reseller/_dialogs/create-nameservers-dialog.vue:59
@@ -2172,7 +2186,7 @@ msgstr "Utwórz pakiet Użytkownika"
 
 #: src/js/pages/user/email/vacations/create.vue:1
 msgid "Create Vacation Message"
-msgstr ""
+msgstr "Utwórz wiadomość urlopową"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:62
 msgid "Create View"
@@ -2248,7 +2262,7 @@ msgstr "Aktualnie dostępna wersja"
 
 #: src/js/pages/user/password.vue:15
 msgid "Current DirectAdmin Password:"
-msgstr ""
+msgstr "Aktualne hasło do DirectAdmin"
 
 #: src/js/pages/reseller/users/modify.vue:49
 msgid "Current IPs"
@@ -2276,7 +2290,7 @@ msgstr "Aktualny czas serwera:"
 
 #: src/js/pages/user/cronjobs/create.vue:19
 msgid "Current Time"
-msgstr ""
+msgstr "Aktualny czas"
 
 #: src/js/pages/admin/stats.vue:23
 msgid "Current Usage"
@@ -2319,7 +2333,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:62
 msgid "Custom Threshold"
-msgstr ""
+msgstr "Niestandardowy próg"
 
 #: src/js/pages/user/database/_dialogs/upload-backup-dialog.vue:25
 msgid "Custom username & password"
@@ -2429,6 +2443,7 @@ msgstr "Ustawienia bazy danych"
 #: src/js/pages/user/backup/restore.vue:104
 msgid "Database Settings: Backs up all DB Users and DB Settings"
 msgstr ""
+"Ustawienia baz danych: dołącz wszystkich użytkowników i ustawienia baz danych"
 
 #: src/js/pages/user/database/create.vue:34
 msgid "Database User:"
@@ -2530,7 +2545,7 @@ msgstr "dniach po wystąpienia."
 
 #: src/js/pages/user/email/lists/index.vue:86
 msgid "days."
-msgstr ""
+msgstr "dni."
 
 #: src/js/components/global/app/app-search.vue:116
 msgid "DB Entries"
@@ -2629,7 +2644,7 @@ msgstr "Usuń %{subject}"
 
 #: src/js/pages/user/email/spamassassin.vue:234
 msgid "Delete Bayes Data"
-msgstr ""
+msgstr "Usuń dane Bayes"
 
 #: src/js/pages/user/handlers/index.vue:32
 #: src/js/pages/user/handlers/index.vue:72
@@ -2644,7 +2659,7 @@ msgstr "Usuń pliki"
 
 #: src/js/pages/user/handlers/index.vue:29
 msgid "Delete Handler"
-msgstr ""
+msgstr "Usuń Handler"
 
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:26
 msgid "Delete messages newer than"
@@ -2671,7 +2686,7 @@ msgstr "Usuń lokalną kopię zapasową po transferze zdalnym"
 
 #: src/js/pages/user/email/spamassassin.vue:35
 msgid "Delete the spam"
-msgstr ""
+msgstr "Usuń"
 
 #: src/js/pages/reseller/users/_components/delete-user-dialog.vue:3
 #: src/js/pages/reseller/users/view.vue:37
@@ -2696,7 +2711,7 @@ msgstr "Zabroń"
 #: src/js/pages/user/email/lists/modify.vue:41
 #: src/js/pages/user/two-step-auth.vue:83
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: src/js/components/global/ui/ui-table-actions.vue:48
 msgid "Deselect all rows"
@@ -2710,9 +2725,9 @@ msgstr ""
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:16
 msgid "Destination E-mail:"
 msgid_plural "Destination E-mails:"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Docelowy adres e-mail:"
+msgstr[1] "Docelowe adresy e-mail:"
+msgstr[2] "Docelowe adresy e-mail:"
 
 #: src/js/pages/user/redirects.vue:96
 msgid "Destination URL"
@@ -2720,7 +2735,7 @@ msgstr ""
 
 #: src/js/pages/user/email/usage/index.vue:139
 msgid "Destination:"
-msgstr ""
+msgstr "Cel:"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:72
 #: src/js/pages/user/disk-usage.vue:20
@@ -2749,33 +2764,33 @@ msgstr "Sprawdzanie trudności haseł"
 
 #: src/js/pages/user/email/lists/modify.vue:49
 msgid "Digest Issue"
-msgstr ""
+msgstr "Digest Issue"
 
 #: src/js/pages/user/email/lists/modify.vue:65
 msgid "Digest MaxDays"
-msgstr ""
+msgstr "Digest MaxDays"
 
 #: src/js/pages/user/email/lists/modify.vue:73
 msgid "Digest MaxLines"
-msgstr ""
+msgstr "Digest MaxLines"
 
 #: src/js/pages/user/email/lists/view.vue:101
 msgid "digest subscriber"
 msgid_plural "digest subscribers"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "subskrybent do analizy"
+msgstr[1] "subskrybenci do analizy"
+msgstr[2] "subskrybenci do analizy"
 
 #: src/js/pages/user/email/lists/index.vue:19
 #: src/js/pages/user/email/lists/view.vue:16
 #: src/js/pages/user/email/lists/index.vue:25
 #: src/js/pages/user/email/lists/view.vue:19
 msgid "Digest Subscribers"
-msgstr ""
+msgstr "Subskrybenci do analizy"
 
 #: src/js/pages/user/email/lists/modify.vue:57
 msgid "Digest Volume"
-msgstr ""
+msgstr "Digest Volume"
 
 #: src/js/pages/user/bandwidth.vue:51 src/js/pages/user/bandwidth.vue:182
 #: src/js/pages/user/bandwidth.vue:225 src/js/pages/user/bandwidth.vue:264
@@ -2784,7 +2799,7 @@ msgstr "Direct Admin"
 
 #: src/js/pages/user/password.vue:37
 msgid "DirectAdmin Account"
-msgstr ""
+msgstr "Konto DirectAdmin"
 
 #: src/js/pages/admin/license.vue:166
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:157
@@ -2830,7 +2845,7 @@ msgstr "Wyłącz Open Basedir"
 
 #: src/js/pages/user/email/spamassassin.vue:13
 msgid "Disable SpamAssassin"
-msgstr ""
+msgstr "Wyłącz SpamAssassina"
 
 #: src/js/components/local/stats/usage-table.vue:32
 #: src/js/pages/admin/dns/index.vue:59 src/js/pages/admin/dns/index.vue:73
@@ -2973,7 +2988,7 @@ msgstr "Czy chcesz odrzucić wszystkie niezapisane zmiany przed wyjściem?"
 
 #: src/js/pages/user/email/spamassassin.vue:90
 msgid "Do you wish to rewrite the subject of a spam e-mail?"
-msgstr ""
+msgstr "Czy zmienić temat wiadomości, które są spamem?"
 
 #: src/js/pages/admin/settings.vue:162
 msgid "Document Root to Demo Skin"
@@ -3109,10 +3124,11 @@ msgstr "Katalogi Domen"
 #: src/js/pages/user/backup/restore.vue:24
 msgid "Domains Directory: Backs up all user files for all domains"
 msgstr ""
+"Katalogi domen: Kopia wszystkich plików użytkownika dla wszystkich domen."
 
 #: src/js/pages/user/email/spamassassin.vue:119
 msgid "Don't use attachments (dangerous)."
-msgstr ""
+msgstr "Nie używaj załączników (niebezpieczne)."
 
 #: src/js/pages/user/database/index.vue:66
 msgid "Download"
@@ -3134,7 +3150,7 @@ msgstr ""
 
 #: src/js/pages/user/email/filters.vue:127
 msgid "Drop E-mail"
-msgstr ""
+msgstr "Usuń wiadomoć e-mail"
 
 #: src/js/components/global/input/input-dropzone.vue:34
 msgid "Drop file here or click to upload"
@@ -3198,7 +3214,7 @@ msgstr "Konta E-mail"
 #: src/js/pages/user/backup/index.vue:37
 #: src/js/pages/user/backup/restore.vue:39
 msgid "E-mail Accounts List for all domains (names and passwords)"
-msgstr ""
+msgstr "Lista konta e-mail dla wszystkich domen (nazwy i hasła)."
 
 #: src/js/pages/user/email/lists/view.vue:69
 msgid "E-mail Address:"
@@ -3206,7 +3222,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:131
 msgid "E-mail Blacklist"
-msgstr ""
+msgstr "Czarna lista e-mail"
 
 #: src/js/pages/admin/backups/modify.vue:228
 #: src/js/pages/admin/backups/schedule.vue:244
@@ -3221,6 +3237,7 @@ msgid ""
 "E-mail Data: Includes the messages from the Inbox, IMAP Folders, and webmail "
 "data."
 msgstr ""
+"Dane kont e-mail: dołącz wiadomości z Inbox, foldery IMAP i dane webmail."
 
 #: src/js/pages/reseller/stats.vue:56 src/js/pages/user/stats/index.vue:46
 #: src/js/pages/reseller/users/_components/usage-table.vue:99
@@ -3230,7 +3247,7 @@ msgstr "Zużycie dysku na pocztę E-mail"
 
 #: src/js/pages/user/email/filters.vue:1
 msgid "E-mail Filters"
-msgstr ""
+msgstr "Filtry wiadomości e-mail"
 
 #: src/js/pages/admin/stats.vue:129 src/js/pages/user/stats/index.vue:46
 #: src/js/components/local/user-package.vue:138
@@ -3249,7 +3266,7 @@ msgstr "Nagłówki wiadomości E-mail"
 
 #: src/js/modules/navigation/user.js:55
 msgid "E-mail Manager"
-msgstr ""
+msgstr "Zarządzanie pocztą E-mail"
 
 #: src/js/components/local/create-message-dialog.vue:46
 #: src/js/pages/reseller/message-users.vue:21
@@ -3264,7 +3281,7 @@ msgstr "Wiadomości w trakcie dostaraczenia"
 #: src/js/pages/user/email/accounts/account.vue:59
 #: src/js/pages/user/email/accounts/create.vue:54
 msgid "E-mail Quota"
-msgstr ""
+msgstr "Rozmiar skrzynki (MB)"
 
 #: src/js/pages/admin/backups/modify.vue:231
 #: src/js/pages/admin/backups/schedule.vue:247
@@ -3278,16 +3295,16 @@ msgstr "Ustawienia poczty E-mail"
 #: src/js/pages/user/backup/index.vue:51
 #: src/js/pages/user/backup/restore.vue:53
 msgid "E-mail Settings: Includes the filters and the catchall address."
-msgstr ""
+msgstr "Ustawienia kont e-mail: dołącz filtry i adresy catch-all."
 
 #: src/js/pages/user/email/accounts/index.vue:152
 #: src/js/pages/user/email/usage/index.vue:1
 msgid "E-mail Usage"
-msgstr ""
+msgstr "Statystyki użycia e-mail"
 
 #: src/js/pages/user/email/spamassassin.vue:180
 msgid "E-mail Whitelist"
-msgstr ""
+msgstr "Biała lista e-mail"
 
 #: src/js/pages/user/bandwidth.vue:39
 #: src/js/pages/user/dashboard/_components/widgets/admin-stats.vue:32
@@ -3345,7 +3362,7 @@ msgstr "Edytuj powiadomienie e-mail"
 
 #: src/js/pages/user/filemanager/edit.vue:1
 msgid "Edit File"
-msgstr ""
+msgstr "Edytuj plik"
 
 #: src/js/pages/reseller/customize-skin/_components/menu-editor.vue:76
 msgid "Edit Link"
@@ -3379,15 +3396,15 @@ msgstr "Edytuj wiadomość Użytkownika"
 
 #: src/js/pages/user/redirects.vue:69
 msgid "eg: \"/redirect\", \"/\""
-msgstr ""
+msgstr "np: \"/przekierowanie\", \"/\""
 
 #: src/js/pages/user/redirects.vue:97
 msgid "eg: \"http://www.redirected.com\""
-msgstr ""
+msgstr "np: \"http://www.przekierowany.pl\""
 
 #: src/js/pages/user/email/spamassassin.vue:141
 msgid "eg: *@domain.com"
-msgstr ""
+msgstr "np.: *@domena.pl "
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:11
 msgid "eg: Member's Area"
@@ -3431,7 +3448,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:226
 msgid "Enable SpamAssassin"
-msgstr ""
+msgstr "Włącz SpamAssassina"
 
 #: src/js/pages/admin/settings.vue:68
 msgid ""
@@ -3457,7 +3474,7 @@ msgstr "Włączone"
 #: src/js/pages/user/email/vacations/index.vue:23
 #: src/js/pages/user/email/vacations/index.vue:34
 msgid "End Time"
-msgstr ""
+msgstr "Czas zakończenia"
 
 #: src/js/pages/user/password.vue:25
 msgid "Enter new password:"
@@ -3529,7 +3546,7 @@ msgstr ""
 #: src/js/pages/user/two-step-auth.vue:139
 #: src/js/pages/user/two-step-auth.vue:143
 msgid "Expires"
-msgstr ""
+msgstr "Wygasa"
 
 #: src/js/pages/user/login-keys/create.vue:36
 #: src/js/pages/user/login-keys/modify.vue:23
@@ -3563,7 +3580,7 @@ msgstr ""
 #: src/js/pages/user/mimetypes/index.vue:22
 #: src/js/pages/user/mimetypes/system.vue:15
 msgid "Extensions"
-msgstr ""
+msgstr "Rozszerzenia"
 
 #: src/js/pages/admin/license.vue:44
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:37
@@ -3591,7 +3608,7 @@ msgstr ""
 
 #: src/js/pages/user/email/catch-all.vue:19
 msgid "Fail:"
-msgstr ""
+msgstr "Błąd:"
 
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/tabs.vue:9
@@ -3775,9 +3792,9 @@ msgstr "Przekierowanie"
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:8
 msgid "Forwarder Name:"
 msgid_plural "Forwarders Names:"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Nazwa przekierowania:"
+msgstr[1] "Nazwy przekierowań:"
+msgstr[2] "Nazwy przekierowań:"
 
 #: src/js/pages/admin/backups/modify.vue:222
 #: src/js/pages/admin/backups/schedule.vue:238
@@ -3792,7 +3809,7 @@ msgstr "Przekierowania"
 #: src/js/pages/user/backup/index.vue:58
 #: src/js/pages/user/backup/restore.vue:60
 msgid "Forwarders: Includes all forwarding addresses."
-msgstr ""
+msgstr "Przekierowania: dołącz wszystkie adresy przekierowań."
 
 #: src/js/pages/reseller/ip-config.vue:31
 msgid "Free"
@@ -3939,11 +3956,11 @@ msgstr "Wygeneruj losowe hasło"
 #: src/js/pages/user/two-step-auth.vue:49
 #: src/js/pages/user/two-step-auth.vue:93
 msgid "Generate Secret"
-msgstr ""
+msgstr "Wygeneruj tajny klucz"
 
 #: src/js/pages/user/email/lists/modify.vue:81
 msgid "Get Access"
-msgstr ""
+msgstr "Dostęp Get"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:38
 msgid "Grant"
@@ -3960,16 +3977,16 @@ msgstr ""
 #: src/js/pages/user/handlers/index.vue:65
 msgid "handler"
 msgid_plural "handlers"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "handler"
+msgstr[1] "handlers"
+msgstr[2] "handlers"
 
 #: src/js/pages/user/domains/php.vue:11 src/js/pages/user/handlers/index.vue:18
 #: src/js/pages/user/handlers/system.vue:11
 #: src/js/pages/user/domains/php.vue:14 src/js/pages/user/handlers/index.vue:21
 #: src/js/pages/user/handlers/system.vue:15
 msgid "Handler"
-msgstr "Uchwyt"
+msgstr "Handler"
 
 #: src/js/modules/widgets.js:5
 msgid "Hardware details"
@@ -4023,11 +4040,11 @@ msgstr "Wysoki"
 
 #: src/js/pages/user/email/spamassassin.vue:58
 msgid "High Threshold (10.0)"
-msgstr ""
+msgstr "Wysoki próg (10.0)"
 
 #: src/js/pages/user/email/usage/index.vue:32
 msgid "Highest"
-msgstr ""
+msgstr "Najwyższy"
 
 #: src/js/pages/reseller/tickets.vue:35
 msgid "Hold (%{ count })"
@@ -4129,7 +4146,7 @@ msgstr ""
 
 #: src/js/pages/user/email/catch-all.vue:36
 msgid "Ignore:"
-msgstr ""
+msgstr "Ignowuj:"
 
 #: src/js/components/local/dropzone-file-preview.vue:33
 msgid "Image preview"
@@ -4138,12 +4155,12 @@ msgstr ""
 #: src/js/pages/user/bandwidth.vue:48 src/js/pages/user/bandwidth.vue:176
 #: src/js/pages/user/bandwidth.vue:221 src/js/pages/user/bandwidth.vue:263
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 #: src/js/pages/user/dashboard/_components/widgets/email-pop.vue:46
 #: src/js/pages/user/email/accounts/index.vue:110
 msgid "IMAP:"
-msgstr ""
+msgstr "IMAP:"
 
 #: src/js/pages/admin/backups/index.vue:25
 #: src/js/pages/admin/backups/index.vue:28
@@ -4152,7 +4169,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:26
 msgid "Inbox (don't block it)"
-msgstr ""
+msgstr "Prześlij do odbiorcy (nie blokuj go)"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:9
 msgid "Included"
@@ -4168,7 +4185,7 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:89
 msgid "Index Access"
-msgstr ""
+msgstr "Dostęp Index"
 
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:11
 #: src/js/pages/admin/custom-httpd/index.vue:45
@@ -4181,7 +4198,7 @@ msgstr "Informacje"
 
 #: src/js/pages/user/email/lists/modify.vue:97
 msgid "Info Access"
-msgstr ""
+msgstr "Dostęp Info"
 
 #: src/js/components/global/app/app-notification-center.vue:20
 msgid "Information"
@@ -4249,7 +4266,7 @@ msgstr "Internal"
 
 #: src/js/pages/user/email/lists/modify.vue:105
 msgid "Intro Access"
-msgstr ""
+msgstr "Dostęp Intro"
 
 #: src/js/components/local/filemanager/dialogs/copy-file-dialog.vue:32
 msgid "Invalid filename"
@@ -4382,6 +4399,8 @@ msgid ""
 "It will free up some space, but will reset any learned progress SpamAssassin "
 "has previously made."
 msgstr ""
+"Dzięki temu możesz odzyskać miejsce ale przerwiesz cały proces uczenia się "
+"SpamAssassina."
 
 #: src/js/components/global/ui/ui-ipp.vue:7
 msgid "Items per page"
@@ -4602,7 +4621,7 @@ msgstr ""
 #: src/js/pages/user/email/lists/modify.vue:335
 #: src/js/pages/user/email/lists/modify.vue:345
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: src/js/modules/navigation/admin.js:19
 msgid "List Administrators"
@@ -4618,11 +4637,11 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:239
 msgid "List Information"
-msgstr ""
+msgstr "Informacje o liście"
 
 #: src/js/pages/user/email/lists/index.vue:64
 msgid "List Name:"
-msgstr ""
+msgstr "Nazwa listy:"
 
 #: src/js/modules/navigation/admin.js:34
 msgid "List Resellers"
@@ -4666,7 +4685,7 @@ msgstr "Poczta lokalna"
 #: src/js/pages/user/redirects.vue:18 src/js/pages/user/redirects.vue:68
 #: src/js/pages/user/redirects.vue:21
 msgid "Local URL Path"
-msgstr ""
+msgstr "Ścieżka lokalna URL"
 
 #: src/js/pages/reseller/backups/modify.vue:121
 msgid "Local: %{ local_path }"
@@ -4816,7 +4835,7 @@ msgstr "Niski"
 
 #: src/js/pages/user/email/spamassassin.vue:52
 msgid "Low Threshold (5.0)"
-msgstr ""
+msgstr "Niski próg (5.0)"
 
 #: src/js/modules/widgets.js:64
 msgid "Mail Queue"
@@ -4830,7 +4849,7 @@ msgstr "Zarządzanie kolejką E-mail"
 #: src/js/pages/user/email/usage/php-scripts.vue:25
 #: src/js/pages/user/email/usage/php-scripts.vue:30
 msgid "mail() Line Number"
-msgstr ""
+msgstr "Numer linii funkcji mail()"
 
 #: src/js/pages/user/email/lists/index.vue:96
 msgid "mailing list"
@@ -4865,15 +4884,15 @@ msgstr "Listy wysyłkowe"
 #: src/js/pages/user/backup/index.vue:79
 #: src/js/pages/user/backup/restore.vue:81
 msgid "Mailing Lists: Includes the list, digest-list and archives."
-msgstr ""
+msgstr "Listy wysyłkowe: dołącz listy i archiwa."
 
 #: src/js/pages/user/password.vue:43
 msgid "Main Database Account"
-msgstr ""
+msgstr "Główne konto bazy danych"
 
 #: src/js/pages/user/password.vue:40
 msgid "Main FTP Account"
-msgstr ""
+msgstr "Główne konto FTP"
 
 #: src/js/components/local/stats/webalizer-table.vue:4
 #: src/js/components/local/stats/webalizer-table.vue:81
@@ -4933,7 +4952,7 @@ msgstr "Ręczna zmiana ustawień"
 
 #: src/js/pages/user/email/spamassassin.vue:249
 msgid "Manually edit the config file yourself"
-msgstr ""
+msgstr "Ręczna edycja pliku konfiguracyjnego"
 
 #: src/js/pages/user/login-keys/create.vue:255
 #: src/js/pages/user/login-keys/modify.vue:235
@@ -4980,7 +4999,7 @@ msgstr "Maksymalna ilość żądań na tydzień: %{n}"
 
 #: src/js/pages/user/email/lists/modify.vue:211
 msgid "MaxLength"
-msgstr ""
+msgstr "Maksymalna długość"
 
 #: src/js/components/local/history/chart.vue:189
 #: src/js/components/local/history/table.vue:94
@@ -4992,11 +5011,11 @@ msgstr "Maj"
 
 #: src/js/pages/user/email/accounts/index.vue:29
 msgid "MB disk space"
-msgstr ""
+msgstr "MB zajętości dysku"
 
 #: src/js/pages/user/email/spamassassin.vue:55
 msgid "Medium Threshold (7.5)"
-msgstr ""
+msgstr "Średni próg (5.0)"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:3
 msgid "Memory Information"
@@ -5046,15 +5065,15 @@ msgstr "Wiadomość do wszystkich Użytkowników"
 
 #: src/js/pages/user/email/lists/modify.vue:263
 msgid "Message Footer"
-msgstr ""
+msgstr "Stopka wiadomości"
 
 #: src/js/pages/user/email/lists/modify.vue:271
 msgid "Message Fronter"
-msgstr ""
+msgstr "Fronter wiadomości"
 
 #: src/js/pages/user/email/lists/modify.vue:279
 msgid "Message Headers"
-msgstr ""
+msgstr "Nagłówek wiadomości"
 
 #: src/js/components/local/create-message-dialog.vue:39
 #: src/js/components/local/send-user-message-dialog.vue:32
@@ -5130,11 +5149,11 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:149
 msgid "Moderate"
-msgstr ""
+msgstr "Moderowane"
 
 #: src/js/pages/user/email/lists/modify.vue:159
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:63
 #: src/js/pages/admin/reseller-packages/view.vue:24
@@ -5154,7 +5173,7 @@ msgstr "Modyfikuj %{domain}"
 
 #: src/js/pages/user/email/autoresponders/modify.vue:1
 msgid "Modify AutoResponder"
-msgstr ""
+msgstr "Modyfikuj autoresponder"
 
 #: src/js/pages/reseller/backups/modify.vue:1
 msgid "Modify Backup"
@@ -5166,19 +5185,19 @@ msgstr "Zmodyfikuj harmonogram kopii zapasowej"
 
 #: src/js/pages/user/domains/edit.vue:1
 msgid "Modify Domain"
-msgstr ""
+msgstr "Modyfikuj domenę"
 
 #: src/js/pages/user/email/accounts/account.vue:1
 msgid "Modify E-mail Account"
-msgstr ""
+msgstr "Modyfikuj konto E-mail"
 
 #: src/js/pages/user/email/accounts/account.vue:10
 msgid "Modify E-mail Account for %{account}"
-msgstr ""
+msgstr "Modyfikuj konto E-mail dla %{account}"
 
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:3
 msgid "Modify Forwarder"
-msgstr ""
+msgstr "Modyfukuj przekierowanie e-mail"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:1
 msgid "Modify FTP Account"
@@ -5194,11 +5213,11 @@ msgstr "Modyfikuj klucz logowania"
 
 #: src/js/pages/user/email/lists/modify.vue:1
 msgid "Modify Mailing List"
-msgstr ""
+msgstr "Modyfikuj listę wysyłkową"
 
 #: src/js/pages/user/email/lists/modify.vue:10
 msgid "Modify Mailing List: %{list}"
-msgstr ""
+msgstr "Modyfikuj listę wysyłkową: %{list}"
 
 #: src/js/pages/user/dns/index.vue:35 src/js/pages/user/dns/mx-records.vue:1
 msgid "Modify MX Records"
@@ -5214,7 +5233,7 @@ msgstr ""
 
 #: src/js/pages/user/email/accounts/account.vue:56
 msgid "Modify Quota/Limits"
-msgstr ""
+msgstr "Modyfikuj quotę i limity"
 
 #: src/js/pages/admin/users/resellers/modify.vue:1
 msgid "Modify Reseller"
@@ -5235,11 +5254,11 @@ msgstr "Modyfikuj Użytkownika"
 
 #: src/js/pages/user/email/accounts/account.vue:28
 msgid "Modify Username/Password"
-msgstr ""
+msgstr "Modyfikuj Nazwę użytkownika / Hasło"
 
 #: src/js/pages/user/email/vacations/modify.vue:1
 msgid "Modify Vacation Message"
-msgstr ""
+msgstr "Modyfikuj wiadomość urlopową"
 
 #: src/js/pages/reseller/users/index.vue:109
 msgid "Modify your own user data"
@@ -5247,7 +5266,7 @@ msgstr ""
 
 #: src/js/pages/user/email/accounts/account.vue:15
 msgid "Modify:"
-msgstr ""
+msgstr "Modyfikuj:"
 
 #: src/js/modules/widgets.js:75
 msgid "Monitor all services"
@@ -5306,7 +5325,7 @@ msgstr "Konfiguracja Multi Serwer"
 
 #: src/js/pages/user/email/lists/modify.vue:139
 msgid "Mungedomain"
-msgstr ""
+msgstr "Mungedomain"
 
 #: src/js/modules/navigation/user.js:97
 msgid "MX Records"
@@ -5516,10 +5535,12 @@ msgid ""
 "No, do not block high scoring spam. Use only the threshold in the previous "
 "section."
 msgstr ""
+"Nie kasuj wysoko punktowanych wiadomości. Użyj dla nich ustawień progów z "
+"sekcji powyżej."
 
 #: src/js/pages/user/email/spamassassin.vue:101
 msgid "No, leave the subject unchanged."
-msgstr ""
+msgstr "Nie, zostaw temat bez zmian."
 
 #: src/js/pages/admin/backups/modify.vue:245
 #: src/js/pages/admin/backups/schedule.vue:261
@@ -5531,6 +5552,8 @@ msgstr "Żaden"
 msgid ""
 "Not using attachments will leave the spam unaltered except for spam headers."
 msgstr ""
+"Nie używanie załączników pozostawi spam niezmieniony, z wyjątkiem nagłówków "
+"spamu."
 
 #: src/js/pages/user/login-keys/index.vue:99
 msgid ""
@@ -5543,7 +5566,7 @@ msgstr ""
 #: src/js/pages/user/cronjobs/create.vue:38
 #: src/js/pages/user/cronjobs/index.vue:113
 msgid "Note that there are no spaces"
-msgstr ""
+msgstr "Zauważ, że nie ma tam spacji"
 
 #: src/js/pages/admin/backups/restore.vue:106
 #: src/js/pages/reseller/backups/restore.vue:98
@@ -5560,6 +5583,8 @@ msgid ""
 "Note: For older exim.pl files before version 13, each delivery attempt is "
 "counted, including retries."
 msgstr ""
+"Uwaga: W przypadku starszych plików exim.pl przed wersją 13 liczy się każda "
+"próba dostarczenia, łącznie z ponownymi próbami."
 
 #: src/js/components/local/filemanager/search.vue:13
 msgid "Nothing found"
@@ -5599,6 +5624,8 @@ msgid ""
 "Notify me on all incorrect codes entries. Disabling this option will still "
 "notify you after 5 failed attempts."
 msgstr ""
+"Powiadom mnie o każdym podaniu niepoprawnego kodu. Pomimo wyłączenia tej "
+"opcji powiadomienie zostanie wysłane po 5 nieudanych próbach."
 
 #: src/js/components/local/reseller-skin-warning-dialog.vue:7
 msgid ""
@@ -5884,7 +5911,7 @@ msgstr "Ścieżka:"
 
 #: src/js/pages/user/email/usage/index.vue:47
 msgid "Percent"
-msgstr ""
+msgstr "Procent"
 
 #: src/js/pages/user/email/_components/purge-folder-dialog.vue:18
 msgid "Period:"
@@ -5927,12 +5954,12 @@ msgstr "Konfiguracja PHP"
 #: src/js/pages/user/email/usage/php-scripts.vue:25
 #: src/js/pages/user/email/usage/php-scripts.vue:29
 msgid "PHP Script Name"
-msgstr ""
+msgstr "Nazwa skryptu PHP"
 
 #: src/js/pages/user/email/usage/index.vue:164
 #: src/js/pages/user/email/usage/php-scripts.vue:1
 msgid "PHP Scripts"
-msgstr ""
+msgstr "Skrypt PHP"
 
 #: src/js/pages/user/domains/php.vue:1
 msgid "PHP Selector"
@@ -6044,7 +6071,7 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:167
 msgid "Precedence"
-msgstr ""
+msgstr "Precedence"
 
 #: src/js/pages/user/stats/domain-statistics.vue:85
 #: src/js/pages/user/subdomains/stats.vue:77
@@ -6057,7 +6084,7 @@ msgstr "Wyklucz adres 127.0.0.1 z blokady"
 
 #: src/js/pages/user/cronjobs/create.vue:95
 msgid "Prevent E-mail"
-msgstr ""
+msgstr "Bez powiadomienia na e-mail"
 
 #: src/js/components/local/filemanager/pagination.vue:4
 #: src/js/components/global/ui/ui-pagination.vue:89
@@ -6153,24 +6180,24 @@ msgstr ""
 #: src/js/pages/user/email/lists/index.vue:92
 #: src/js/pages/user/email/accounts/index.vue:67
 msgid "Purge"
-msgstr ""
+msgstr "Oczyść"
 
 #: src/js/pages/user/email/lists/index.vue:36
 #: src/js/pages/user/email/lists/index.vue:79
 msgid "Purge Archives"
-msgstr ""
+msgstr "Oczyść archiwa"
 
 #: src/js/pages/user/email/lists/index.vue:82
 msgid "Purge Archives older than"
-msgstr ""
+msgstr "Oczyść archiwa starsze niż"
 
 #: src/js/pages/user/email/_components/purge-folder-dialog.vue:4
 msgid "Purge Folder"
-msgstr ""
+msgstr "Oczyść folder"
 
 #: src/js/pages/user/email/lists/modify.vue:175
 msgid "Purge Received"
-msgstr ""
+msgstr "Oczyść odebrane"
 
 #: src/js/pages/admin/settings.vue:360
 msgid "Purge Spambox / Trash data after (days)"
@@ -6178,11 +6205,11 @@ msgstr "Automatycznie opróżniaj foldery Spambox / Trash (w dniach)"
 
 #: src/js/pages/user/two-step-auth.vue:59
 msgid "QR Code"
-msgstr ""
+msgstr "Kod QR"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:23
 msgid "Question"
-msgstr ""
+msgstr "Pytanie"
 
 #: src/js/pages/admin/mail-queue/index.vue:15
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:38
@@ -6193,7 +6220,7 @@ msgstr ""
 
 #: src/js/pages/user/email/accounts/account.vue:20
 msgid "Quota"
-msgstr ""
+msgstr "Quota"
 
 #: src/js/pages/reseller/users/create.vue:45
 #: src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:24
@@ -6258,21 +6285,21 @@ msgstr[2] "rekordów"
 #: src/js/pages/user/redirects.vue:114
 msgid "Redirect"
 msgid_plural "Redirects"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Przekierowanie"
+msgstr[1] "Przekierowania"
+msgstr[2] "Przekierowań"
 
 #: src/js/pages/user/email/spamassassin.vue:29
 msgid "Redirect it to the catch-all spam folder in your main IMAP acount"
-msgstr ""
+msgstr "Przenieś do globalnego folderu SPAM głównego konta IMAP"
 
 #: src/js/pages/user/redirects.vue:78
 msgid "Redirect Type"
-msgstr ""
+msgstr "Typ przekierowania"
 
 #: src/js/pages/user/redirects.vue:18 src/js/pages/user/redirects.vue:23
 msgid "Redirect URL"
-msgstr ""
+msgstr "Adres przekierowania"
 
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:41
 msgid "Reference"
@@ -6419,16 +6446,16 @@ msgstr ""
 #: src/js/pages/user/email/vacations/create.vue:31
 #: src/js/pages/user/email/vacations/modify.vue:27
 msgid "Reply Encoding"
-msgstr ""
+msgstr "Kodowanie odpowiedzi"
 
 #: src/js/pages/user/email/vacations/create.vue:47
 #: src/js/pages/user/email/vacations/modify.vue:43
 msgid "Reply Frequency"
-msgstr ""
+msgstr "Częstość odpowiedzi"
 
 #: src/js/pages/user/email/lists/modify.vue:27
 msgid "Reply To"
-msgstr ""
+msgstr "Odpowiedz do"
 
 #: src/js/components/local/dns/records-table.vue:145
 msgid "Request failed"
@@ -6442,6 +6469,8 @@ msgstr ""
 #: src/js/pages/user/two-step-auth.vue:99
 msgid "Require valid Two-Step Authentication Code to login to this account."
 msgstr ""
+"W celu zalogowania się na to konto wymagane jest poprawne uwierzytelnienie "
+"dwuetapowe."
 
 #: src/js/pages/user/password.vue:19
 #: src/js/components/global/ui/ui-form-element.vue:101
@@ -6562,12 +6591,12 @@ msgstr ""
 #: src/js/pages/user/email/autoresponders/create.vue:16
 #: src/js/pages/user/email/autoresponders/modify.vue:12
 msgid "Responder Address:"
-msgstr ""
+msgstr "Adres respondera:"
 
 #: src/js/pages/user/email/autoresponders/create.vue:29
 #: src/js/pages/user/email/autoresponders/modify.vue:23
 msgid "Responder Message:"
-msgstr ""
+msgstr "Wiadomość respondera:"
 
 #: src/js/pages/admin/services.vue:61
 msgid "Restart"
@@ -6607,7 +6636,7 @@ msgstr "Przywróć używając wartości SPF z kopii zapasowej."
 
 #: src/js/pages/user/email/lists/modify.vue:185
 msgid "Restrict Post"
-msgstr ""
+msgstr "Restrict Post"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:38
@@ -6634,7 +6663,7 @@ msgstr "Ścieżka"
 
 #: src/js/pages/user/cronjobs/create.vue:13
 msgid "Run on @reboot"
-msgstr ""
+msgstr "Uruchamiaj przy starcie serwera"
 
 #: src/js/pages/admin/system-backup.vue:12
 msgid "Run System Backup right now"
@@ -6758,17 +6787,19 @@ msgstr "Harmonogram kopii zapasowych"
 #: src/js/pages/user/two-step-auth.vue:139
 #: src/js/pages/user/two-step-auth.vue:141
 msgid "Scratch Code"
-msgstr ""
+msgstr "Kod zdrapki"
 
 #: src/js/pages/user/two-step-auth.vue:128
 msgid "Scratch Codes"
-msgstr ""
+msgstr "Zdrapka z kodami"
 
 #: src/js/pages/user/two-step-auth.vue:167
 msgid ""
 "Scratch Codes are one-time use codes in case you don't have your phone, so "
 "keep them safe."
 msgstr ""
+"Zdrapka z kodami zawiera jednorazowe kody, które można wykorzystać w "
+"przypadku gdy telefon jest niedostępny."
 
 #: src/js/pages/user/filemanager/index.vue:67
 #: src/js/pages/user/filemanager/index.vue:73
@@ -6794,7 +6825,7 @@ msgstr "sekund od ostatniego wystąpienia"
 
 #: src/js/pages/user/two-step-auth.vue:40
 msgid "Secret"
-msgstr ""
+msgstr "Tajny klucz"
 
 #: src/js/pages/admin/backups/modify.vue:168
 #: src/js/pages/admin/backups/restore.vue:76
@@ -6913,7 +6944,7 @@ msgstr ""
 
 #: src/js/pages/user/backup/index.vue:17
 msgid "Select Items to include in Backup"
-msgstr ""
+msgstr "Wybierz elementy do dołączenia w kopii zapasowej"
 
 #: src/js/pages/admin/users/move.vue:40
 msgid "Select Reseller"
@@ -7002,7 +7033,7 @@ msgstr ""
 #: src/js/pages/user/email/autoresponders/create.vue:40
 #: src/js/pages/user/email/autoresponders/modify.vue:34
 msgid "Send a CC to:"
-msgstr ""
+msgstr "Wyślij kopię DW do:"
 
 #: src/js/components/local/create-message-dialog.vue:3
 #: src/js/components/local/send-user-message-dialog.vue:3
@@ -7023,12 +7054,12 @@ msgstr "Wyślij wiadomość kiedy kopia zapasowa będzie ukończona."
 
 #: src/js/pages/user/cronjobs/index.vue:62
 msgid "Send all cron output to e-mail"
-msgstr ""
+msgstr "Wyślij wszystkie wyjścia wykonanych zadań na e-mail"
 
 #: src/js/pages/user/email/usage/php-scripts.vue:25
 #: src/js/pages/user/email/usage/php-scripts.vue:31
 msgid "Send Count"
-msgstr ""
+msgstr "Ilość wysyłek"
 
 #: src/js/pages/admin/users/create-admin.vue:56
 #: src/js/pages/admin/users/resellers/create.vue:104
@@ -7039,19 +7070,19 @@ msgstr "Wyślij powiadomienie e-mail"
 #: src/js/pages/user/email/accounts/account.vue:70
 #: src/js/pages/user/email/accounts/create.vue:71
 msgid "Send Limit"
-msgstr ""
+msgstr "Limit wysłanych listów e-mail"
 
 #: src/js/pages/user/email/spamassassin.vue:32
 msgid "Send the spam to the user's spam folder"
-msgstr ""
+msgstr "Przenieś do folderu SPAM użytkownika"
 
 #: src/js/pages/user/email/filters.vue:133
 msgid "Send to spambox"
-msgstr ""
+msgstr "Przenieś do folderu SPAM"
 
 #: src/js/pages/reseller/users/_components/resend-welcome-email-dialog.vue:6
 msgid "Send To:"
-msgstr ""
+msgstr "Wyślij do:"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/user/dashboard/_components/widgets/mail-queue.vue:4
@@ -7063,24 +7094,24 @@ msgstr "Nadawca"
 
 #: src/js/pages/user/email/usage/index.vue:135
 msgid "Sender:"
-msgstr ""
+msgstr "Nadawca:"
 
 #: src/js/pages/user/email/usage/index.vue:83
 msgid "Sending Host"
-msgstr ""
+msgstr "Host wysyłkowy"
 
 #: src/js/pages/user/email/usage/index.vue:97
 msgid "Sending Script"
-msgstr ""
+msgstr "Skrypt wysyłkowy"
 
 #: src/js/pages/user/email/accounts/index.vue:33
 msgid "Sends"
-msgstr ""
+msgstr "Wysłane"
 
 #: src/js/pages/user/email/accounts/index.vue:38
 #: src/js/pages/user/email/accounts/index.vue:47
 msgid "Sent"
-msgstr ""
+msgstr "Wysłane"
 
 #: src/js/pages/admin/stats.vue:159 src/js/pages/admin/users/index.vue:11
 #: src/js/pages/reseller/users/view.vue:63 src/js/pages/user/stats/index.vue:46
@@ -7193,7 +7224,7 @@ msgstr "Ustaw jako domyślną"
 
 #: src/js/pages/user/email/catch-all.vue:1
 msgid "Set Catch All E-mail"
-msgstr ""
+msgstr "Ustaw e-mail catch-all"
 
 #: src/js/pages/user/cronjobs/index.vue:73
 msgid "Set E-mail"
@@ -7240,7 +7271,7 @@ msgstr "Ustaw serwery nazw, które będą przypisywane nowym Użytkownikom"
 
 #: src/js/pages/user/email/vacations/index.vue:20
 msgid "Set Vacation Message"
-msgstr ""
+msgstr "Ustaw wiadomość urlopową"
 
 #: src/js/components/local/filemanager/dialogs/protect-directory-dialog.vue:14
 msgid "Set/Update User"
@@ -7381,7 +7412,7 @@ msgstr "Pokaż usługi"
 #: src/js/pages/user/email/usage/index.vue:13
 #: src/js/pages/user/email/usage/php-scripts.vue:12
 msgid "Show Usage From:"
-msgstr ""
+msgstr "Pokaż użycie z:"
 
 #: src/js/pages/admin/users/resellers/view.vue:35
 msgid "Show User Data"
@@ -7415,19 +7446,19 @@ msgstr ""
 
 #: src/js/pages/user/backup/index.vue:1
 msgid "Site Backup"
-msgstr ""
+msgstr "Kopia zapasowa witryny"
 
 #: src/js/modules/navigation/user.js:49
 msgid "Site Redirection"
-msgstr ""
+msgstr "Przekierowania"
 
 #: src/js/pages/user/redirects.vue:1
 msgid "Site Redirects"
-msgstr ""
+msgstr "Przekierowania"
 
 #: src/js/modules/navigation/user.js:178
 msgid "Site Summary / Statistics / Logs"
-msgstr ""
+msgstr "Podsumowanie witryny / Statystyki / Logi"
 
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/pages/admin/file-editor.vue:12
@@ -7449,7 +7480,7 @@ msgstr "Rozmiar"
 
 #: src/js/pages/user/email/usage/index.vue:143
 msgid "Size:"
-msgstr ""
+msgstr "Rozmiar:"
 
 #: src/js/components/local/user-package.vue:31
 #: src/js/pages/reseller/users/_components/account-info.vue:90
@@ -7540,7 +7571,7 @@ msgstr ""
 
 #: src/js/modules/navigation/user.js:87
 msgid "SPAM Filters"
-msgstr ""
+msgstr "FIltry SPAMu"
 
 #: src/js/pages/user/stats/index.vue:129
 #: src/js/components/local/user-package.vue:150
@@ -7621,7 +7652,7 @@ msgstr "Zaloguj do DirectAdmin"
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:20
 #: src/js/pages/user/email/vacations/index.vue:30
 msgid "Start Time"
-msgstr ""
+msgstr "Czas rozpoczęcia"
 
 #: src/js/pages/admin/custom-httpd/index.vue:28
 #: src/js/pages/admin/custom-httpd/index.vue:33
@@ -7746,7 +7777,7 @@ msgstr "Zatrzymaj"
 #: src/js/pages/user/email/filters.vue:57
 #: src/js/pages/user/email/filters.vue:62
 msgid "Stop word"
-msgstr ""
+msgstr "Słowo"
 
 #: src/js/pages/admin/services.vue:35
 #: src/js/pages/user/system-info/_tables/services-info-table.vue:22
@@ -7755,7 +7786,7 @@ msgstr ""
 
 #: src/js/pages/user/email/lists/modify.vue:193
 msgid "Strip"
-msgstr ""
+msgstr "Strip"
 
 #: src/js/components/local/user-package.vue:136
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:157
@@ -7792,7 +7823,7 @@ msgstr "Nazwa subdomeny"
 
 #: src/js/pages/user/subdomains/index.vue:90
 msgid "Subdomain name shouldn't contain special characters"
-msgstr ""
+msgstr "Nazwa subdomeny nie może zawierać znaków specjalnych"
 
 #: src/js/pages/user/subdomains/index.vue:82
 msgid "SubDomain:"
@@ -7810,7 +7841,7 @@ msgstr "Subdomeny"
 #: src/js/pages/user/backup/index.vue:29
 #: src/js/pages/user/backup/restore.vue:31
 msgid "Subdomains Lists: Backs up the list of subdomains for each domain"
-msgstr ""
+msgstr "Lista subdomen: Kopia zapasowa subdomen dla każdej domeny."
 
 #: src/js/components/local/edit-admin-message-dialog.vue:6
 #: src/js/components/local/edit-reseller-message-dialog.vue:10
@@ -7831,7 +7862,7 @@ msgstr "Temat zawiera"
 #: src/js/pages/user/email/vacations/create.vue:23
 #: src/js/pages/user/email/vacations/modify.vue:19
 msgid "Subject Prefix"
-msgstr ""
+msgstr "Przedrostek tematu"
 
 #: src/js/components/local/create-message-dialog.vue:34
 #: src/js/components/local/send-user-message-dialog.vue:27
@@ -7850,28 +7881,28 @@ msgstr "Wyślij"
 
 #: src/js/pages/user/email/lists/modify.vue:219
 msgid "Subscribe Policy"
-msgstr ""
+msgstr "Polityka subskrypcji"
 
 #: src/js/pages/user/email/lists/view.vue:95
 msgid "subscriber"
 msgid_plural "subscribers"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "subskrybent"
+msgstr[1] "subskrybenci"
+msgstr[2] "subskrybenci"
 
 #: src/js/pages/user/email/lists/view.vue:22
 #: src/js/pages/user/email/lists/view.vue:42
 #: src/js/pages/user/email/lists/view.vue:29
 #: src/js/pages/user/email/lists/view.vue:49
 msgid "Subscriber"
-msgstr ""
+msgstr "Subskrybent"
 
 #: src/js/pages/user/email/lists/index.vue:19
 #: src/js/pages/user/email/lists/view.vue:16
 #: src/js/pages/user/email/lists/index.vue:24
 #: src/js/pages/user/email/lists/view.vue:18
 msgid "Subscribers"
-msgstr ""
+msgstr "Subskrybenci"
 
 #: src/js/components/global/app/app-notification-center.vue:23
 #: src/js/pages/admin/users/resellers/view.vue:140
@@ -7947,7 +7978,7 @@ msgstr ""
 #: src/js/pages/user/handlers/index.vue:40
 #: src/js/pages/user/handlers/system.vue:1
 msgid "System Apache Handlers"
-msgstr ""
+msgstr "Systemowe Apache Handlers"
 
 #: src/js/pages/admin/system-backup.vue:1
 #: src/js/modules/navigation/admin.js:125
@@ -7994,11 +8025,11 @@ msgstr "Tabela"
 
 #: src/js/pages/user/email/lists/modify.vue:247
 msgid "Taboo Body"
-msgstr ""
+msgstr "Treść Taboo"
 
 #: src/js/pages/user/email/lists/modify.vue:255
 msgid "Taboo Headers"
-msgstr ""
+msgstr "Nagłówki Taboo"
 
 #: src/js/pages/user/stats/log.vue:37 src/js/pages/user/subdomains/logs.vue:28
 msgid "Tail"
@@ -8026,7 +8057,7 @@ msgstr "Szablony"
 
 #: src/js/pages/user/two-step-auth.vue:74
 msgid "Test Code"
-msgstr ""
+msgstr "Testuj kod"
 
 #: src/js/pages/admin/multi-server.vue:111
 msgid "Test Connection"
@@ -8037,11 +8068,11 @@ msgstr[2] ""
 
 #: src/js/pages/user/two-step-auth.vue:68
 msgid "Test your phone's code"
-msgstr ""
+msgstr "Przetestuj kod z Twojego telefonu"
 
 #: src/js/pages/user/email/spamassassin.vue:112
 msgid "Text-only attachements are used for increased safety."
-msgstr ""
+msgstr "Załączniki tekstowe dodatkowo zwiększają bezpieczeństwo."
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:36
@@ -8069,7 +8100,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:186
 msgid "The format is the same as the E-mail Blacklist"
-msgstr ""
+msgstr "Format jest taki sam, jak w przypadku czarnej listy"
 
 #: src/js/pages/user/login-keys/index.vue:100
 msgid "The login username used will still be your normal DA username."
@@ -8082,11 +8113,11 @@ msgstr "Priorytet dla komed dozwolonych i zabronionych jest"
 
 #: src/js/pages/user/email/catch-all.vue:24
 msgid "The sender is notified that the address doesn't exist"
-msgstr ""
+msgstr "Nadawca jest powiadamiany, że adres nie istnieje"
 
 #: src/js/pages/user/email/spamassassin.vue:236
 msgid "This button will remove data learned by spamassassin."
-msgstr ""
+msgstr "Poniższy przycisk usuwa dane, których nauczył się Spamassassin."
 
 #: src/js/pages/user/email/catch-all.vue:12
 msgid ""
@@ -8094,11 +8125,15 @@ msgid ""
 "that doesn't exist) to your site. This address may be your "
 "defaultusername@yourdomain.com, or any other POP3 account you have created."
 msgstr ""
+"Na podany adres e-mail będą dostarczane wszystkie niepoprawnie zaadresowane "
+"wiadomości (np. do użytkowników, którzy nie istnieją) w tej domenie. To może "
+"być Twój domyslnyuzytkownik@domena.pl lub każde inne konto e-mail POP3, "
+"które zostało utworzone."
 
 #: src/js/pages/user/security-questions.vue:12
 #: src/js/pages/user/two-step-auth.vue:34
 msgid "This feature is not turned on."
-msgstr ""
+msgstr "Ta funkcja nie jest włączona."
 
 #: src/js/pages/admin/_dialogs/root-auth-dialog.vue:18
 msgid "This file is tagged as secure. Root password required to edit"
@@ -8109,10 +8144,12 @@ msgid ""
 "This is the list of e-mail address that will be allowed through, regardless "
 "of content."
 msgstr ""
+"Jest to lista adresów e-mail, które zawsze będą przepuszczane niezależnie od "
+"zawartości."
 
 #: src/js/pages/user/email/spamassassin.vue:133
 msgid "This is the list of e-mail address that will be blocked."
-msgstr ""
+msgstr "To jest lista adresów e-mail, które będą blokowane."
 
 #: src/js/pages/user/email/catch-all.vue:28
 msgid ""
@@ -8120,16 +8157,19 @@ msgid ""
 "increase the server load due to spam, so having them disable is highly "
 "recommended unless you absolutely need the feature on."
 msgstr ""
+"Jest to zalecana opcja dla catch-all. Włączenie catch-all powoduje "
+"zwiększenie obciążenia serwera z pwodu SPAMu dlatego zalecane jest "
+"wyłączenie, chyba że absolutnie potrzebujesz tej funkcji."
 
 #: src/js/pages/user/email/usage/index.vue:21
 #: src/js/pages/user/email/usage/php-scripts.vue:20
 msgid "This Month"
-msgstr ""
+msgstr "Bieżącego miesiąca"
 
 #: src/js/pages/user/email/usage/index.vue:18
 #: src/js/pages/user/email/usage/php-scripts.vue:17
 msgid "This Month (excluding today)"
-msgstr ""
+msgstr "Bieżącego miesiąca (bez dzisiaj)"
 
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:63
 msgid ""
@@ -8202,7 +8242,7 @@ msgstr "Do:"
 #: src/js/pages/user/email/usage/index.vue:15
 #: src/js/pages/user/email/usage/php-scripts.vue:14
 msgid "Today"
-msgstr ""
+msgstr "Dzisiaj"
 
 #: src/js/pages/admin/custom-httpd/view.vue:90
 #: src/js/pages/admin/custom-httpd/php-fpm.vue:95
@@ -8259,12 +8299,12 @@ msgstr "Włącz"
 
 #: src/js/components/local/two-step-auth-dialog.vue:3
 msgid "Two Step Authentication"
-msgstr ""
+msgstr "Uwierzytelnianie dwuetapowe"
 
 #: src/js/pages/user/password.vue:54 src/js/pages/user/two-step-auth.vue:1
 #: src/js/pages/user/two-step-auth.vue:15 src/js/modules/navigation/user.js:145
 msgid "Two-Step Authentication"
-msgstr ""
+msgstr "Uwierzytelnianie dwuetapowe"
 
 #: src/js/pages/admin/backups/modify.vue:61
 #: src/js/pages/admin/backups/schedule.vue:65
@@ -8368,7 +8408,7 @@ msgstr "Bez limitu"
 
 #: src/js/pages/user/email/lists/modify.vue:229
 msgid "Unsubscribe Policy"
-msgstr ""
+msgstr "Polityka anulowania subskrypcji"
 
 #: src/js/pages/admin/users/admins.vue:17 src/js/pages/admin/users/index.vue:11
 #: src/js/pages/admin/users/resellers/index.vue:19
@@ -8505,7 +8545,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:122
 msgid "Use attachments."
-msgstr ""
+msgstr "Używaj załączników."
 
 #: src/js/pages/user/dns/index.vue:52
 msgid "Use Default"
@@ -8531,7 +8571,7 @@ msgstr "Użyj zdalnego transferu"
 
 #: src/js/pages/user/email/spamassassin.vue:125
 msgid "Use text-only attachments."
-msgstr ""
+msgstr "Używaj tylko załączników tekstowych."
 
 #: src/js/pages/admin/log-viewer/view.vue:38
 msgid "Use the | charter for separation."
@@ -8698,7 +8738,7 @@ msgstr "Nazwa użytkownika"
 
 #: src/js/pages/user/email/accounts/account.vue:17
 msgid "Username / Password"
-msgstr ""
+msgstr "Nazwę użytkownika / Hasło"
 
 #: src/js/pages/reseller/passwords.vue:21
 #: src/js/pages/user/database/_dialogs/change-db-user-pass-dialog.vue:6
@@ -8753,29 +8793,29 @@ msgstr "Użycia:"
 #: src/js/pages/user/email/vacations/index.vue:23
 #: src/js/pages/user/email/vacations/index.vue:28
 msgid "Vacation Account"
-msgstr ""
+msgstr "Konto wiadomości urlopowej"
 
 #: src/js/pages/user/email/vacations/create.vue:12
 #: src/js/pages/user/email/vacations/modify.vue:12
 msgid "Vacation Account:"
-msgstr ""
+msgstr "Konto wiadomości urlopowej:"
 
 #: src/js/pages/user/email/vacations/create.vue:73
 #: src/js/pages/user/email/vacations/modify.vue:69
 msgid "Vacation End"
-msgstr ""
+msgstr "Zakończenie urlopu"
 
 #: src/js/pages/user/email/vacations/index.vue:63
 msgid "vacation message"
 msgid_plural "vacation messages"
-msgstr[0] "wiadomość wakacyjna"
-msgstr[1] "wiadomości wakacyjne"
-msgstr[2] "wiadomości wakacyjnych"
+msgstr[0] "wiadomość urlopowe"
+msgstr[1] "wiadomości urlopowe"
+msgstr[2] "wiadomości urlopowych"
 
 #: src/js/pages/user/email/vacations/create.vue:94
 #: src/js/pages/user/email/vacations/modify.vue:90
 msgid "Vacation Message:"
-msgstr "Wiadomość wakacyjna:"
+msgstr "Wiadomość urlopowa:"
 
 #: src/js/pages/admin/backups/modify.vue:234
 #: src/js/pages/admin/backups/schedule.vue:250
@@ -8784,17 +8824,17 @@ msgstr "Wiadomość wakacyjna:"
 #: src/js/pages/admin/backups/_components/crons-table.vue:105
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:104
 msgid "Vacation Messages"
-msgstr "Wiadomości wakacyjne"
+msgstr "Wiadomości urlopowe"
 
 #: src/js/pages/user/backup/index.vue:72
 #: src/js/pages/user/backup/restore.vue:74
 msgid "Vacation Messages: Includes all vacation messages and times."
-msgstr ""
+msgstr "Wiadomości urlopowe: dołącz wszystkie wiadomości urlopowe i czasy."
 
 #: src/js/pages/user/email/vacations/create.vue:57
 #: src/js/pages/user/email/vacations/modify.vue:53
 msgid "Vacation Start"
-msgstr ""
+msgstr "Rozpoczęcie urlopu"
 
 #: src/js/pages/admin/license.vue:48
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:41
@@ -8804,7 +8844,7 @@ msgstr "Ważna po"
 #: src/js/pages/user/cronjobs/create.vue:33
 #: src/js/pages/user/cronjobs/index.vue:108
 msgid "Valid cron time values are the numbers indicated and *."
-msgstr ""
+msgstr "Dopuszczalne wartości to liczby oraz znak *."
 
 #: src/js/pages/admin/license.vue:56
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:49
@@ -8873,7 +8913,7 @@ msgstr ""
 
 #: src/js/pages/user/filemanager/view.vue:9
 msgid "View %{ path }"
-msgstr ""
+msgstr "Zawartość %{ path }"
 
 #: src/js/pages/admin/mail-queue/view.vue:10
 msgid "View %{id}"
@@ -8930,7 +8970,7 @@ msgstr "Pokaż logi: %{ log }"
 
 #: src/js/pages/user/email/lists/view.vue:1
 msgid "View Mailing List"
-msgstr ""
+msgstr "Pokaż listę wysyłkową"
 
 #: src/js/pages/user/dashboard/_components/dashboard-tab.vue:18
 msgid "View More"
@@ -9031,11 +9071,11 @@ msgstr "Webmail: UebiMiau"
 #: src/js/pages/user/backup/index.vue:19
 #: src/js/pages/user/backup/restore.vue:21
 msgid "Website Data"
-msgstr ""
+msgstr "Dane stony internetowej"
 
 #: src/js/pages/user/email/lists/modify.vue:129
 msgid "Welcome"
-msgstr ""
+msgstr "Powitanie"
 
 #: src/js/pages/user/ftp-settings.vue:21
 msgid "Welcome message"
@@ -9048,7 +9088,7 @@ msgstr "Co"
 
 #: src/js/pages/user/email/spamassassin.vue:41
 msgid "What score threshold do you wish to use?"
-msgstr ""
+msgstr "Jaki próg punktowy ma być użyty?"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/brute-force-monitor/_components/clear-messages-dialog.vue:6
@@ -9080,16 +9120,16 @@ msgstr "Gdzie"
 
 #: src/js/pages/user/email/spamassassin.vue:21
 msgid "Where do you want the spam to go?"
-msgstr ""
+msgstr "Co robić ze spamem?"
 
 #: src/js/pages/user/email/lists/modify.vue:113
 msgid "Which Access"
-msgstr ""
+msgstr "Dostęp Which"
 
 #: src/js/pages/user/email/spamassassin.vue:191
 #: src/js/pages/user/email/spamassassin.vue:195
 msgid "Whitelisted E-mail"
-msgstr ""
+msgstr "Przepuszczane adresy e-mail"
 
 #: src/js/pages/admin/backups/_components/crons-table.vue:3
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
@@ -9104,7 +9144,7 @@ msgstr "Kto"
 
 #: src/js/pages/user/email/lists/modify.vue:121
 msgid "Who Access"
-msgstr ""
+msgstr "Dostęp Who"
 
 #: src/js/pages/admin/multi-server.vue:102
 msgid "With Selected"
@@ -9112,7 +9152,7 @@ msgstr ""
 
 #: src/js/pages/user/email/spamassassin.vue:71
 msgid "Would you like to delete high scoring spam?"
-msgstr ""
+msgstr "Czy kasować wysoko punktowany SPAM?"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:44
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:69
@@ -9152,11 +9192,11 @@ msgstr "Tak"
 
 #: src/js/pages/user/email/spamassassin.vue:77
 msgid "Yes, block all spam scoring higher than:"
-msgstr ""
+msgstr "Tak, usuń wiadomości, których liczba punktów jest większa niż:"
 
 #: src/js/pages/user/email/spamassassin.vue:96
 msgid "Yes, set the subject to the following:"
-msgstr ""
+msgstr "Tak, zmień temat na następujący"
 
 #: src/js/pages/user/dashboard/_components/add-widget-dialog.vue:12
 msgid "You are about to add the following widgets to your dashboard:"
@@ -9173,6 +9213,9 @@ msgid ""
 "1,5,11-15,30-59/2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 "
 "and 59)"
 msgstr ""
+"Możesz łączyć wszystkie sposoby aby stworzyć bardziej precyzyjne terminarze, "
+"np. 1,5,11-15,30-59/2 (minuty 1, 5, od 11 do 15 minuty i pomiędzy 30 a 59 "
+"minutą co dwie minuty)"
 
 #: src/js/pages/user/ssl/index.vue:78
 msgid "You can enable it here"
@@ -9184,6 +9227,8 @@ msgid ""
 "You can specifiy exact times using commas to separate them. eg: 1,2,3 "
 "(minutes 1,2 and 3)"
 msgstr ""
+"Możesz podać dokładne czasy oddzielone przecinkami. np.: 1,2,3 (minuty 1,2 i "
+"3)"
 
 #: src/js/pages/user/cronjobs/create.vue:36
 #: src/js/pages/user/cronjobs/index.vue:111
@@ -9191,11 +9236,13 @@ msgid ""
 "You can specify intervals using a star and a forward slash. eg: */2 (every "
 "2nd minute)"
 msgstr ""
+"Możesz podać przedziały używając gwiazdki i slash'a, np. */2 (co 2 minuty)"
 
 #: src/js/pages/user/cronjobs/create.vue:35
 #: src/js/pages/user/cronjobs/index.vue:110
 msgid "You can specify spans using a dash. eg: 5-7 (minutes 5 to 7)"
 msgstr ""
+"Możesz podać przedziały czasu stosując myślnik. np.: 5-7 (od 5 do 7 minuty)"
 
 #: src/js/modules/widgets.js:24
 msgid "Your Account"
@@ -9213,11 +9260,12 @@ msgstr "Twoje hasło:"
 #: src/js/pages/user/email/accounts/account.vue:75
 #: src/js/pages/user/email/accounts/create.vue:57
 msgid "Zero is unlimited"
-msgstr ""
+msgstr "Zero oznacza bez ograniczeń"
 
 #: src/js/pages/user/email/accounts/create.vue:74
 msgid "Zero is unlimited. Blank will default to %{ limit }"
 msgstr ""
+"Zero oznacza bez ograniczeń. Brak wartości traktowane jest jako %{ limit }"
 
 #: src/js/pages/user/dns/security.vue:32
 msgid "Zone keys are newer than the Zone Signing."
