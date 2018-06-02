@@ -436,8 +436,8 @@
 436=Błąd podczas odczytu pliku user_ip.list
 437=Aktualne IP
 438=Typ IP
-439=Główne
-440=Dodatkowe
+439=Główny
+440=Dodatkowy
 441=Nie można usunąc IP
 442=IP usunięte
 443=-- Brak dostępnych --
