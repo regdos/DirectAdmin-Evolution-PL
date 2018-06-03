@@ -110,3 +110,16 @@
 110=Domena istnieje w %s
 111=Domena jest zabroniona
 112=Nie można usunąć siebie (%s)
+113=ns1 lub ns2 nie jest poprawnym serwerem nazw
+114=Nie dokonano żadnych zmian
+115=Użytkownik
+116=Reseller
+117=Administrator
+118=E-Mail
+119=FTP
+120=Baza danych
+121=Niepoprawny adres E-Mail
+122=Domena nie jest na Twojej liście
+123=Konto E-Mail już istnieje
+124=Nieprawidłowa subdomena
+125=Subdomena już istnieje

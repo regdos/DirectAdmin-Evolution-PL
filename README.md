@@ -8,9 +8,8 @@ Polish translation of DirectAdmin skin pack "Enhanced".
 * licencja: **GPL**
 
 ## Status tłumaczenia
- * POT/PO - **100%**
- * Internal - **100%**
- * Inne - **100%**
+ * b60fbb4dfd7ec2c2607628bb0575d053c770d5c1 (public alfa) - **100%**
+ * c5a9a10c7739877e7e5c1fa6f1785816a9f4633b (pubic beta) - w trakcie tłumaczenia
 
 ## Instalacja
 
