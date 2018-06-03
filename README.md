@@ -1,6 +1,6 @@
 # Polskie tłumaczenie dla panelu DirectAdmin - skórka Evolution
 
-Polish translation of DirectAdmin skin pack "Enhanced".
+Polish translation of DirectAdmin skin pack "Evolution".
 
 * wersja DA: **1.53**
 * kodowanie: **UTF-8**
