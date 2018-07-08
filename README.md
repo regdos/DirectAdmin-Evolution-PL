@@ -20,16 +20,20 @@ Polish translation of DirectAdmin skin pack "Evolution".
 1. Zawartość katalogu `/templates/` z zachowaniem struktury katalogów należy skopiować do `/usr/local/directadmin/data/templates/`
 
    Znaczenie poszczególnych plików:
-     * `custom/login.html` - formularz logowania do panelu
      * `custom/mail_settings.html` - potwierdzenie założenia konta pocztowego (wyświetlane w panelu)
      * `custom/reseller_limit.txt` - mail do resellera z ostrzeżeniem o wyczerpującym się transferze
      * `custom/user_limit.txt` - mail do użytkownika z ostrzeżeniem o wyczerpującym się transferze/pojemności
      * `custom/message_tech.txt` - mail do admina/resellera o nowym zgłoszeniu
      * `custom/message_user.txt` - mail do użytkownika o nowej wiadomości
-     * `custom/lost_password.html`, `custom/lost_password_email.txt`  - system odzyskiwania haseł do panelu
+     * `custom/lost_password_email.txt` - system odzyskiwania haseł do panelu
      * `email_pass_change/index.html` - formularz zmiany hasła dla konta pocztowego
 
 ## Konfiguracja
+
+1. Strona logowania
+   * należy usunąć plik ```/usr/local/directadmin/data/templates/custom/login.html``` (dodany przy okazji szablonu enhanced lub poprzedniej wersji evolution)
+   * w pliku ```/usr/local/directadmin/conf/directadmin.conf``` należy ustawić ścieżkę  ```docroot``` na szablon evolution tj. ```docsroot=./data/skins/evolution```
+   * **UWAGA** logowanie jest aktualnie dostępne tylko w języku angielskim (http://forum.directadmin.com/showthread.php?t=56400)
 
 1. Język polski będzie automatycznie dostępny z listy rozwijanej
 
