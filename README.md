@@ -2,7 +2,7 @@
 
 Polish translation of DirectAdmin skin pack "Evolution".
 
-* wersja DA: **1.53**
+* wersja DA: **1.54**
 * kodowanie: **UTF-8**
 * autor: **Tomasz Regdos (regdos.com)**
 * licencja: **GPL**
@@ -10,10 +10,11 @@ Polish translation of DirectAdmin skin pack "Evolution".
 ## Status tłumaczenia
  * wersja b60fbb4dfd7ec2c2607628bb0575d053c770d5c1 (public alfa) - **100%**
  * wersja c5a9a10c7739877e7e5c1fa6f1785816a9f4633b (pubic beta) - **100%**
+ * wersja 726179e79d66a74953ed10caa901e0406008d199 (Public Release Candidate) - **100%**
 
 ## Instalacja
 
-1. Plik `pl.po` należy skopiować do `/usr/local/directadmin/data/skins/evolution/lang/`
+1. Plik `pl.po` oraz `login-pl.po` należy skopiować do `/usr/local/directadmin/data/skins/evolution/lang/`
 
 1. Katalog `/pl/` wraz z zawartościę należy skopiować do `/usr/local/directadmin/data/skins/evolution/lang/`
 
@@ -33,7 +34,6 @@ Polish translation of DirectAdmin skin pack "Evolution".
 1. Strona logowania
    * należy usunąć plik ```/usr/local/directadmin/data/templates/custom/login.html``` (dodany przy okazji szablonu enhanced lub poprzedniej wersji evolution)
    * w pliku ```/usr/local/directadmin/conf/directadmin.conf``` należy ustawić ścieżkę  ```docroot``` na szablon evolution tj. ```docsroot=./data/skins/evolution```
-   * **UWAGA** logowanie jest aktualnie dostępne tylko w języku angielskim (http://forum.directadmin.com/showthread.php?t=56400)
 
 1. Język polski będzie automatycznie dostępny z listy rozwijanej
 

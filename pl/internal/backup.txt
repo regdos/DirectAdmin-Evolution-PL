@@ -142,3 +142,4 @@
 142=Szyfrowanie %s nie powiodło się
 143=Odszyfrowywanie of %s nie powiodło się
 144=Nieprawidłowe hasło szyfrowania
+145=Nie można zablokować akcji konta '%s'

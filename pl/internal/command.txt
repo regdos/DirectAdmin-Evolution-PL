@@ -596,3 +596,16 @@
 596=Serwer
 597=Usuń dane strony
 598=Zachowanie danych strony dotyczy tylko /domains/domena.pl. Inne obszary, takie jak dane e-mail, nie zostaną zachowane.
+599=%s Licencja
+600=%sWeryfikuj%s
+601=Sprawdź, czy aktualne oprogramowanie jest prawidłowe
+602=Licencja zweryfikowana
+603=Problem z weryfikacją licencji
+604=Zaktualizowano E-Mail
+605=Potwierdź rezultat na  <a href="%s">Stronie DirectAdmin</a>
+606=Awstats
+607=%sZapisz %s
+608=Włączone
+609=Wyłączone
+610=Ustawienia Awstats zostały zmienione
+611=Powód zawieszenia
