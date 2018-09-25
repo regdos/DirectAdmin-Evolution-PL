@@ -4621,11 +4621,11 @@ msgstr ""
 #: src/js/pages/admin/log-viewer/view.vue:51
 #: src/js/pages/admin/log-viewer/view.vue:56
 msgid "Ignore Case"
-msgstr "Ignowuj wielkość"
+msgstr "Ignoruj wielkość"
 
 #: src/js/pages/user/email/catch-all.vue:36
 msgid "Ignore:"
-msgstr "Ignowuj:"
+msgstr "Ignoruj:"
 
 #: src/js/components/local/dropzone-file-preview.vue:33
 msgid "Image preview"
