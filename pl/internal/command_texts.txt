@@ -1,6 +1,6 @@
 1=Zmień hasło
 2=Pytania zabezpieczające
-3=Uwierzytelnianie dwuetapowe
+3=Dwustopniowe uwierzytelnienie
 4=Wyloguj
 5=Pokaż domeny
 6=Zarządzanie strefą DNS
@@ -76,3 +76,4 @@
 76=Monitor Procesów Serwera
 77=Pluginy (wtyczki) Administratora
 78=Monitor ataków Brute Force
+79=Klucze SSH

@@ -67,7 +67,7 @@
 67=Transfer
 68=Subdomeny
 69=Przekierowania poczty (aliasy)
-70=Listy dyskusyjne
+70=Listy wysyłkowe
 71=Autorespondery
 72=Bazy danych
 73=Wskaźniki domen

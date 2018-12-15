@@ -38,7 +38,7 @@ Adresy IP            : |ips|
 Konta pocztowe       : |nemails|
 Przekierowania poczty: |nemailf|
 Autorespondery       : |nemailr|
-Listy dyskusyjne     : |nemailml|
+Listy wysyłkowe      : |nemailml|
 Adres serwera POP3   : mail.|domain|
 Adres serwera SMTP   : mail.|domain|
 
