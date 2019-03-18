@@ -25,7 +25,7 @@ msgstr "Uwierzytelnij"
 msgid "Click Here"
 msgstr "Kliknij tutaj"
 
-#: src/js/login/components/remind-password-auth/send-code.vue:12
+#: src/js/login/components/send-code.vue:12
 msgid "Code from E-mail"
 msgstr "Kod z wiadomości e-mail"
 
@@ -33,7 +33,7 @@ msgstr "Kod z wiadomości e-mail"
 msgid "Computer or server time out of sync by %{ hours } hours."
 msgstr "Różnica czasu pomiędzy komputerem a serwerem wynosi %{ hours } godzin."
 
-#: src/js/login/components/remind-password-auth/send-message.vue:2
+#: src/js/login/components/send-message.vue:2
 msgid ""
 "Enter your Username and a confirmation link will be sent to your email "
 "account."
@@ -53,13 +53,13 @@ msgstr "Hmm, dane logowania nie wydają się poprawne. Proszę spróbuj ponownie
 msgid "Language"
 msgstr "Język"
 
-#: src/js/login/components/remind-password-auth/send-code.vue:3
+#: src/js/login/components/send-code.vue:3
 msgid "Log In using your username and code from E-mail"
 msgstr ""
 "Zaloguj się, używając swojej nazwy użytkownika i kodu z wiadomości e-mail"
 
-#: src/js/login/components/auth-successful-message.vue:2
-msgid "Logged in..."
+#: src/js/login/components/loader.vue:20
+msgid "Logged in.."
 msgstr "Logowanie..."
 
 #: src/js/login/components/login-header.vue:6
@@ -75,11 +75,11 @@ msgstr "Hasło"
 msgid "Please enter username"
 msgstr "Wprowadź nazwę użytkownika"
 
-#: src/js/login/components/remind-password-auth/send-code.vue:26
+#: src/js/login/components/send-code.vue:26
 msgid "Request New Password"
 msgstr "Poproś o nowe hasło"
 
-#: src/js/login/components/remind-password-auth/send-message.vue:14
+#: src/js/login/components/send-message.vue:14
 msgid "Send me a Link"
 msgstr "Wyślij mi link"
 
@@ -103,7 +103,7 @@ msgstr "Zaufaj temu urządzeniu przez %{ days } dni"
 msgid "Two Step Authentication"
 msgstr "Uwierzytelnianie dwuetapowe"
 
-#: src/js/login/components/remind-password-auth/send-code.vue:6
-#: src/js/login/components/remind-password-auth/send-message.vue:5
+#: src/js/login/components/send-code.vue:6
+#: src/js/login/components/send-message.vue:5
 msgid "Username"
 msgstr "Nazwa użytkownika"

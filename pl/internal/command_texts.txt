@@ -16,7 +16,7 @@
 16=Statystyki wykorzystania poczty
 17=Autorespondery
 18=Wiadomości urlopowe
-19=Listy wysyłkowe
+19=Listy dyskusyjne
 20=Filtry poczty
 21=Bazy danych
 22=Zarządzanie kontami FTP
