@@ -6173,11 +6173,11 @@ msgstr "Przenieś Użytkowników"
 
 #: src/js/modules/navigation/admin.js:48
 msgid "Move Users between Resellers"
-msgstr "Użytkowników pomiędzy Resellerami"
+msgstr "Przenoszenie Użytkowników pomiędzy Resellerami"
 
 #: src/js/pages/admin/users/move.vue:1
 msgid "Move Users Between Resellers"
-msgstr "Użytkowników pomiędzy Resellerami"
+msgstr "Przenoszenie Użytkowników pomiędzy Resellerami"
 
 #: src/js/pages/admin/multi-server.vue:120
 msgid "Multi Server is currently turned OFF"
