@@ -174,7 +174,7 @@ msgstr "% zużyciem dysku na tworzenie kopii zapasowych."
 #: src/js/pages/admin/settings.vue:244 src/js/pages/admin/settings.vue:252
 #: src/js/pages/admin/settings.vue:249
 msgid "% of partition usage"
-msgstr "% zużycia parycji"
+msgstr "% zużycia partycji"
 
 #: src/js/pages/admin/custom-httpd/customize.vue:15
 msgid "%{ filename } customization for %{ domain }"
@@ -271,7 +271,7 @@ msgstr ""
 "(odrzuć)<br>\n"
 "<strong>SoftFail</strong>: Rekord SPF oznacza, że host NIE zezwala na "
 "wysłanie ale jest w trakcie przejścia (akceptuj ale oznacz)<br>\n"
-"<strong>Neutralny</strong>: Rekord SPF wyraźnie stweirdza, że nic nie mówi o "
+"<strong>Neutralny</strong>: Rekord SPF wyraźnie stwierdza, że nic nie mówi o "
 "poprawności (akceptuj)<br>"
 
 #: src/js/components/local/layouts/shared/user-bar.vue:19
@@ -659,7 +659,7 @@ msgstr "Dodaj nowe przekierowanie"
 
 #: src/js/pages/user/security-questions.vue:62
 msgid "Add new Security Question"
-msgstr "Dodaj nowe pytanie zabezpieczjące"
+msgstr "Dodaj nowe pytanie zabezpieczające"
 
 #: src/js/pages/admin/multi-server.vue:136
 #: src/js/pages/admin/multi-server.vue:19
@@ -757,11 +757,11 @@ msgstr "Dodaj do serwera nazw"
 #: src/js/pages/admin/brute-force-monitor/_components/skip-users-dialog.vue:3
 #: src/js/pages/admin/brute-force-monitor/skip_list.vue:16
 msgid "Add to skip list"
-msgstr "Dodaj do listy pominięntych"
+msgstr "Dodaj do listy pominiętych"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-dialog.vue:3
 msgid "Add to Skip List"
-msgstr "Dodaj do listy pominięntych"
+msgstr "Dodaj do listy pominiętych"
 
 #: src/js/pages/user/email/lists/view.vue:82
 msgid "Add to:"
@@ -1091,7 +1091,7 @@ msgstr "Konta Anonimowego FTP"
 #: src/js/pages/user/ftp-accounts/index.vue:32
 #: src/js/pages/user/ftp-settings.vue:1
 msgid "Anonymous FTP Settings"
-msgstr "Ustawienia Anonimowwgo FTP"
+msgstr "Ustawienia Anonimowego FTP"
 
 #: src/js/pages/user/_components/add-security-question-dialog.vue:48
 msgid "Answer"
@@ -1442,8 +1442,8 @@ msgstr "Automatycznie usuwaj wiadomości"
 msgid ""
 "Automatically delete the key once the key expires, or all uses are used."
 msgstr ""
-"Automatycznie usuń klucz po wygaśnięciu lub gdy został używy dozwolną liczbę "
-"razy."
+"Automatycznie usuń klucz po wygaśnięciu lub gdy został użyty dozwoloną "
+"liczbę razy."
 
 #: src/js/pages/user/messages/_dialogs/message-system-options.vue:36
 msgid "Automatically delete tickets"
@@ -1554,7 +1554,7 @@ msgstr "Odszyfrowywanie kopii zapasowej"
 #: src/js/pages/reseller/backups/modify.vue:199
 #: src/js/pages/reseller/backups/schedule.vue:270
 msgid "Backup Encryption"
-msgstr "Szyfrowywanie kopii zapasowej"
+msgstr "Szyfrowanie kopii zapasowej"
 
 #: src/js/pages/admin/backups/_components/current-backups-table.vue:2
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:21
@@ -1737,7 +1737,7 @@ msgstr "BlockCracking jest wyłączone"
 #: src/js/pages/user/email/accounts/index.vue:130
 #: src/js/pages/admin/brute-force-monitor/ip_list.vue:36
 msgid "Blocked"
-msgstr "Zablkowane"
+msgstr "Zablokowane"
 
 #: src/js/pages/user/email/spamassassin.vue:182
 #: src/js/pages/user/email/spamassassin.vue:187
@@ -2080,7 +2080,7 @@ msgstr "Działania w schowku"
 
 #: src/js/components/local/filemanager/dialogs/view-clipboard-dialog.vue:13
 msgid "Clipboard is empty"
-msgstr "Schowej jest pusty"
+msgstr "Schowek jest pusty"
 
 #: src/js/components/global/ui/ui-dialog.vue:25
 #: src/js/components/global/ui/ui-dialog.vue:70
@@ -2323,7 +2323,7 @@ msgstr "Ilość"
 
 #: src/js/pages/user/ssl/_components/certificate-request.vue:11
 msgid "Country"
-msgstr "Kraj (dwuznakowy kod)"
+msgstr "Kraj"
 
 #: src/js/pages/admin/process-monitor.vue:80
 msgid "CPU(s):"
@@ -2397,7 +2397,7 @@ msgstr "Utwórz autoresponder"
 #: src/js/pages/user/backup/index.vue:122
 #: src/js/pages/user/backup/restore.vue:27
 msgid "Create Backup"
-msgstr "Utwórz kopię zapsaową"
+msgstr "Utwórz kopię zapasową"
 
 #: src/js/pages/user/cronjobs/index.vue:12
 msgid "Create Cron job"
@@ -2555,7 +2555,7 @@ msgstr "Utwórz własny samopodpisany certyfikat"
 
 #: src/js/pages/admin/dns/add.vue:1
 msgid "Create Zone"
-msgstr "Utwóz strefę"
+msgstr "Utwórz strefę"
 
 #: src/js/modules/navigation/user.js:119
 msgid "Create/Restore Backups"
@@ -2982,7 +2982,7 @@ msgstr "Domyślnie (włączone)"
 #: src/js/pages/user/domains/index.vue:35
 #: src/js/pages/user/domains/index.vue:67
 msgid "Default Domain"
-msgstr "Domyśłna domena"
+msgstr "Domyślna domena"
 
 #: src/js/pages/reseller/customize-skin/_components/misc-options.vue:11
 msgid "Default Layout"
@@ -3442,7 +3442,7 @@ msgstr[2] "Rokordów DNS"
 
 #: src/js/pages/user/dns/security.vue:1
 msgid "DNS Security"
-msgstr "Bezpieczeńśtwo DNS"
+msgstr "Bezpieczeństwo DNS"
 
 #: src/js/pages/admin/dns/edit.vue:49 src/js/pages/user/dns/index.vue:46
 msgid "DNSSEC"
@@ -3478,7 +3478,7 @@ msgstr "Czy zmienić temat wiadomości, które są spamem?"
 
 #: src/js/pages/admin/settings.vue:222
 msgid "Document Root to Demo Skin"
-msgstr "Scieżka katalogu dla skórki Demo"
+msgstr "Ścieżka katalogu dla skórki Demo"
 
 #: src/js/pages/admin/file-editor.vue:39
 msgid "Does not exist"
@@ -3667,7 +3667,7 @@ msgstr "Drop"
 
 #: src/js/pages/user/email/filters.vue:127
 msgid "Drop E-mail"
-msgstr "Usuń wiadomoć e-mail"
+msgstr "Usuń wiadomość e-mail"
 
 #: src/js/components/global/input/input-dropzone.vue:34
 msgid "Drop file here or click to upload"
@@ -3811,7 +3811,7 @@ msgstr "Tylko wiadomość E-mail"
 
 #: src/js/modules/widgets.js:65
 msgid "E-mail pending delivery"
-msgstr "Wiadomości w trakcie dostaraczenia"
+msgstr "Wiadomości w trakcie dostarczania"
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:20
 #: src/js/pages/user/email/accounts/create.vue:54
@@ -4156,7 +4156,7 @@ msgstr "Oprócz wybranych użytkowników"
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:98
 #: src/js/pages/user/database/_dialogs/change-db-user-privs-dialog.vue:70
 msgid "Execute"
-msgstr "Wykonaie"
+msgstr "Wykonie"
 
 #: src/js/components/local/filemanager/tree-view-item.vue:12
 msgid "Expand"
@@ -4653,7 +4653,7 @@ msgstr "Użytkownik FTP:"
 
 #: src/js/pages/user/stats/log.vue:29 src/js/pages/user/subdomains/logs.vue:22
 msgid "Full Log"
-msgstr "Pełene logi"
+msgstr "Pełne logi"
 
 #: src/js/modules/widgets.js:55
 msgid "Full Server Statistics"
@@ -4757,7 +4757,7 @@ msgstr "Ukryj komunikaty o błędach"
 
 #: src/js/components/local/notifications-center/notification-filter-button.vue:59
 msgid "Hide information messages"
-msgstr "Ukryk komunikaty informacyjne"
+msgstr "Ukryj komunikaty informacyjne"
 
 #: src/js/components/local/notifications-center/notification-filter-button.vue:60
 msgid "Hide success messages"
@@ -5081,7 +5081,7 @@ msgstr "Niepoprawna nazwa ścieżki"
 
 #: src/js/pages/admin/multi-server.vue:211
 msgid "Invalid username"
-msgstr "Niepoprawna nazwa Użytkownia"
+msgstr "Niepoprawna nazwa Użytkownika"
 
 #: src/js/pages/admin/log-viewer/index.vue:93
 msgid "Invert"
@@ -5899,7 +5899,7 @@ msgstr "Menu: Użytkownik"
 #: src/js/pages/user/messages/index.vue:99
 msgid "message"
 msgid_plural "messages"
-msgstr[0] "widomość"
+msgstr[0] "wiadomość"
 msgstr[1] "wiadomości"
 msgstr[2] "wiadomości"
 
@@ -6074,7 +6074,7 @@ msgstr "Modyfikuj domenę"
 
 #: src/js/pages/user/email/_components/modify-forwarder-dialog.vue:3
 msgid "Modify Forwarder"
-msgstr "Modyfukuj przekierowanie e-mail"
+msgstr "Modyfikuj przekierowanie e-mail"
 
 #: src/js/pages/user/ftp-accounts/edit.vue:1
 msgid "Modify FTP Account"
@@ -6744,7 +6744,7 @@ msgstr "lub"
 #: src/js/pages/admin/users/resellers/_components/info-table.vue:76
 #: src/js/pages/reseller/stats.vue:289
 msgid "Original Package"
-msgstr "Oryinalny pakiet"
+msgstr "Oryginalny pakiet"
 
 #: src/js/components/local/suspend-user-dialog.vue:31
 #: src/js/pages/reseller/users/bandwidth.vue:184
@@ -6783,7 +6783,7 @@ msgstr "Podświetl z przekroczonymi parametrami"
 
 #: src/js/pages/admin/backups/_components/monitor-backup-status-dialog.vue:59
 msgid "Overview:"
-msgstr "Podglą:"
+msgstr "Podgląd:"
 
 #: src/js/pages/user/ssh-keys/_dialogs/create-key-dialog.vue:42
 msgid "Overwrite"
@@ -6827,7 +6827,7 @@ msgstr "Pakiet już istnieje"
 #: src/js/pages/reseller/user-packages/create.vue:25
 #: src/js/pages/reseller/user-packages/view.vue:15
 msgid "Package Name"
-msgstr "Mazwa pakietu"
+msgstr "Nazwa pakietu"
 
 #: src/js/pages/admin/reseller-packages/create.vue:28
 msgid "Package Name should not contain any special symbols"
@@ -7280,7 +7280,7 @@ msgid ""
 "Queue size (%{ queue_size }) is larger than the maximum value "
 "(%{ max_load_size}) and may timeout."
 msgstr ""
-"Wielkość kolejki (%{ queue_size }) jest większa od wartośći maksymalnej "
+"Wielkość kolejki (%{ queue_size }) jest większa od wartości maksymalnej "
 "(%{ max_load_size}) i może występować przekroczenie limitu czasu."
 
 #: src/js/pages/user/email/_components/modify-account-quota-dialog.vue:42
@@ -7448,7 +7448,7 @@ msgstr "Hasło zdalnego serwera"
 #: src/js/pages/reseller/backups/restore.vue:112
 #: src/js/pages/reseller/backups/schedule.vue:217
 msgid "Remote Path"
-msgstr "Ścieżka na sewerze zdalnym"
+msgstr "Ścieżka na serwerze zdalnym"
 
 #: src/js/pages/admin/users/index.vue:11 src/js/pages/admin/users/index.vue:51
 msgid "Remote Server"
@@ -7522,7 +7522,7 @@ msgstr "Usuń z listy pominiętych"
 
 #: src/js/pages/user/protected-directories/view.vue:17
 msgid "Remove Protection"
-msgstr "Usuń ochornę katalogu"
+msgstr "Usuń ochronę katalogu"
 
 #: src/js/components/local/stats/webalizer-table.vue:3
 #: src/js/components/local/stats/webalizer-table.vue:26
@@ -7734,7 +7734,7 @@ msgstr "Przywróć komponenty"
 
 #: src/js/pages/admin/settings.vue:510
 msgid "Reset count of IP/User failed attempts"
-msgstr "Wyzeruj licznki IP/Użytkownika błędnych logowań po"
+msgstr "Wyzeruj liczniki IP/Użytkownika błędnych logowań po"
 
 #: src/js/pages/admin/dns/_components/reset-zone-defaults-dialog.vue:3
 #: src/js/pages/admin/dns/edit.vue:22
@@ -7817,12 +7817,12 @@ msgstr "Przywróć kopię zapasową"
 
 #: src/js/pages/user/backup/restore.vue:32
 msgid "Restore Options"
-msgstr "Oprzywróć opcje"
+msgstr "Przywróć opcje"
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:16
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:13
 msgid "Restore with local NameServers."
-msgstr "Przywróć używająć lokalnych serwerów nazw."
+msgstr "Przywróć używając lokalnych serwerów nazw."
 
 #: src/js/pages/admin/backups/_components/backup-restore-settings-dialog.vue:30
 #: src/js/pages/reseller/backups/_components/settings-dialog.vue:27
@@ -8557,14 +8557,14 @@ msgstr "Ustaw uprawnienie"
 
 #: src/js/components/local/filemanager/files-table.vue:169
 msgid "Set permissions"
-msgstr "Ustaw uprawnienienia"
+msgstr "Ustaw uprawnienia"
 
 #: src/js/components/local/filemanager/dialogs/set-permissions-dialog.vue:7
 #: src/js/components/local/filemanager/files-table.vue:3
 #: src/js/components/local/filemanager/file-actions.vue:104
 #: src/js/components/local/filemanager/files-table.vue:36
 msgid "Set Permissions"
-msgstr "Ustaw uprawnienienia"
+msgstr "Ustaw uprawnienia"
 
 #: src/js/pages/user/domain-pointers.vue:22
 #: src/js/pages/user/domain-pointers.vue:39
@@ -8990,7 +8990,7 @@ msgstr "Spam"
 
 #: src/js/modules/navigation/user.js:86
 msgid "SPAM Filters"
-msgstr "FIltry SPAMu"
+msgstr "Filtry SPAMu"
 
 #: src/js/pages/user/stats/index.vue:153
 #: src/js/components/local/user-package.vue:208
@@ -9151,7 +9151,7 @@ msgstr "Krok 1: Kto"
 #: src/js/pages/admin/backups/restore.vue:22
 #: src/js/pages/reseller/backups/restore.vue:21
 msgid "Step 2: Select IP"
-msgstr "Ktok 2: Wybierz adres IP"
+msgstr "Krok 2: Wybierz adres IP"
 
 #: src/js/pages/admin/backups/modify.vue:11
 #: src/js/pages/admin/backups/schedule.vue:11
@@ -9162,7 +9162,7 @@ msgstr "Ktok 2: Wybierz adres IP"
 #: src/js/pages/reseller/backups/modify.vue:21
 #: src/js/pages/reseller/backups/schedule.vue:23
 msgid "Step 2: When"
-msgstr "Ktok 2: Kiedy"
+msgstr "Krok 2: Kiedy"
 
 #: src/js/pages/admin/backups/restore.vue:12
 #: src/js/pages/reseller/backups/restore.vue:12
@@ -9616,7 +9616,7 @@ msgstr ""
 
 #: src/js/pages/user/login-keys/create.vue:168
 msgid "The priorities for allow and deny are"
-msgstr "Priorytet dla komed dozwolonych i zabronionych jest"
+msgstr "Priorytet dla komend dozwolonych i zabronionych jest"
 
 #: src/js/pages/user/email/catch-all.vue:24
 msgid "The sender is notified that the address doesn't exist"
@@ -9715,7 +9715,7 @@ msgstr ""
 "Licencja Portioned jest licencją, która ma rzeczywisty czas wygaśnięcia w "
 "przyszłości pomimo, że pobrany klucz wskazuje na wcześniejszy czas. Licencja "
 "zostanie automatycznie przedłużona na następny okres czasu kiedy zbliża się "
-"data końca ważniości klucza."
+"data końca ważności klucza."
 
 #: src/js/pages/admin/license.vue:70
 msgid ""
@@ -9726,7 +9726,7 @@ msgstr ""
 "Licencja Portioned jest licencją, która ma rzeczywisty czas wygaśnięcia w "
 "przyszłości pomimo, że pobrany klucz wskazuje na wcześniejszy czas. Licencja "
 "zostanie automatycznie przedłużona na następny okres czasu kiedy zbliża się "
-"data końca ważniości klucza."
+"data końca ważności klucza."
 
 #: src/js/components/local/inputs/input-week-day.vue:27
 msgid "Thursday"
@@ -9963,9 +9963,9 @@ msgstr "Odblokuj"
 #: src/js/pages/admin/brute-force-monitor/block_list.vue:67
 msgid "Unblock IP"
 msgid_plural "Unblock IPs"
-msgstr[0] "Odbokuj adres IP"
-msgstr[1] "Odbokuj adresy IP"
-msgstr[2] "Odbokuj adresy IP"
+msgstr[0] "Odblokuj adres IP"
+msgstr[1] "Odblokuj adresy IP"
+msgstr[2] "Odblokuj adresów IP"
 
 #: src/js/pages/reseller/customize-skin/index.vue:25
 msgid "Undo Changes"
@@ -10162,7 +10162,7 @@ msgid ""
 "Use a symbolink link from private_html to public_html - allows for same data "
 "in http and https"
 msgstr ""
-"Użyj linku symbolicznego do katalogu public_html - zazwalaj na te same dane "
+"Użyj linku symbolicznego do katalogu public_html - zezwalaj na te same dane "
 "dla schematów http i https"
 
 #: src/js/pages/user/email/spamassassin.vue:158
@@ -10181,7 +10181,7 @@ msgstr "Użyj serwerów nazw z kopii zapasowej."
 
 #: src/js/pages/admin/settings.vue:689
 msgid "Use RBL Blocking"
-msgstr "Używaj blokowania na podstwie list RBL"
+msgstr "Używaj blokowania na podstawie list RBL"
 
 #: src/js/pages/admin/system-backup.vue:117
 msgid "Use Remote Transfer"
@@ -10212,8 +10212,8 @@ msgid ""
 "Use this server to handle my e-mails. If not, change the MX records and "
 "uncheck this option."
 msgstr ""
-"Używaj tego serwera do obługi poczty e-mail. Jeżeli nie, zmieniń rekordy MX "
-"i nie zaznaczaj tej opcji."
+"Używaj tego serwera do obsługi poczty e-mail. Jeżeli nie, zmień rekordy MX i "
+"nie zaznaczaj tej opcji."
 
 #: src/js/pages/admin/stats.vue:232 src/js/pages/admin/stats.vue:239
 msgid "Used"
@@ -10269,7 +10269,7 @@ msgstr "Użytkownik może ustalać limity na konto E-Mail"
 #: src/js/pages/admin/multi-server.vue:293
 #: src/js/pages/admin/multi-server.vue:78
 msgid "User Check"
-msgstr "Spradź Użytkownika"
+msgstr "Sprawdź Użytkownika"
 
 #: src/js/pages/reseller/passwords.vue:28
 msgid "User does not exist"
@@ -10415,7 +10415,7 @@ msgstr "Użyj 2 adresów IP, domena użyje jednego z nich"
 
 #: src/js/pages/admin/reseller-packages/_components/reseller-package.vue:60
 msgid "Uses 3 IP's, domain gets own IP"
-msgstr "Użyj 3 adresó IP, domena bedzie miała własny adres IP"
+msgstr "Użyj 3 adresów IP, domena będzie miała własny adres IP"
 
 #: src/js/pages/user/login-keys/create.vue:82
 #: src/js/pages/user/login-keys/modify.vue:67
@@ -10477,7 +10477,7 @@ msgstr "Ważna po"
 #: src/js/pages/user/cronjobs/create.vue:107
 #: src/js/pages/user/cronjobs/index.vue:117
 msgid "Valid Cron time values are the numbers indicated and *."
-msgstr "Prawidłowe wartości czasu zadanń Cron to podane liczby i *."
+msgstr "Prawidłowe wartości czasu zadań Cron to podane liczby i *."
 
 #: src/js/pages/admin/license.vue:56
 #: src/js/pages/user/dashboard/_components/widgets/license.vue:47
@@ -10617,7 +10617,7 @@ msgstr "Szczegóły Resellera: %{ user }"
 
 #: src/js/pages/user/stats/domain-statistics.vue:1
 msgid "View Statistic Reports"
-msgstr "Pokaż statystykiki"
+msgstr "Pokaż statystyki"
 
 #: src/js/pages/user/subdomains/logs.vue:1
 msgid "View Sub-Domain Log"
@@ -10692,7 +10692,7 @@ msgstr "Webmail: UebiMiau"
 #: src/js/pages/user/backup/index.vue:19
 #: src/js/pages/user/backup/restore.vue:34
 msgid "Website Data"
-msgstr "Dane stony internetowej"
+msgstr "Dane strony internetowej"
 
 #: src/js/components/local/inputs/input-week-day.vue:26
 msgid "Wednesday"
@@ -10776,7 +10776,7 @@ msgstr "Wildcard"
 
 #: src/js/pages/admin/multi-server.vue:97
 msgid "With Selected"
-msgstr "Z zanaczonymi"
+msgstr "Z zaznaczonymi"
 
 #: src/js/pages/user/email/spamassassin.vue:80
 msgid "Would you like to delete high scoring spam?"
