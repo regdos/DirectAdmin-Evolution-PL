@@ -9,11 +9,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 2.2.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
 "|| n%100>14) ? 1 : 2);\n"
 
-#: src/js/login/Login.vue:30
+#: src/js/login/Login.vue:31
 msgid "← Back to the login page"
 msgstr "← Powrót do strony logowania"
 
@@ -22,7 +22,7 @@ msgid "Authenticate"
 msgstr "Uwierzytelnij"
 
 #: src/js/login/Login.vue:22
-msgid "Click Here"
+msgid "Click here"
 msgstr "Kliknij tutaj"
 
 #: src/js/login/components/send-code.vue:12
@@ -45,7 +45,11 @@ msgstr ""
 msgid "Forgot Password?"
 msgstr "Zapomniałeś hasła?"
 
-#: src/js/login/components/standard-auth.vue:20
+#: src/js/login/components/login-datetime.vue:12
+msgid "format:datetime"
+msgstr "format:datetime"
+
+#: src/js/login/components/standard-auth.vue:27
 msgid "Hmm, login details do not seem to be correct. Please try again."
 msgstr "Hmm, dane logowania nie wydają się poprawne. Proszę spróbuj ponownie."
 
@@ -67,11 +71,11 @@ msgid "Manage your domains, databases & other server info."
 msgstr ""
 "Zarządzaj swoimi domenami, bazami danych i innymi informacjami o serwerze."
 
-#: src/js/login/components/standard-auth.vue:11
+#: src/js/login/components/standard-auth.vue:17
 msgid "Password"
 msgstr "Hasło"
 
-#: src/js/login/components/standard-auth.vue:3
+#: src/js/login/components/standard-auth.vue:9
 msgid "Please enter username"
 msgstr "Wprowadź nazwę użytkownika"
 
@@ -83,7 +87,7 @@ msgstr "Poproś o nowe hasło"
 msgid "Send me a Link"
 msgstr "Wyślij mi link"
 
-#: src/js/login/components/standard-auth.vue:26
+#: src/js/login/components/standard-auth.vue:39
 msgid "Sign in to Account"
 msgstr "Zaloguj się do konta"
 
