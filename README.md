@@ -2,7 +2,7 @@
 
 Polish translation of DirectAdmin skin pack "Evolution".
 
-* wersja DA: **1.59.1**
+* wersja DA: **1.59.4**
 * kodowanie: **UTF-8**
 * autor: **Tomasz Regdos (regdos.com)**
 * licencja: **GPL**
