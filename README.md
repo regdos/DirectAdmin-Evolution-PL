@@ -64,4 +64,4 @@ Polish translation of DirectAdmin skin pack "Evolution".
 ## Wsparcie
 Jeżeli uważasz, że to tłumaczenie Ci się przydało i chcesz żeby autor tłumaczenia dalej pracował nad dopracowaniem tłumaczenia możesz przekazać **dobrowolną**  dotację autorowi. Skorzystaj z systemu PayPal wykonując przelew używając konta odbiorcy: tomek@regdos.com lub skorzystać z  poniższego przycisku.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JF2TKCR489V5A&lc=PL&item_name=Wspacie%20tlumaczenia%20DirectAdmin&currency_code=PLN)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=tomek@regdos.com&lc=PL&item_name=Wspacie%20tlumaczenia%20DirectAdmin&currency_code=PLN)
