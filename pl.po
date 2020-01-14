@@ -1260,7 +1260,7 @@ msgstr "Typ archiwum"
 
 #: src/js/pages/admin/plugin-manager.vue:164
 msgid "Are you sure you want to activate “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz aktywować wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz aktywować wtyczkę \"%{ name }\"?"
 
 #: src/js/pages/admin/brute-force-monitor/_components/skip-ips-dialog.vue:4
 msgid "Are you sure you want to add selected IP to skip list?"
@@ -1285,11 +1285,11 @@ msgstr "Czy na pewno chcesz zablokować wybrane %{ subject }?"
 
 #: src/js/pages/admin/plugin-manager.vue:161
 msgid "Are you sure you want to deactivate “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz dezaktywować wtyczkę \"%{name}\"?"
+msgstr "Czy na pewno chcesz dezaktywować wtyczkę \"%{ name }\"?"
 
 #: src/js/pages/admin/plugin-manager.vue:176
 msgid "Are you sure you want to delete “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz usunąć wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz usunąć wtyczkę \"%{ name }\"?"
 
 #: src/js/components/global/ui/ui-dialog-delete-items.vue:7
 msgid "Are you sure you want to delete selected %{subject}?"
@@ -1313,7 +1313,7 @@ msgstr "Czy na pewno chcesz wyłączyć tę funkcję?"
 
 #: src/js/pages/admin/plugin-manager.vue:170
 msgid "Are you sure you want to install “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz zainstalować wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz zainstalować wtyczkę \"%{ name }\"?"
 
 #: src/js/pages/admin/services.vue:86
 msgid "Are you sure you want to reboot server?"
@@ -1332,7 +1332,7 @@ msgstr[2] "Czy na pewno chcesz odblokować wybrane adresy IP?"
 
 #: src/js/pages/admin/plugin-manager.vue:173
 msgid "Are you sure you want to uninstall “%{ name }” plugin?"
-msgstr "Czy na pewno chcesz odinstalować wtyczkę \"% {name}\"?"
+msgstr "Czy na pewno chcesz odinstalować wtyczkę \"%{ name }\"?"
 
 #: src/js/pages/admin/ip-manager/_dialogs/unlink-ip-dialog.vue:11
 msgid "Are you sure you want to unlink selected IP?"
