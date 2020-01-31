@@ -2,7 +2,7 @@
 
 Polish translation of DirectAdmin skin pack "Evolution".
 
-* wersja DA: **1.59.4**
+* wersja DA: **1.60.1**
 * kodowanie: **UTF-8**
 * autor: **Tomasz Regdos (regdos.com)**
 * licencja: **GPL**
@@ -16,7 +16,6 @@ Polish translation of DirectAdmin skin pack "Evolution".
 1. Zawartość katalogu `/templates/` z zachowaniem struktury katalogów należy skopiować do `/usr/local/directadmin/data/templates/`
 
    Znaczenie poszczególnych plików:
-     * `custom/mail_settings.html` - potwierdzenie założenia konta pocztowego (wyświetlane w panelu)
      * `custom/reseller_limit.txt` - mail do resellera z ostrzeżeniem o wyczerpującym się transferze
      * `custom/user_limit.txt` - mail do użytkownika z ostrzeżeniem o wyczerpującym się transferze/pojemności
      * `custom/message_tech.txt` - mail do admina/resellera o nowym zgłoszeniu
