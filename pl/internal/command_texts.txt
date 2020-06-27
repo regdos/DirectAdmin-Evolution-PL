@@ -65,7 +65,7 @@
 65=Własne konfiguracje HTTPD
 66=Przenoszenie Użytkowników pomiędzy Resellerami
 67=Konfiguracja PHP
-68=Menadżer Pluginów (wtczyek)
+68=Menadżer Pluginów (wtyczek)
 69=Backup Systemowy
 70=Przeglądarka Logów
 71=Ustawienia Multi Serwer
@@ -79,3 +79,6 @@
 79=Klucze SSH
 80=Zarządzanie certyfikatami administracyjnymi
 81=Ochrona Hotlink
+82=NGINX Unit
+83=Rspamd WebUI
+84=Serwer Netdata

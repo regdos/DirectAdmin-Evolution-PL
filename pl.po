@@ -3959,7 +3959,7 @@ msgstr "Wskaźniki Domen"
 
 #: src/js/components/local/dns/dmarc-editor.vue:4
 msgid "Domain policy type"
-msgstr "Typ polityki domen"
+msgstr "Typ polityki dla domeny"
 
 #: src/js/components/local/dns/records-table.vue:292
 msgid "Domain record was updated successfully"
@@ -6946,7 +6946,7 @@ msgstr "Filtr nawigacji"
 
 #: src/js/modules/navigation/admin.js:170
 msgid "Netdata server metrics"
-msgstr "Server Netdata"
+msgstr "Serwer Netdata"
 
 #: src/js/pages/admin/ip-manager/_dialogs/add-ip-dialog.vue:37
 #: src/js/pages/admin/ip-manager/index.vue:22
